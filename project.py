@@ -1,3 +1,6 @@
+pip install textblob
+python -m textblob.download_corpora
+
 import streamlit as st
 import pandas as pd
 from textblob import TextBlob
@@ -182,3 +185,4 @@ with tab2:
 # Footer
 st.markdown("---")
 st.markdown("Made with ❤️ using Streamlit & TextBlob")
+
