@@ -1,6 +1,3 @@
-!pip install textblob
-!pip install plotly
-
 import streamlit as st
 import pandas as pd
 from textblob import TextBlob
@@ -285,3 +282,4 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
