@@ -3,6 +3,13 @@ import requests
 
 API_KEY = "YOUR_OPENWEATHERMAP_API_KEY"
 
+API_KEY = "your_actual_api_key_here"
+city = "London"
+url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"
+response = requests.get(url)
+print(response.status_code)
+print(response.json())
+
 def get_weather(city):
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"
     response = requests.get(url)
@@ -30,3 +37,4 @@ if city:
         st.write(f"Wind Speed: {wind_speed} m/s")
     else:
         st.error("City not found or API error.")
+
