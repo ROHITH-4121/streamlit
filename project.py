@@ -1,285 +1,288 @@
 import streamlit as st
 import pandas as pd
-from textblob import TextBlob
 import plotly.express as px
-import plotly.graph_objects as go
+from datetime import datetime, date
 
 # Page configuration
-st.set_page_config(
-    page_title="Sentiment Analysis Tool",
-    page_icon="🎭",
-    layout="wide"
-)
+st.set_page_config(page_title="To-Do List", page_icon="✅", layout="wide")
 
-# Title and description
-st.title("🎭 Sentiment Analysis Tool")
-st.markdown("**Analyze emotions in text using Natural Language Processing**")
+# Title
+st.title("✅ Smart To-Do List Manager")
+st.markdown("### Organize your tasks and boost productivity")
 st.markdown("---")
 
-# Helper function to analyze sentiment
-def analyze_sentiment(text):
-    blob = TextBlob(text)
-    polarity = blob.sentiment.polarity
-    
-    # Determine sentiment category
-    if polarity > 0.1:
-        sentiment = "Positive"
-        emoji = "😊"
-        color = "#2ecc71"
-    elif polarity < -0.1:
-        sentiment = "Negative"
-        emoji = "😞"
-        color = "#e74c3c"
-    else:
-        sentiment = "Neutral"
-        emoji = "😐"
-        color = "#95a5a6"
-    
-    return {
-        "text": text,
-        "sentiment": sentiment,
-        "polarity": polarity,
-        "emoji": emoji,
-        "color": color
-    }
+# Initialize session state
+if 'tasks' not in st.session_state:
+    st.session_state.tasks = []
 
-# Sidebar for navigation
-st.sidebar.title("📊 Analysis Options")
-analysis_type = st.sidebar.radio(
-    "Choose Analysis Type:",
-    ["Single Text Analysis", "Bulk Analysis (CSV)"]
-)
+# Sidebar
+st.sidebar.header("📌 Quick Stats")
+if st.session_state.tasks:
+    total_tasks = len(st.session_state.tasks)
+    completed_tasks = len([t for t in st.session_state.tasks if t['status'] == 'Completed'])
+    pending_tasks = total_tasks - completed_tasks
+    
+    st.sidebar.metric("Total Tasks", total_tasks)
+    st.sidebar.metric("Completed", completed_tasks)
+    st.sidebar.metric("Pending", pending_tasks)
+    
+    if total_tasks > 0:
+        completion_rate = (completed_tasks / total_tasks) * 100
+        st.sidebar.metric("Completion Rate", f"{completion_rate:.1f}%")
+else:
+    st.sidebar.info("No tasks yet. Start adding tasks!")
 
-# Single Text Analysis
-if analysis_type == "Single Text Analysis":
-    st.subheader("✍️ Analyze Individual Text")
+st.sidebar.markdown("---")
+st.sidebar.header("🎯 Priority Levels")
+st.sidebar.markdown("""
+- 🔴 **High**: Urgent tasks
+- 🟡 **Medium**: Important tasks
+- 🟢 **Low**: Can wait
+""")
+
+# Main tabs
+tab1, tab2, tab3 = st.tabs(["➕ Add Task", "📋 My Tasks", "📊 Analytics"])
+
+# Tab 1: Add Task
+with tab1:
+    st.header("Create New Task")
     
-    # Text input
-    user_input = st.text_area(
-        "Enter text to analyze:",
-        height=150,
-        placeholder="Type or paste your text here... (e.g., product reviews, tweets, feedback)"
-    )
-    
-    # Example texts
-    st.markdown("**Try these examples:**")
-    col1, col2, col3 = st.columns(3)
+    col1, col2 = st.columns(2)
     
     with col1:
-        if st.button("😊 Positive Example"):
-            user_input = "This product is absolutely amazing! Best purchase I've ever made. Highly recommend!"
-            
+        task_title = st.text_input("Task Title*", placeholder="e.g., Complete project report")
+        task_description = st.text_area("Description", height=100,
+                                       placeholder="Add details about the task...")
+        task_priority = st.selectbox("Priority", ["High", "Medium", "Low"])
+    
     with col2:
-        if st.button("😞 Negative Example"):
-            user_input = "Terrible experience. Waste of money. Very disappointed with the quality."
-            
-    with col3:
-        if st.button("😐 Neutral Example"):
-            user_input = "The product is okay. Nothing special, but it works as described."
+        task_category = st.selectbox("Category", 
+                                    ["Work", "Personal", "Study", "Health", "Shopping", "Others"])
+        task_due_date = st.date_input("Due Date", min_value=date.today())
+        task_tags = st.text_input("Tags (comma-separated)", 
+                                 placeholder="e.g., urgent, meeting, deadline")
     
-    # Analyze button
-    if st.button("🔍 Analyze Sentiment", type="primary"):
-        if user_input.strip():
-            result = analyze_sentiment(user_input)
-            
-            st.markdown("---")
-            st.subheader("📈 Analysis Results")
-            
-            # Display results in columns
-            col1, col2, col3 = st.columns(3)
-            
-            with col1:
-                st.markdown(f"### {result['emoji']} Sentiment")
-                st.markdown(f"<h2 style='color: {result['color']};'>{result['sentiment']}</h2>", 
-                           unsafe_allow_html=True)
-            
-            with col2:
-                st.markdown("### 📊 Polarity Score")
-                st.markdown(f"<h2>{result['polarity']:.2f}</h2>", unsafe_allow_html=True)
-                st.caption("Range: -1 (negative) to +1 (positive)")
-            
-            with col3:
-                st.markdown("### 🎯 Confidence")
-                confidence = abs(result['polarity']) * 100
-                st.markdown(f"<h2>{confidence:.1f}%</h2>", unsafe_allow_html=True)
-                st.caption("How strong the sentiment is")
-            
-            # Gauge chart for polarity
-            fig = go.Figure(go.Indicator(
-                mode = "gauge+number",
-                value = result['polarity'],
-                domain = {'x': [0, 1], 'y': [0, 1]},
-                gauge = {
-                    'axis': {'range': [-1, 1]},
-                    'bar': {'color': result['color']},
-                    'steps': [
-                        {'range': [-1, -0.1], 'color': "#ffcccc"},
-                        {'range': [-0.1, 0.1], 'color': "#e0e0e0"},
-                        {'range': [0.1, 1], 'color': "#ccffcc"}
-                    ],
-                    'threshold': {
-                        'line': {'color': "black", 'width': 4},
-                        'thickness': 0.75,
-                        'value': result['polarity']
-                    }
-                },
-                title = {'text': "Sentiment Meter"}
-            ))
-            
-            fig.update_layout(height=300)
-            st.plotly_chart(fig, use_container_width=True)
-            
+    if st.button("➕ Add Task", type="primary", use_container_width=True):
+        if task_title:
+            new_task = {
+                'id': len(st.session_state.tasks) + 1,
+                'title': task_title,
+                'description': task_description,
+                'priority': task_priority,
+                'category': task_category,
+                'due_date': task_due_date.strftime('%Y-%m-%d'),
+                'tags': task_tags,
+                'status': 'Pending',
+                'created_at': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                'completed_at': None
+            }
+            st.session_state.tasks.append(new_task)
+            st.success("✅ Task added successfully!")
+            st.balloons()
         else:
-            st.warning("⚠️ Please enter some text to analyze!")
+            st.error("Please enter a task title!")
 
-# Bulk Analysis
-else:
-    st.subheader("📁 Bulk Sentiment Analysis")
-    st.markdown("Upload a CSV file with a column containing text data for analysis.")
+# Tab 2: My Tasks
+with tab2:
+    st.header("All Tasks")
     
-    # File uploader
-    uploaded_file = st.file_uploader("Choose a CSV file", type=['csv'])
-    
-    if uploaded_file is not None:
-        # Read CSV
-        df = pd.read_csv(uploaded_file)
+    if st.session_state.tasks:
+        # Filters
+        col1, col2, col3, col4 = st.columns(4)
         
-        st.success(f"✅ File uploaded successfully! Found {len(df)} rows.")
+        with col1:
+            filter_status = st.selectbox("Status", ["All", "Pending", "Completed"])
+        with col2:
+            categories = ["All"] + list(set([t['category'] for t in st.session_state.tasks]))
+            filter_category = st.selectbox("Category", categories)
+        with col3:
+            priorities = ["All"] + list(set([t['priority'] for t in st.session_state.tasks]))
+            filter_priority = st.selectbox("Priority", priorities)
+        with col4:
+            sort_by = st.selectbox("Sort by", ["Due Date", "Priority", "Created Date"])
         
-        # Show preview
-        with st.expander("👀 Preview Data"):
-            st.dataframe(df.head(10))
+        # Apply filters
+        filtered_tasks = st.session_state.tasks.copy()
         
-        # Select column to analyze
-        text_column = st.selectbox(
-            "Select the column containing text to analyze:",
-            df.columns.tolist()
-        )
+        if filter_status != "All":
+            filtered_tasks = [t for t in filtered_tasks if t['status'] == filter_status]
+        if filter_category != "All":
+            filtered_tasks = [t for t in filtered_tasks if t['category'] == filter_category]
+        if filter_priority != "All":
+            filtered_tasks = [t for t in filtered_tasks if t['priority'] == filter_priority]
         
-        if st.button("🚀 Analyze All Texts", type="primary"):
-            with st.spinner("Analyzing sentiments... Please wait."):
-                # Analyze all texts
-                results = []
-                for text in df[text_column]:
-                    if pd.notna(text):
-                        result = analyze_sentiment(str(text))
-                        results.append(result)
+        # Sort tasks
+        if sort_by == "Due Date":
+            filtered_tasks = sorted(filtered_tasks, key=lambda x: x['due_date'])
+        elif sort_by == "Priority":
+            priority_order = {'High': 0, 'Medium': 1, 'Low': 2}
+            filtered_tasks = sorted(filtered_tasks, key=lambda x: priority_order[x['priority']])
+        else:
+            filtered_tasks = sorted(filtered_tasks, key=lambda x: x['created_at'], reverse=True)
+        
+        st.markdown(f"**Showing {len(filtered_tasks)} task(s)**")
+        st.markdown("---")
+        
+        # Display tasks
+        for idx, task in enumerate(filtered_tasks):
+            # Priority emoji
+            priority_emoji = "🔴" if task['priority'] == "High" else "🟡" if task['priority'] == "Medium" else "🟢"
+            
+            # Status color
+            if task['status'] == 'Completed':
+                status_color = "green"
+            else:
+                due_date = datetime.strptime(task['due_date'], '%Y-%m-%d').date()
+                if due_date < date.today():
+                    status_color = "red"
+                elif due_date == date.today():
+                    status_color = "orange"
+                else:
+                    status_color = "blue"
+            
+            with st.container():
+                col1, col2 = st.columns([4, 1])
                 
-                # Create results dataframe
-                results_df = pd.DataFrame(results)
+                with col1:
+                    st.markdown(f"### {priority_emoji} {task['title']}")
+                    st.markdown(f"**Category:** {task['category']} | **Due:** {task['due_date']} | **Status:** :{status_color}[{task['status']}]")
+                    if task['description']:
+                        st.markdown(f"*{task['description']}*")
+                    if task['tags']:
+                        tags = task['tags'].split(',')
+                        tag_str = ' '.join([f"`{tag.strip()}`" for tag in tags])
+                        st.markdown(f"🏷️ {tag_str}")
+                
+                with col2:
+                    # Mark as complete/incomplete
+                    if task['status'] == 'Pending':
+                        if st.button("✅ Complete", key=f"complete_{task['id']}"):
+                            for t in st.session_state.tasks:
+                                if t['id'] == task['id']:
+                                    t['status'] = 'Completed'
+                                    t['completed_at'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                            st.success("Task completed!")
+                            st.rerun()
+                    else:
+                        if st.button("↩️ Reopen", key=f"reopen_{task['id']}"):
+                            for t in st.session_state.tasks:
+                                if t['id'] == task['id']:
+                                    t['status'] = 'Pending'
+                                    t['completed_at'] = None
+                            st.success("Task reopened!")
+                            st.rerun()
+                    
+                    # Delete button
+                    if st.button("🗑️ Delete", key=f"delete_{task['id']}"):
+                        st.session_state.tasks = [t for t in st.session_state.tasks if t['id'] != task['id']]
+                        st.success("Task deleted!")
+                        st.rerun()
                 
                 st.markdown("---")
-                st.subheader("📊 Bulk Analysis Results")
-                
-                # Summary statistics
-                col1, col2, col3, col4 = st.columns(4)
-                
-                sentiment_counts = results_df['sentiment'].value_counts()
-                
-                with col1:
-                    st.metric("Total Analyzed", len(results_df))
-                
-                with col2:
-                    positive_count = sentiment_counts.get('Positive', 0)
-                    positive_pct = (positive_count / len(results_df)) * 100
-                    st.metric("😊 Positive", f"{positive_count} ({positive_pct:.1f}%)")
-                
-                with col3:
-                    neutral_count = sentiment_counts.get('Neutral', 0)
-                    neutral_pct = (neutral_count / len(results_df)) * 100
-                    st.metric("😐 Neutral", f"{neutral_count} ({neutral_pct:.1f}%)")
-                
-                with col4:
-                    negative_count = sentiment_counts.get('Negative', 0)
-                    negative_pct = (negative_count / len(results_df)) * 100
-                    st.metric("😞 Negative", f"{negative_count} ({negative_pct:.1f}%)")
-                
-                # Visualizations
-                col1, col2 = st.columns(2)
-                
-                with col1:
-                    # Pie chart
-                    fig_pie = px.pie(
-                        sentiment_counts,
-                        values=sentiment_counts.values,
-                        names=sentiment_counts.index,
-                        title="Sentiment Distribution",
-                        color=sentiment_counts.index,
-                        color_discrete_map={
-                            'Positive': '#2ecc71',
-                            'Neutral': '#95a5a6',
-                            'Negative': '#e74c3c'
-                        }
-                    )
-                    st.plotly_chart(fig_pie, use_container_width=True)
-                
-                with col2:
-                    # Bar chart
-                    fig_bar = px.bar(
-                        sentiment_counts,
-                        x=sentiment_counts.index,
-                        y=sentiment_counts.values,
-                        title="Sentiment Count",
-                        labels={'x': 'Sentiment', 'y': 'Count'},
-                        color=sentiment_counts.index,
-                        color_discrete_map={
-                            'Positive': '#2ecc71',
-                            'Neutral': '#95a5a6',
-                            'Negative': '#e74c3c'
-                        }
-                    )
-                    st.plotly_chart(fig_bar, use_container_width=True)
-                
-                # Polarity distribution
-                fig_hist = px.histogram(
-                    results_df,
-                    x='polarity',
-                    nbins=30,
-                    title="Polarity Score Distribution",
-                    labels={'polarity': 'Polarity Score'},
-                    color_discrete_sequence=['#3498db']
-                )
-                st.plotly_chart(fig_hist, use_container_width=True)
-                
-                # Detailed results table
-                st.subheader("📋 Detailed Results")
-                display_df = results_df[['text', 'sentiment', 'polarity', 'emoji']].copy()
-                display_df.columns = ['Text', 'Sentiment', 'Polarity Score', 'Emoji']
-                st.dataframe(display_df, use_container_width=True)
-                
-                # Download results
-                csv = display_df.to_csv(index=False)
-                st.download_button(
-                    label="⬇️ Download Results as CSV",
-                    data=csv,
-                    file_name="sentiment_analysis_results.csv",
-                    mime="text/csv"
-                )
-    
     else:
-        st.info("👆 Upload a CSV file to get started with bulk analysis!")
+        st.info("📝 No tasks yet. Add your first task to get started!")
+
+# Tab 3: Analytics
+with tab3:
+    st.header("Task Analytics")
+    
+    if st.session_state.tasks:
+        df = pd.DataFrame(st.session_state.tasks)
         
-        # Sample CSV format
-        st.markdown("### 📝 Sample CSV Format")
-        st.markdown("Your CSV should have at least one column with text data. Example:")
+        # Summary metrics
+        col1, col2, col3, col4 = st.columns(4)
         
-        sample_data = {
-            'review': [
-                'This product is amazing!',
-                'Not satisfied with the quality',
-                'Average product, nothing special'
-            ],
-            'rating': [5, 2, 3]
-        }
-        st.dataframe(pd.DataFrame(sample_data))
+        total = len(df)
+        completed = len(df[df['status'] == 'Completed'])
+        pending = total - completed
+        overdue = len(df[(df['status'] == 'Pending') & (pd.to_datetime(df['due_date']).dt.date < date.today())])
+        
+        with col1:
+            st.metric("Total Tasks", total)
+        with col2:
+            st.metric("Completed", completed, delta=f"{(completed/total)*100:.0f}%" if total > 0 else "0%")
+        with col3:
+            st.metric("Pending", pending)
+        with col4:
+            st.metric("Overdue", overdue, delta="⚠️" if overdue > 0 else "✅")
+        
+        st.markdown("---")
+        
+        # Visualizations
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            # Status distribution
+            st.subheader("📊 Task Status")
+            status_counts = df['status'].value_counts()
+            fig_status = px.pie(values=status_counts.values, 
+                              names=status_counts.index,
+                              color=status_counts.index,
+                              color_discrete_map={'Completed':'#2ecc71', 'Pending':'#e74c3c'})
+            st.plotly_chart(fig_status, use_container_width=True)
+        
+        with col2:
+            # Priority distribution
+            st.subheader("🎯 Priority Distribution")
+            priority_counts = df['priority'].value_counts()
+            fig_priority = px.pie(values=priority_counts.values,
+                                names=priority_counts.index,
+                                color=priority_counts.index,
+                                color_discrete_map={'High':'#e74c3c', 'Medium':'#f39c12', 'Low':'#2ecc71'})
+            st.plotly_chart(fig_priority, use_container_width=True)
+        
+        # Category breakdown
+        st.subheader("📁 Tasks by Category")
+        category_counts = df['category'].value_counts()
+        fig_category = px.bar(x=category_counts.index, 
+                            y=category_counts.values,
+                            labels={'x': 'Category', 'y': 'Number of Tasks'},
+                            color=category_counts.values,
+                            color_continuous_scale='Blues')
+        st.plotly_chart(fig_category, use_container_width=True)
+        
+        # Upcoming tasks
+        st.subheader("📅 Upcoming Tasks (Next 7 Days)")
+        df['due_date_dt'] = pd.to_datetime(df['due_date'])
+        upcoming = df[(df['status'] == 'Pending') & 
+                     (df['due_date_dt'] >= pd.Timestamp(date.today())) &
+                     (df['due_date_dt'] <= pd.Timestamp(date.today()) + pd.Timedelta(days=7))]
+        
+        if len(upcoming) > 0:
+            upcoming_display = upcoming[['title', 'category', 'priority', 'due_date']].copy()
+            upcoming_display = upcoming_display.sort_values('due_date')
+            st.dataframe(upcoming_display, use_container_width=True, hide_index=True)
+        else:
+            st.info("No upcoming tasks in the next 7 days!")
+        
+        # Export data
+        st.markdown("---")
+        st.subheader("💾 Export Tasks")
+        
+        csv = df.to_csv(index=False)
+        st.download_button(
+            label="📥 Download as CSV",
+            data=csv,
+            file_name=f"tasks_{datetime.now().strftime('%Y%m%d')}.csv",
+            mime="text/csv"
+        )
+        
+        # Clear completed tasks
+        st.markdown("---")
+        st.subheader("🗑️ Clear Completed Tasks")
+        completed_count = len(df[df['status'] == 'Completed'])
+        
+        if completed_count > 0:
+            if st.button(f"🗑️ Clear {completed_count} Completed Task(s)", type="secondary"):
+                st.session_state.tasks = [t for t in st.session_state.tasks if t['status'] != 'Completed']
+                st.success("Completed tasks cleared!")
+                st.rerun()
+        else:
+            st.info("No completed tasks to clear!")
+        
+    else:
+        st.info("📊 No data available for analytics. Add some tasks first!")
 
 # Footer
 st.markdown("---")
-st.markdown("""
-<div style='text-align: center; color: gray;'>
-    <p>Built with Streamlit & TextBlob | NLP Sentiment Analysis Tool</p>
-    <p>💡 Tip: The polarity score ranges from -1 (most negative) to +1 (most positive)</p>
-</div>
-
-""", unsafe_allow_html=True)
-
+st.markdown("Made with ❤️ using Streamlit | Stay productive! 🚀")
