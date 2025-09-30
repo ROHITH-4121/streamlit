@@ -26,24 +26,29 @@ if st.button("Add Task"):
 
 st.subheader("📋 Your Tasks")
 if tasks.empty:
-  st.info("No tasks yet. Add one above.")
+    st.info("No tasks yet. Add one above.")
 else:
   for i, row in tasks.iterrows():
     col1, col2, col3 = st.columns([4, 2, 2])
     with col1:
       st.write(row["Task"])
     with col2:
-      if st.button("✅ Done", key=f"done{i}"):
-        tasks.at[i, "Status"] = "Completed"
-        tasks.to_csv(FILE_PATH, index=False)
-        st.experimental_rerun()
+      done_clicked = st.button("✅ Done", key=f"done{i}")
     with col3:
-      if st.button("❌ Delete", key=f"del{i}"):
-        tasks = tasks.drop(i).reset_index(drop=True)
-        tasks.to_csv(FILE_PATH, index=False)
-        st.experimental_rerun()
+      delete_clicked = st.button("❌ Delete", key=f"del{i}")
+
+    if done_clicked:
+      tasks.at[i, "Status"] = "Completed"
+      tasks.to_csv(FILE_PATH, index=False)
+      st.experimental_rerun()  # safe after updating
+
+    if delete_clicked:
+      tasks = tasks.drop(i).reset_index(drop=True)
+      tasks.to_csv(FILE_PATH, index=False)
+      st.experimental_rerun()  # safe after updating
 
 st.subheader("✔️ Completed Tasks")
 completed = tasks[tasks["Status"] == "Completed"]
 if not completed.empty:
   st.dataframe(completed)
+
