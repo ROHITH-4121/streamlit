@@ -1,9 +1,8 @@
-pip install textblob
-python -m textblob.download_corpora
-
 import streamlit as st
 import pandas as pd
 from textblob import TextBlob
+import nltk
+nltk.download('punkt')
 import plotly.express as px
 
 # Page configuration
@@ -185,4 +184,5 @@ with tab2:
 # Footer
 st.markdown("---")
 st.markdown("Made with ❤️ using Streamlit & TextBlob")
+
 
