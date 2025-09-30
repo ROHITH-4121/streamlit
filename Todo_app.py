@@ -62,3 +62,4 @@ completed = tasks[tasks["Status"] == "Completed"]
 
 if not completed.empty:
     st.dataframe(completed)
+
