@@ -1,3 +1,6 @@
+!pip install textblob
+!pip install plotly
+
 import streamlit as st
 import pandas as pd
 from textblob import TextBlob
@@ -280,4 +283,5 @@ st.markdown("""
     <p>Built with Streamlit & TextBlob | NLP Sentiment Analysis Tool</p>
     <p>💡 Tip: The polarity score ranges from -1 (most negative) to +1 (most positive)</p>
 </div>
+
 """, unsafe_allow_html=True)
