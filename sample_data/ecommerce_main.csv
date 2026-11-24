@@ -1,0 +1,1236 @@
+Customer ID,Customer Name,Age,Gender,Product ID,Product Category,Product Name,Price,Quantity,Order ID,Order Date,Payment Method,Shipping Address,Review Rating,Delivery Status
+CUST1328,Ananya Sharma,39.0,Male,PRD8658,Books,The Psychology of Money,362.07,2.0,ORD10001,2023-09-20,Cash on Delivery,"Hyderabad, Telangana",5.0,Processing
+CUST1215,Sneha Jones,32.0,,PRD5594,Clothing,Denim Jacket,2860.53,2.0,ORD10002,2024-02-03,Credit Card,"Pune, Maharashtra",4.5,Delivered
+CUST1023,Olivia Jones,31.0,female,PRD3655,Home & Kitchen,LED Desk Lamp,938.86,1.0,ORD10003,2023-01-22,UPI,"Delhi, Delhi",1.0,Shipped
+CUST1143,Siddharth Johnson,31.0,F,PRD5675,Books,Python for Data Science,703.48,3.0,ORD10004,2023-07-09,UPI,"Mumbai, Maharashtra",1.0,Returned
+CUST1162,Karan Mehta,51.0,F,PRD3413,Home & Kitchen,Coffee Maker,3949.1,1.0,ORD10005,2023-05-05,Cash on Delivery,"Jaipur, Rajasthan",4.5,Shipped
+CUST1299,Karan Johnson,42.0,Male,PRD8991,Electronics,Smart Watch,5349.53,5.0,ORD10006,2024-07-13,Cash on Delivery,"Chennai, Tamil Nadu",1.0,Cancelled
+CUST1059,Emma Wilson,28.0,M,PRD5207,Beauty,Moisturizing Cream,670.26,1.0,ORD10007,2023-09-25,Cash on Delivery,"Delhi, Delhi",3.0,Returned
+CUST1328,Arjun Taylor,39.0,female,PRD1585,Electronics,USB-C Hub,1881.43,1.0,ORD10008,2023-05-08,Debit Card,"Chandigarh, Punjab",1.0,Cancelled
+CUST1249,Ethan Verma,36.0,F,PRD8896,Beauty,Matte Lipstick,945.43,1.0,ORD10009,2023-09-25,UPI,"Kolkata, West Bengal",5.0,Delivered
+CUST1225,Lucas Miller,18.0,Male,PRD3745,Sports,Hydration Water Bottle,549.73,1.0,ORD10010,2023-04-03,UPI,"Delhi, Delhi",3.0,Cancelled
+CUST1249,Rahul Wilson,22.0,Female,PRD4805,Clothing,Track Pants,922.66,1.0,ORD10011,2024-06-14,PayPal,"Mumbai, Maharashtra",5.0,Delivered
+CUST1032,Karan Smith,37.0,female,PRD5207,Beauty,Moisturizing Cream,576.51,1.0,ORD10012,2023-08-26,Credit Card,"Jaipur, Rajasthan",1.0,Returned
+CUST1122,Pooja Williams,50.0,Male,PRD6239,Clothing,Formal Shirt,,1.0,ORD10013,2024-08-10,Cash on Delivery,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1030,Varun Wilson,31.0,Female,PRD3745,Sports,Hydration Water Bottle,551.1,1.0,ORD10014,2023-10-03,PayPal,"Delhi, Delhi",4.5,Delivered
+CUST1297,Rhea Patel,28.0,female,PRD8791,Home & Kitchen,Electric Kettle,1246.61,2.0,ORD10015,2024-11-21,PayPal,"Pune, Maharashtra",1.0,Delivered
+CUST1235,Rhea Moore,35.0,M,PRD5872,Clothing,Hooded Sweatshirt,1487.58,1.0,ORD10016,2024-09-23,Cash on Delivery,"Jaipur, Rajasthan",,Returned
+CUST1284,Neha Iyer,27.0,Male,PRD8658,Books,The Psychology of Money,380.11,2.0,ORD10017,2024-11-21,Cash on Delivery,"Ahmedabad, Gujarat",1.0,Delivered
+CUST1325,Tanvi Mehta,,male,PRD5279,Books,Atomic Habits,537.13,1.0,ORD10018,2023-02-03,Cash on Delivery,"Mumbai, Maharashtra",4.5,Processing
+CUST1076,Tanvi Gupta,,Male,PRD3413,Home & Kitchen,Coffee Maker,3458.48,1.0,ORD10019,2023-07-20,Debit Card,"Bengaluru, Karnataka",2.0,Shipped
+CUST1013,Pooja Smith,30.0,F,PRD5872,Clothing,Hooded Sweatshirt,1492.46,1.0,ORD10020,2023-08-08,PayPal,"Pune, Maharashtra",2.0,Delivered
+CUST1013,Emma Reddy,43.0,M,PRD3655,Home & Kitchen,LED Desk Lamp,998.71,1.0,ORD10021,2024-01-04,Debit Card,"Chandigarh, Punjab",3.0,Delivered
+CUST1056,Rhea Williams,20.0,female,PRD7299,Electronics,Noise Cancelling Headphones,8198.96,1.0,ORD10022,2023-09-26,UPI,"Kolkata, West Bengal",5.0,Delivered
+CUST1320,Amit Iyer,19.0,Female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2368.95,5.0,ORD10023,2023-07-22,Cash on Delivery,"Chandigarh, Punjab",4.5,Returned
+CUST1001,Neha Chopra,36.0,M,PRD4991,Beauty,Herbal Shampoo,508.13,2.0,ORD10024,2023-12-06,UPI,"Jaipur, Rajasthan",4.5,Delivered
+CUST1048,Ethan Nair,42.0,Male,PRD4636,Electronics,Gaming Mouse,1637.09,1.0,ORD10025,2023-11-19,PayPal,"Ahmedabad, Gujarat",2.0,Cancelled
+CUST1003,Lucas Iyer,35.0,F,PRD1071,Sports,Badminton Racket,1667.01,1.0,ORD10026,2024-08-22,PayPal,"Chandigarh, Punjab",4.5,Shipped
+CUST1281,Siddharth Singh,32.0,male,PRD5279,Books,Atomic Habits,527.29,1.0,ORD10027,2024-02-23,Debit Card,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1071,Vikram Nair,30.0,Female,PRD2552,Beauty,Sunscreen SPF 50,617.66,1.0,ORD10028,2023-10-23,Cash on Delivery,"Kolkata, West Bengal",3.0,Delivered
+CUST1200,Sophia Williams,28.0,male,PRD5207,Beauty,Moisturizing Cream,597.33,1.0,ORD10029,2023-07-24,PayPal,"Bengaluru, Karnataka",4.5,Delivered
+CUST1202,Varun Moore,45.0,Female,PRD5665,Clothing,Cotton T-Shirt,708.56,1.0,ORD10030,2024-07-09,UPI,"Delhi, Delhi",5.0,Processing
+CUST1027,Priya Nair,37.0,Male,PRD5532,Clothing,Slim Fit Jeans,1918.31,1.0,ORD10031,2023-02-19,PayPal,"Chennai, Tamil Nadu",2.0,Processing
+CUST1311,Olivia Iyer,29.0,female,PRD3102,Electronics,Fast Charger 65W,992.83,8.0,ORD10032,2023-04-03,Credit Card,"Chennai, Tamil Nadu",4.5,Returned
+CUST1062,Ava Moore,26.0,M,PRD1585,Electronics,USB-C Hub,,1.0,ORD10033,2024-08-04,UPI,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1268,James Mehta,40.0,Female,PRD2425,Beauty,Face Cleanser,383.59,3.0,ORD10034,2023-05-15,PayPal,"Chandigarh, Punjab",4.0,Delivered
+CUST1015,Meera Smith,45.0,M,PRD4647,Home & Kitchen,Blender Mixer,1804.17,2.0,ORD10035,2024-02-08,PayPal,"Jaipur, Rajasthan",5.0,Shipped
+CUST1331,Liam Davis,44.0,Female,PRD5751,Books,Machine Learning Hands-on,865.57,1.0,ORD10036,2024-07-24,UPI,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1062,Olivia Reddy,24.0,F,PRD5532,Clothing,Slim Fit Jeans,2161.21,3.0,ORD10037,2024-09-20,Credit Card,"Hyderabad, Telangana",3.0,Delivered
+CUST1155,Aarav Wilson,30.0,M,PRD5751,Books,Machine Learning Hands-on,786.8,,ORD10038,2024-05-16,PayPal,"Pune, Maharashtra",1.0,Delivered
+CUST1245,Ananya Verma,18.0,Male,PRD5532,Clothing,Slim Fit Jeans,1841.67,1.0,ORD10039,2024-09-25,Cash on Delivery,"Chandigarh, Punjab",2.0,Returned
+CUST1268,Karan Jones,46.0,Female,PRD4647,Home & Kitchen,Blender Mixer,2168.96,1.0,ORD10040,2023-04-21,UPI,"Delhi, Delhi",2.0,Processing
+CUST1039,Pooja Sharma,46.0,Male,PRD5872,Clothing,Hooded Sweatshirt,1519.25,2.0,ORD10041,2023-05-26,PayPal,"Delhi, Delhi",5.0,Delivered
+CUST1137,Ethan Gupta,24.0,F,PRD3550,Sports,Resistance Bands,487.04,3.0,ORD10042,2024-05-17,PayPal,"Delhi, Delhi",4.0,Cancelled
+CUST1166,Rhea Mehta,,F,PRD3745,Sports,Hydration Water Bottle,639.77,1.0,ORD10043,2023-01-25,PayPal,"Jaipur, Rajasthan",3.0,Delivered
+CUST1300,Tanvi Davis,37.0,M,PRD5675,Books,Python for Data Science,697.72,2.0,ORD10044,2023-07-27,PayPal,"Delhi, Delhi",3.0,Delivered
+CUST1207,Sophia Miller,-5.0,Male,PRD8656,Clothing,Athletic Shorts,949.66,2.0,ORD10045,2023-04-09,UPI,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1015,James Taylor,26.0,Male,PRD1071,Sports,Badminton Racket,1691.22,2.0,ORD10046,2023-02-21,PayPal,"Chennai, Tamil Nadu",3.0,Shipped
+CUST1248,Meera Nair,71.0,female,PRD5055,Sports,Dumbbell Set 10kg,2193.91,1.0,ORD10047,2023-09-09,UPI,"Chennai, Tamil Nadu",4.5,Cancelled
+CUST1251,Sophia Gupta,23.0,female,PRD4991,Beauty,Herbal Shampoo,571.45,1.0,ORD10048,2024-07-08,Credit Card,"Pune, Maharashtra",5.0,Returned
+CUST1196,Karan Gupta,18.0,female,PRD1388,Home & Kitchen,Air Fryer,6187.9,1.0,ORD10049,2024-12-05,Debit Card,"Delhi, Delhi",3.0,Delivered
+CUST1320,Liam Brown,45.0,female,PRD2552,Beauty,Sunscreen SPF 50,663.27,4.0,ORD10050,2023-10-03,UPI,"Hyderabad, Telangana",4.0,Delivered
+CUST1325,Liam Iyer,28.0,Male,PRD1388,Home & Kitchen,Air Fryer,5617.42,2.0,ORD10051,2023-10-22,Debit Card,"Bengaluru, Karnataka",4.0,Processing
+CUST1350,Sneha Davis,18.0,M,PRD2552,Beauty,Sunscreen SPF 50,659.59,1.0,ORD10052,2023-09-06,PayPal,"Pune, Maharashtra",3.0,Cancelled
+CUST1218,Liam Mehta,31.0,Female,PRD4636,Electronics,Gaming Mouse,1459.98,1.0,ORD10053,2024-01-27,UPI,"Mumbai, Maharashtra",5.0,Returned
+CUST1026,Mia Taylor,29.0,male,PRD3550,Sports,Resistance Bands,480.37,4.0,ORD10054,2023-11-22,Credit Card,"Mumbai, Maharashtra",4.0,Delivered
+CUST1297,Priya Gupta,39.0,male,PRD5532,Clothing,Slim Fit Jeans,1981.94,3.0,ORD10055,2023-05-27,UPI,"Ahmedabad, Gujarat",3.0,Cancelled
+CUST1174,Ava Iyer,46.0,male,PRD4519,Books,Deep Work,446.15,3.0,ORD10056,2023-01-09,PayPal,"Pune, Maharashtra",5.0,Delivered
+CUST1300,Karan Johnson,49.0,,PRD3550,Sports,Resistance Bands,456.99,3.0,ORD10057,2024-12-10,Credit Card,"Bengaluru, Karnataka",,Delivered
+CUST1156,Meera Iyer,35.0,Female,PRD3655,Home & Kitchen,LED Desk Lamp,930.51,1.0,ORD10058,2024-12-05,Credit Card,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1190,Rahul Jones,31.0,F,PRD4647,Home & Kitchen,Blender Mixer,1829.36,1.0,ORD10059,2024-02-28,Credit Card,"Hyderabad, Telangana",4.5,Delivered
+CUST1026,Ava Smith,29.0,Male,PRD5055,Sports,Dumbbell Set 10kg,1915.54,3.0,ORD10060,2024-10-01,Debit Card,"Bengaluru, Karnataka",2.0,Delivered
+CUST1339,Sophia Sharma,18.0,female,PRD1388,Home & Kitchen,Air Fryer,6511.49,1.0,ORD10061,2024-12-03,PayPal,"Pune, Maharashtra",1.0,Shipped
+CUST1258,Sneha Taylor,,F,PRD3550,Sports,Resistance Bands,456.69,1.0,ORD10062,2023-07-14,PayPal,"Ahmedabad, Gujarat",1.0,Delivered
+CUST1312,Vikram Verma,37.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2532.56,1.0,ORD10063,2023-02-26,Cash on Delivery,"Hyderabad, Telangana",2.0,Shipped
+CUST1174,Ethan Jones,32.0,M,PRD5279,Books,Atomic Habits,564.24,1.0,ORD10064,2024-02-03,Credit Card,"Pune, Maharashtra",4.5,Delivered
+CUST1301,Isha Wilson,38.0,F,PRD2425,Beauty,Face Cleanser,390.27,2.0,ORD10065,2023-09-07,PayPal,"Hyderabad, Telangana",3.0,Returned
+CUST1285,Priya Iyer,36.0,female,PRD3745,Sports,Hydration Water Bottle,630.3,5.0,ORD10066,2023-12-09,Debit Card,"Chennai, Tamil Nadu",3.0,Delivered
+CUST1180,Aarav Singh,33.0,male,PRD5675,Books,Python for Data Science,646.13,1.0,ORD10067,2024-03-12,UPI,"Chandigarh, Punjab",1.0,Delivered
+CUST1081,Noah Taylor,,Female,PRD4519,Books,Deep Work,435.73,1.0,ORD10068,2024-02-12,Credit Card,"Chennai, Tamil Nadu",4.5,Shipped
+CUST1270,Emma Chopra,,female,PRD1423,Electronics,Wireless Earbuds,3274.42,1.0,ORD10069,2023-05-11,Credit Card,"Ahmedabad, Gujarat",2.0,Delivered
+CUST1195,Isha Nair,34.0,Male,PRD2425,Beauty,Face Cleanser,450.99,1.0,ORD10070,2024-10-14,PayPal,"Chennai, Tamil Nadu",1.0,Delivered
+CUST1088,Ava Taylor,61.0,Female,PRD4636,Electronics,Gaming Mouse,1378.57,1.0,ORD10071,2023-12-11,UPI,"Bengaluru, Karnataka",5.0,Delivered
+CUST1272,Arjun Reddy,31.0,F,PRD5532,Clothing,Slim Fit Jeans,1885.81,1.0,ORD10072,2023-11-03,PayPal,"Ahmedabad, Gujarat",4.5,Shipped
+CUST1349,Mia Moore,37.0,F,PRD3413,Home & Kitchen,Coffee Maker,3701.4,1.0,ORD10073,2024-10-02,Cash on Delivery,"Delhi, Delhi",4.0,Delivered
+CUST1030,Priya Chopra,46.0,female,PRD3745,Sports,Hydration Water Bottle,682.0,1.0,ORD10074,2023-01-15,UPI,"Chandigarh, Punjab",2.0,Delivered
+CUST1231,Ananya Smith,42.0,Male,PRD5594,Clothing,Denim Jacket,3091.03,2.0,ORD10075,2024-06-10,PayPal,"Pune, Maharashtra",1.0,Returned
+CUST1324,James Smith,49.0,M,PRD3655,Home & Kitchen,LED Desk Lamp,944.56,2.0,ORD10076,2023-02-19,UPI,"Chennai, Tamil Nadu",5.0,Cancelled
+CUST1201,Vikram Taylor,18.0,F,PRD3413,Home & Kitchen,Coffee Maker,3795.34,1.0,ORD10077,2024-09-03,Cash on Delivery,"Pune, Maharashtra",,Delivered
+CUST1093,Rahul Smith,23.0,male,PRD5665,Clothing,Cotton T-Shirt,717.82,1.0,ORD10078,2023-12-17,UPI,"Chandigarh, Punjab",4.0,Delivered
+CUST1084,Pooja Taylor,27.0,Female,PRD3655,Home & Kitchen,LED Desk Lamp,946.33,2.0,ORD10079,2023-08-08,UPI,"Ahmedabad, Gujarat",2.0,Delivered
+CUST1348,Varun Jones,18.0,female,PRD5207,Beauty,Moisturizing Cream,559.83,2.0,ORD10080,2024-11-16,Cash on Delivery,"Delhi, Delhi",4.5,Returned
+CUST1064,Neha Verma,34.0,male,PRD6904,Beauty,Vitamin C Serum,809.21,1.0,ORD10081,2023-01-14,PayPal,"Jaipur, Rajasthan",4.0,Delivered
+CUST1192,Sneha Sharma,23.0,M,PRD5532,Clothing,Slim Fit Jeans,2035.21,4.0,ORD10082,2024-12-16,Cash on Delivery,"Mumbai, Maharashtra",1.0,Delivered
+CUST1111,Ethan Gupta,51.0,Male,PRD3413,Home & Kitchen,Coffee Maker,3516.34,1.0,ORD10083,2023-08-03,PayPal,"Chandigarh, Punjab",5.0,Processing
+CUST1295,Sneha Gupta,160.0,Female,PRD5594,Clothing,Denim Jacket,2969.46,1.0,ORD10084,2023-09-17,PayPal,"Ahmedabad, Gujarat",,Shipped
+CUST1192,Aditya Sharma,30.0,F,PRD5675,Books,Python for Data Science,639.03,2.0,ORD10085,2023-09-11,PayPal,"Ahmedabad, Gujarat",2.0,Delivered
+CUST1235,Diya Chopra,40.0,M,PRD4647,Home & Kitchen,Blender Mixer,2035.68,3.0,ORD10086,2024-11-07,UPI,"Mumbai, Maharashtra",3.0,Delivered
+CUST1064,Ava Johnson,49.0,Female,PRD3413,Home & Kitchen,Coffee Maker,3957.64,1.0,ORD10087,2024-02-24,Credit Card,"Kolkata, West Bengal",2.0,Processing
+CUST1151,Amit Iyer,61.0,female,PRD4519,Books,Deep Work,455.3,1.0,ORD10088,2024-06-20,UPI,"Mumbai, Maharashtra",5.0,Shipped
+CUST1187,Arjun Singh,18.0,Female,PRD3142,Electronics,Bluetooth Speaker,1982.17,1.0,ORD10089,2023-10-02,PayPal,"Pune, Maharashtra",1.0,Processing
+CUST1071,Arjun Johnson,47.0,Male,PRD3142,Electronics,Bluetooth Speaker,2079.8,2.0,ORD10090,2024-05-23,Debit Card,"Chandigarh, Punjab",4.0,Delivered
+CUST1063,Vikram Verma,40.0,Male,PRD5279,Books,Atomic Habits,517.71,1.0,ORD10091,2023-05-28,Debit Card,"Pune, Maharashtra",1.0,Delivered
+CUST1072,Sneha Davis,,M,PRD8896,Beauty,Matte Lipstick,823.88,1.0,ORD10092,2024-12-24,Cash on Delivery,"Kolkata, West Bengal",4.5,Delivered
+CUST1065,Amit Verma,47.0,female,PRD8658,Books,The Psychology of Money,402.25,3.0,ORD10093,2023-01-27,Cash on Delivery,"Bengaluru, Karnataka",2.0,Delivered
+CUST1116,Priya Miller,37.0,F,PRD3550,Sports,Resistance Bands,515.65,1.0,ORD10094,2023-03-19,Debit Card,"Chandigarh, Punjab",4.5,Delivered
+CUST1289,Diya Sharma,26.0,M,PRD5751,Books,Machine Learning Hands-on,900.79,1.0,ORD10095,2024-11-18,UPI,"Ahmedabad, Gujarat",5.0,Shipped
+CUST1153,Siddharth Verma,54.0,Female,PRD5872,Clothing,Hooded Sweatshirt,1618.31,2.0,ORD10096,2023-06-13,UPI,"Jaipur, Rajasthan",3.0,Delivered
+CUST1239,Ananya Mehta,39.0,Female,PRD1071,Sports,Badminton Racket,1408.95,1.0,ORD10097,2024-10-24,Debit Card,"Bengaluru, Karnataka",4.5,Shipped
+CUST1256,Lucas Chopra,23.0,Female,PRD5532,Clothing,Slim Fit Jeans,1939.71,1.0,ORD10098,2024-11-22,UPI,"Jaipur, Rajasthan",,Delivered
+CUST1221,Vikram Mehta,42.0,Female,PRD4636,Electronics,Gaming Mouse,1493.88,2.0,ORD10099,2023-09-09,Debit Card,"Delhi, Delhi",3.0,Processing
+CUST1188,Noah Gupta,44.0,Male,PRD3142,Electronics,Bluetooth Speaker,2058.64,2.0,ORD10100,2024-09-05,Cash on Delivery,"Pune, Maharashtra",4.5,Cancelled
+CUST1154,Varun Smith,38.0,female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2670.06,2.0,ORD10101,2023-10-10,Cash on Delivery,"Ahmedabad, Gujarat",5.0,Returned
+CUST1297,Varun Nair,31.0,F,PRD8658,Books,The Psychology of Money,441.06,1.0,ORD10102,2023-10-23,Debit Card,"Mumbai, Maharashtra",4.0,Delivered
+CUST1212,Liam Reddy,25.0,F,PRD5675,Books,Python for Data Science,676.14,1.0,ORD10103,2024-08-17,UPI,"Bengaluru, Karnataka",4.5,Delivered
+CUST1280,Priya Mehta,33.0,female,PRD3413,Home & Kitchen,Coffee Maker,3823.68,3.0,ORD10104,2024-12-23,UPI,"Ahmedabad, Gujarat",5.0,Delivered
+CUST1148,Ananya Moore,37.0,M,PRD5872,Clothing,Hooded Sweatshirt,1378.72,2.0,ORD10105,2024-11-09,Debit Card,"Hyderabad, Telangana",3.0,Processing
+CUST1140,Vikram Iyer,34.0,F,PRD5055,Sports,Dumbbell Set 10kg,2005.65,2.0,ORD10106,2023-02-22,Credit Card,"Jaipur, Rajasthan",2.0,Shipped
+CUST1335,Mia Davis,49.0,M,PRD3655,Home & Kitchen,LED Desk Lamp,955.7,1.0,ORD10107,2023-12-24,Debit Card,"Kolkata, West Bengal",2.0,Delivered
+CUST1204,Ava Davis,40.0,M,PRD1423,Electronics,Wireless Earbuds,3395.21,1.0,ORD10108,2024-08-21,Debit Card,"Jaipur, Rajasthan",2.0,Returned
+CUST1058,Amit Singh,24.0,Male,PRD5279,Books,Atomic Habits,543.57,1.0,ORD10109,2024-11-13,Cash on Delivery,"Pune, Maharashtra",5.0,Delivered
+CUST1095,Vikram Davis,22.0,male,PRD2552,Beauty,Sunscreen SPF 50,701.39,,ORD10110,2023-11-12,Credit Card,"Delhi, Delhi",2.0,Shipped
+CUST1258,Mia Chopra,39.0,M,PRD5055,Sports,Dumbbell Set 10kg,1875.65,4.0,ORD10111,2024-10-12,Cash on Delivery,"Ahmedabad, Gujarat",5.0,Returned
+CUST1112,Noah Nair,32.0,female,PRD8896,Beauty,Matte Lipstick,935.9,5.0,ORD10112,2023-09-17,Cash on Delivery,"Jaipur, Rajasthan",3.0,Returned
+CUST1267,Siddharth Iyer,42.0,female,PRD6904,Beauty,Vitamin C Serum,810.35,5.0,ORD10113,2024-08-22,Credit Card,"Kolkata, West Bengal",1.0,Cancelled
+CUST1112,Varun Verma,,Male,PRD2162,Sports,Yoga Mat Pro,1132.31,3.0,ORD10114,2023-07-06,PayPal,"Pune, Maharashtra",4.0,Shipped
+CUST1194,Karan Verma,24.0,F,PRD1388,Home & Kitchen,Air Fryer,6192.23,3.0,ORD10115,2023-04-27,Credit Card,"Chennai, Tamil Nadu",5.0,Processing
+CUST1218,Isha Brown,18.0,M,PRD5594,Clothing,Denim Jacket,3194.08,1.0,ORD10116,2023-01-08,Credit Card,"Delhi, Delhi",4.0,Processing
+CUST1345,Liam Patel,36.0,female,PRD4805,Clothing,Track Pants,1024.95,4.0,ORD10117,2024-12-19,Cash on Delivery,"Chandigarh, Punjab",3.0,Delivered
+CUST1155,Lucas Gupta,20.0,M,PRD3142,Electronics,Bluetooth Speaker,2046.79,2.0,ORD10118,2024-11-22,Cash on Delivery,"Pune, Maharashtra",4.0,Delivered
+CUST1154,Karan Singh,24.0,M,PRD5751,Books,Machine Learning Hands-on,884.51,2.0,ORD10119,2023-09-17,PayPal,"Hyderabad, Telangana",3.0,Cancelled
+CUST1041,Mia Jones,35.0,male,PRD3102,Electronics,Fast Charger 65W,908.98,8.0,ORD10120,2023-10-24,PayPal,"Hyderabad, Telangana",3.0,Delivered
+CUST1008,Rahul Reddy,34.0,Female,PRD5594,Clothing,Denim Jacket,3385.22,3.0,ORD10121,2024-05-13,Cash on Delivery,"Pune, Maharashtra",3.0,Processing
+CUST1255,Siddharth Iyer,21.0,M,PRD5872,Clothing,Hooded Sweatshirt,1672.92,2.0,ORD10122,2024-01-09,UPI,"Bengaluru, Karnataka",2.0,Shipped
+CUST1292,Ethan Nair,45.0,M,PRD2425,Beauty,Face Cleanser,375.88,1.0,ORD10123,2024-03-05,Debit Card,"Jaipur, Rajasthan",1.0,Processing
+CUST1018,Ethan Verma,45.0,Female,PRD4805,Clothing,Track Pants,936.82,1.0,ORD10124,2023-08-12,Cash on Delivery,"Chandigarh, Punjab",5.0,Shipped
+CUST1009,Aarav Wilson,39.0,M,PRD3550,Sports,Resistance Bands,,3.0,ORD10125,2023-11-14,Credit Card,"Delhi, Delhi",2.0,Delivered
+CUST1318,Arjun Mehta,39.0,M,PRD4991,Beauty,Herbal Shampoo,477.28,4.0,ORD10126,2023-02-21,Credit Card,"Kolkata, West Bengal",4.5,Shipped
+CUST1029,James Sharma,39.0,F,PRD4647,Home & Kitchen,Blender Mixer,2246.27,2.0,ORD10127,2024-04-07,UPI,"Mumbai, Maharashtra",5.0,Delivered
+CUST1279,Varun Patel,75.0,,PRD8656,Clothing,Athletic Shorts,993.6,2.0,ORD10128,2023-05-06,Cash on Delivery,"Kolkata, West Bengal",4.5,Delivered
+CUST1197,Noah Gupta,44.0,F,PRD1388,Home & Kitchen,Air Fryer,5513.11,3.0,ORD10129,2024-10-20,UPI,"Mumbai, Maharashtra",4.0,Shipped
+CUST1117,Priya Wilson,41.0,F,PRD6904,Beauty,Vitamin C Serum,768.33,1.0,ORD10130,2024-05-05,Debit Card,"Kolkata, West Bengal",1.0,Delivered
+CUST1003,Neha Jones,25.0,male,PRD4991,Beauty,Herbal Shampoo,461.99,2.0,ORD10131,2024-09-03,PayPal,"Mumbai, Maharashtra",4.0,Returned
+CUST1044,Olivia Wilson,31.0,male,PRD4519,Books,Deep Work,435.2,1.0,ORD10132,2024-03-14,PayPal,"Chennai, Tamil Nadu",1.0,Delivered
+CUST1129,Sneha Davis,59.0,M,PRD7299,Electronics,Noise Cancelling Headphones,9908.07,1.0,ORD10133,2023-06-14,UPI,"Pune, Maharashtra",5.0,Delivered
+CUST1246,Amit Singh,18.0,F,PRD4519,Books,Deep Work,441.66,2.0,ORD10134,2023-07-12,Cash on Delivery,"Hyderabad, Telangana",4.5,Delivered
+CUST1350,Noah Wilson,,F,PRD6239,Clothing,Formal Shirt,1191.56,1.0,ORD10135,2024-07-22,Debit Card,"Chennai, Tamil Nadu",5.0,Delivered
+CUST1217,Ava Brown,24.0,Female,PRD3745,Sports,Hydration Water Bottle,601.74,1.0,ORD10136,2023-06-23,Credit Card,"Hyderabad, Telangana",3.0,Delivered
+CUST1332,Rhea Patel,30.0,M,PRD6904,Beauty,Vitamin C Serum,,2.0,ORD10137,2023-09-24,PayPal,"Pune, Maharashtra",5.0,Processing
+CUST1257,Vikram Johnson,40.0,Male,PRD3142,Electronics,Bluetooth Speaker,2191.04,1.0,ORD10138,2023-06-16,PayPal,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1059,Aarav Smith,20.0,F,PRD8656,Clothing,Athletic Shorts,934.93,1.0,ORD10139,2024-04-26,Debit Card,"Bengaluru, Karnataka",4.0,Shipped
+CUST1015,Olivia Taylor,60.0,Male,PRD5751,Books,Machine Learning Hands-on,936.86,2.0,ORD10140,2023-02-26,UPI,"Pune, Maharashtra",1.0,Delivered
+CUST1344,Sophia Davis,54.0,female,PRD8896,Beauty,Matte Lipstick,912.0,2.0,ORD10141,2024-11-23,Cash on Delivery,"Chandigarh, Punjab",2.0,Delivered
+CUST1061,Sneha Chopra,34.0,Female,PRD8896,Beauty,Matte Lipstick,850.85,1.0,ORD10142,2023-12-21,Cash on Delivery,"Bengaluru, Karnataka",2.0,Delivered
+CUST1162,Ethan Jones,38.0,Female,PRD5532,Clothing,Slim Fit Jeans,2051.69,2.0,ORD10143,2024-11-16,PayPal,"Ahmedabad, Gujarat",4.5,Delivered
+CUST1113,Neha Patel,29.0,Female,PRD1071,Sports,Badminton Racket,1391.9,1.0,ORD10144,2023-06-18,PayPal,"Jaipur, Rajasthan",4.0,Delivered
+CUST1335,Noah Nair,18.0,M,PRD4748,Electronics,Tablet 10-inch,17646.45,1.0,ORD10145,2024-12-19,Cash on Delivery,"Kolkata, West Bengal",2.0,Returned
+CUST1106,Ethan Reddy,25.0,female,PRD5055,Sports,Dumbbell Set 10kg,1943.69,1.0,ORD10146,2023-09-22,Debit Card,"Kolkata, West Bengal",3.0,Returned
+CUST1336,Vikram Gupta,52.0,F,PRD4991,Beauty,Herbal Shampoo,527.42,1.0,ORD10147,2023-02-21,PayPal,"Jaipur, Rajasthan",5.0,Delivered
+CUST1233,Meera Smith,37.0,Male,PRD4519,Books,Deep Work,500.64,2.0,ORD10148,2024-07-07,Debit Card,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1281,Varun Gupta,18.0,F,PRD1423,Electronics,Wireless Earbuds,3043.67,2.0,ORD10149,2024-03-15,Credit Card,"Kolkata, West Bengal",5.0,Delivered
+CUST1333,Neha Singh,38.0,M,PRD1388,Home & Kitchen,Air Fryer,5647.35,2.0,ORD10150,2023-05-24,PayPal,"Delhi, Delhi",1.0,Delivered
+CUST1245,Rohan Gupta,52.0,Male,PRD5279,Books,Atomic Habits,501.78,1.0,ORD10151,2024-02-08,Credit Card,"Delhi, Delhi",3.0,Delivered
+CUST1071,Karan Gupta,25.0,female,PRD3142,Electronics,Bluetooth Speaker,2112.98,2.0,ORD10152,2024-07-20,Debit Card,"Delhi, Delhi",2.0,Returned
+CUST1064,Varun Brown,19.0,male,PRD3655,Home & Kitchen,LED Desk Lamp,943.95,1.0,ORD10153,2024-12-01,Debit Card,"Jaipur, Rajasthan",2.0,Cancelled
+CUST1201,Neha Patel,31.0,Female,PRD4636,Electronics,Gaming Mouse,1547.08,1.0,ORD10154,2023-06-11,PayPal,"Chandigarh, Punjab",4.5,Cancelled
+CUST1089,Noah Davis,54.0,,PRD1423,Electronics,Wireless Earbuds,2744.44,1.0,ORD10155,2024-09-10,PayPal,"Kolkata, West Bengal",4.5,Processing
+CUST1316,Vikram Mehta,19.0,male,PRD3550,Sports,Resistance Bands,553.21,1.0,ORD10156,2024-02-10,Debit Card,"Mumbai, Maharashtra",4.0,Delivered
+CUST1233,Rhea Taylor,32.0,male,PRD1423,Electronics,Wireless Earbuds,2821.93,1.0,ORD10157,2024-09-17,Debit Card,"Pune, Maharashtra",3.0,Cancelled
+CUST1061,Noah Sharma,50.0,M,PRD8658,Books,The Psychology of Money,410.05,1.0,ORD10158,2024-10-06,Debit Card,"Chennai, Tamil Nadu",4.5,Cancelled
+CUST1060,Sneha Miller,,Male,PRD5665,Clothing,Cotton T-Shirt,655.33,1.0,ORD10159,2024-01-18,Debit Card,"Pune, Maharashtra",5.0,Delivered
+CUST1139,Ethan Verma,48.0,Male,PRD5532,Clothing,Slim Fit Jeans,2275.9,2.0,ORD10160,2024-08-28,UPI,"Pune, Maharashtra",4.0,Delivered
+CUST1189,Rahul Chopra,46.0,Female,PRD4647,Home & Kitchen,Blender Mixer,2186.85,2.0,ORD10161,2023-09-25,Debit Card,"Mumbai, Maharashtra",1.0,Delivered
+CUST1278,Priya Sharma,-5.0,F,PRD5279,Books,Atomic Habits,478.81,1.0,ORD10162,2024-01-05,Credit Card,"Mumbai, Maharashtra",4.5,Shipped
+CUST1191,Siddharth Verma,34.0,Female,PRD1423,Electronics,Wireless Earbuds,2876.62,1.0,ORD10163,2024-06-26,UPI,"Pune, Maharashtra",2.0,Delivered
+CUST1104,Vikram Moore,31.0,M,PRD6904,Beauty,Vitamin C Serum,760.58,2.0,ORD10164,2023-05-28,Credit Card,"Bengaluru, Karnataka",3.0,Returned
+CUST1309,Diya Reddy,34.0,male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2411.64,4.0,ORD10165,2024-01-13,Cash on Delivery,"Jaipur, Rajasthan",4.0,Delivered
+CUST1072,Ananya Sharma,18.0,male,PRD2552,Beauty,Sunscreen SPF 50,597.74,2.0,ORD10166,2023-02-01,Debit Card,"Ahmedabad, Gujarat",1.0,Returned
+CUST1170,Ananya Patel,48.0,Female,PRD4519,Books,Deep Work,453.0,1.0,ORD10167,2024-03-09,PayPal,"Bengaluru, Karnataka",,Processing
+CUST1316,Sneha Chopra,41.0,Male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2801.79,1.0,ORD10168,2023-11-26,PayPal,"Pune, Maharashtra",4.0,Delivered
+CUST1290,Arjun Smith,34.0,male,PRD3102,Electronics,Fast Charger 65W,1031.33,5.0,ORD10169,2023-04-06,Debit Card,"Hyderabad, Telangana",5.0,Delivered
+CUST1113,Varun Brown,28.0,male,PRD8656,Clothing,Athletic Shorts,889.74,1.0,ORD10170,2024-12-23,Cash on Delivery,"Chandigarh, Punjab",2.0,Returned
+CUST1253,Isha Chopra,36.0,female,PRD5665,Clothing,Cotton T-Shirt,10485.0,3.0,ORD10171,2023-06-23,UPI,"Mumbai, Maharashtra",,Processing
+CUST1073,Noah Iyer,27.0,M,PRD4519,Books,Deep Work,441.29,2.0,ORD10172,2024-12-14,UPI,"Bengaluru, Karnataka",4.5,Cancelled
+CUST1315,Ava Johnson,30.0,M,PRD5279,Books,Atomic Habits,567.46,2.0,ORD10173,2023-07-28,Debit Card,"Chandigarh, Punjab",4.5,Delivered
+CUST1328,Varun Iyer,37.0,male,PRD8791,Home & Kitchen,Electric Kettle,1197.91,3.0,ORD10174,2024-11-24,PayPal,"Mumbai, Maharashtra",2.0,Cancelled
+CUST1035,Priya Mehta,40.0,Female,PRD4519,Books,Deep Work,460.47,1.0,ORD10175,2023-09-13,PayPal,"Chandigarh, Punjab",5.0,Delivered
+CUST1084,Siddharth Verma,40.0,,PRD1388,Home & Kitchen,Air Fryer,5962.19,3.0,ORD10176,2024-09-03,Cash on Delivery,"Chandigarh, Punjab",5.0,Delivered
+CUST1221,James Singh,26.0,M,PRD5532,Clothing,Slim Fit Jeans,2261.66,8.0,ORD10177,2024-11-10,Debit Card,"Delhi, Delhi",,Processing
+CUST1282,Ethan Davis,18.0,M,PRD8658,Books,The Psychology of Money,379.74,2.0,ORD10178,2023-02-16,UPI,"Kolkata, West Bengal",5.0,Delivered
+CUST1047,James Wilson,20.0,male,PRD6904,Beauty,Vitamin C Serum,764.29,1.0,ORD10179,2023-01-05,Credit Card,"Pune, Maharashtra",4.0,Returned
+CUST1302,Sneha Wilson,51.0,female,PRD4519,Books,Deep Work,438.62,2.0,ORD10180,2023-12-02,Credit Card,"Ahmedabad, Gujarat",2.0,Delivered
+CUST1099,Vikram Patel,29.0,F,PRD4805,Clothing,Track Pants,1080.69,1.0,ORD10181,2024-02-13,Cash on Delivery,"Pune, Maharashtra",4.5,Shipped
+CUST1007,Ava Taylor,34.0,male,PRD8656,Clothing,Athletic Shorts,1020.29,3.0,ORD10182,2023-10-25,UPI,"Jaipur, Rajasthan",4.0,Delivered
+CUST1197,James Davis,44.0,Female,PRD8656,Clothing,Athletic Shorts,817.82,1.0,ORD10183,2023-06-23,Credit Card,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1173,Ethan Chopra,31.0,F,PRD4636,Electronics,Gaming Mouse,1515.16,1.0,ORD10184,2024-05-24,Cash on Delivery,"Delhi, Delhi",2.0,Returned
+CUST1209,Olivia Davis,43.0,female,PRD5665,Clothing,Cotton T-Shirt,652.8,4.0,ORD10185,2023-10-01,Debit Card,"Hyderabad, Telangana",2.0,Delivered
+CUST1234,Diya Johnson,31.0,female,PRD2425,Beauty,Face Cleanser,383.23,5.0,ORD10186,2024-08-06,Cash on Delivery,"Jaipur, Rajasthan",2.0,Returned
+CUST1133,Olivia Verma,27.0,female,PRD4805,Clothing,Track Pants,950.73,5.0,ORD10187,2023-09-01,PayPal,"Bengaluru, Karnataka",4.5,Returned
+CUST1005,Sneha Mehta,55.0,F,PRD5279,Books,Atomic Habits,492.6,1.0,ORD10188,2024-08-10,Cash on Delivery,"Delhi, Delhi",,Cancelled
+CUST1192,Isha Taylor,45.0,Male,PRD8791,Home & Kitchen,Electric Kettle,1253.91,1.0,ORD10189,2023-11-10,Debit Card,"Jaipur, Rajasthan",1.0,Returned
+CUST1308,Karan Smith,47.0,M,PRD4244,Home & Kitchen,Non-stick Cookware Set,2613.34,2.0,ORD10190,2023-04-11,Cash on Delivery,"Ahmedabad, Gujarat",5.0,Delivered
+CUST1260,Neha Singh,20.0,Male,PRD5207,Beauty,Moisturizing Cream,622.81,2.0,ORD10191,2023-11-11,Debit Card,"Pune, Maharashtra",3.0,Shipped
+CUST1170,Priya Mehta,26.0,Male,PRD8658,Books,The Psychology of Money,406.2,1.0,ORD10192,2024-02-28,Cash on Delivery,"Chennai, Tamil Nadu",2.0,Delivered
+CUST1103,Amit Williams,33.0,male,PRD3655,Home & Kitchen,LED Desk Lamp,883.86,1.0,ORD10193,2023-06-21,Credit Card,"Ahmedabad, Gujarat",2.0,Processing
+CUST1082,Meera Verma,30.0,Female,PRD4991,Beauty,Herbal Shampoo,,1.0,ORD10194,2023-12-12,UPI,"Jaipur, Rajasthan",5.0,Delivered
+CUST1321,Olivia Nair,42.0,Male,PRD8896,Beauty,Matte Lipstick,994.26,1.0,ORD10195,2024-05-15,PayPal,"Bengaluru, Karnataka",4.0,Delivered
+CUST1097,Pooja Brown,,male,PRD5594,Clothing,Denim Jacket,,2.0,ORD10196,2023-02-12,PayPal,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1305,Diya Iyer,24.0,Female,PRD4991,Beauty,Herbal Shampoo,536.66,1.0,ORD10197,2023-11-21,UPI,"Kolkata, West Bengal",5.0,Processing
+CUST1139,Rhea Taylor,36.0,female,PRD8658,Books,The Psychology of Money,369.7,2.0,ORD10198,2024-04-25,Cash on Delivery,"Hyderabad, Telangana",4.0,Delivered
+CUST1083,Diya Wilson,28.0,M,PRD5665,Clothing,Cotton T-Shirt,,1.0,ORD10199,2024-02-27,Debit Card,"Delhi, Delhi",1.0,Cancelled
+CUST1052,Lucas Mehta,36.0,M,PRD6904,Beauty,Vitamin C Serum,726.98,8.0,ORD10200,2024-11-11,Credit Card,"Delhi, Delhi",1.0,Delivered
+CUST1071,Emma Singh,18.0,M,PRD5675,Books,Python for Data Science,603.5,3.0,ORD10201,2024-08-09,PayPal,"Kolkata, West Bengal",2.0,Delivered
+CUST1068,Liam Patel,18.0,female,PRD8896,Beauty,Matte Lipstick,894.45,4.0,ORD10202,2023-01-28,PayPal,"Ahmedabad, Gujarat",4.0,Shipped
+CUST1024,Rohan Mehta,26.0,female,PRD8658,Books,The Psychology of Money,454.44,2.0,ORD10203,2023-09-17,PayPal,"Hyderabad, Telangana",5.0,Cancelled
+CUST1329,Karan Gupta,31.0,Male,PRD3142,Electronics,Bluetooth Speaker,2046.89,2.0,ORD10204,2023-08-11,UPI,"Chennai, Tamil Nadu",,Delivered
+CUST1282,James Brown,43.0,female,PRD6904,Beauty,Vitamin C Serum,742.81,1.0,ORD10205,2023-11-01,PayPal,"Kolkata, West Bengal",,Processing
+CUST1001,Ethan Verma,32.0,female,PRD5055,Sports,Dumbbell Set 10kg,1969.44,1.0,ORD10206,2024-04-28,UPI,"Jaipur, Rajasthan",4.5,Shipped
+CUST1337,Priya Jones,33.0,M,PRD3655,Home & Kitchen,LED Desk Lamp,926.42,1.0,ORD10207,2024-01-06,Debit Card,"Kolkata, West Bengal",4.5,Delivered
+CUST1097,Ananya Brown,30.0,M,PRD7299,Electronics,Noise Cancelling Headphones,9611.25,1.0,ORD10208,2023-08-15,PayPal,"Mumbai, Maharashtra",1.0,Processing
+CUST1222,Ethan Moore,37.0,male,PRD8658,Books,The Psychology of Money,369.43,2.0,ORD10209,2024-10-11,PayPal,"Chandigarh, Punjab",2.0,Delivered
+CUST1204,Amit Chopra,24.0,F,PRD8658,Books,The Psychology of Money,444.96,2.0,ORD10210,2023-09-21,Debit Card,"Hyderabad, Telangana",3.0,Cancelled
+CUST1177,Mia Gupta,32.0,female,PRD3550,Sports,Resistance Bands,519.24,1.0,ORD10211,2024-11-23,Cash on Delivery,"Chennai, Tamil Nadu",4.0,Returned
+CUST1007,Arjun Iyer,,F,PRD4636,Electronics,Gaming Mouse,1717.68,3.0,ORD10212,2023-03-27,UPI,"Hyderabad, Telangana",1.0,Delivered
+CUST1232,Ananya Taylor,38.0,F,PRD8658,Books,The Psychology of Money,438.58,1.0,ORD10213,2023-12-22,PayPal,"Kolkata, West Bengal",5.0,Delivered
+CUST1283,Diya Sharma,34.0,Female,PRD5594,Clothing,Denim Jacket,3265.24,8.0,ORD10214,2023-10-07,UPI,"Ahmedabad, Gujarat",5.0,Delivered
+CUST1096,Pooja Miller,44.0,M,PRD5532,Clothing,Slim Fit Jeans,1964.3,1.0,ORD10215,2023-03-02,UPI,"Chandigarh, Punjab",,Cancelled
+CUST1316,Ethan Chopra,39.0,F,PRD4647,Home & Kitchen,Blender Mixer,1833.17,1.0,ORD10216,2024-07-18,Credit Card,"Pune, Maharashtra",2.0,Cancelled
+CUST1170,Amit Johnson,34.0,Female,PRD2162,Sports,Yoga Mat Pro,959.13,2.0,ORD10217,2023-10-08,UPI,"Kolkata, West Bengal",1.0,Shipped
+CUST1132,Isha Chopra,,M,PRD3745,Sports,Hydration Water Bottle,673.62,2.0,ORD10218,2023-09-03,Debit Card,"Jaipur, Rajasthan",5.0,Delivered
+CUST1108,Emma Reddy,57.0,female,PRD4519,Books,Deep Work,489.03,2.0,ORD10219,2024-08-23,Credit Card,"Delhi, Delhi",2.0,Returned
+CUST1129,Isha Verma,25.0,Female,PRD2425,Beauty,Face Cleanser,397.95,4.0,ORD10220,2023-01-21,Cash on Delivery,"Mumbai, Maharashtra",1.0,Delivered
+CUST1258,Ananya Chopra,58.0,Female,PRD4991,Beauty,Herbal Shampoo,468.6,1.0,ORD10221,2024-12-13,Debit Card,"Chennai, Tamil Nadu",5.0,Cancelled
+CUST1192,Aarav Wilson,25.0,female,PRD1071,Sports,Badminton Racket,1463.28,1.0,ORD10222,2023-12-12,PayPal,"Jaipur, Rajasthan",2.0,Delivered
+CUST1316,Ethan Mehta,18.0,Male,PRD1071,Sports,Badminton Racket,1600.81,2.0,ORD10223,2024-04-24,UPI,"Pune, Maharashtra",5.0,Delivered
+CUST1052,Neha Taylor,28.0,M,PRD3550,Sports,Resistance Bands,519.82,1.0,ORD10224,2023-07-06,UPI,"Hyderabad, Telangana",5.0,Cancelled
+CUST1329,Tanvi Mehta,37.0,Female,PRD4991,Beauty,Herbal Shampoo,517.92,1.0,ORD10225,2024-10-03,Debit Card,"Jaipur, Rajasthan",5.0,Cancelled
+CUST1040,Olivia Verma,54.0,female,PRD1071,Sports,Badminton Racket,1362.84,3.0,ORD10226,2023-09-16,UPI,"Kolkata, West Bengal",4.5,Cancelled
+CUST1149,Vikram Jones,24.0,Male,PRD5751,Books,Machine Learning Hands-on,895.48,4.0,ORD10227,2024-09-05,Debit Card,"Bengaluru, Karnataka",4.5,Cancelled
+CUST1075,Olivia Davis,39.0,male,PRD3102,Electronics,Fast Charger 65W,950.74,3.0,ORD10228,2024-06-13,PayPal,"Mumbai, Maharashtra",,Cancelled
+CUST1166,Ananya Miller,19.0,female,PRD3745,Sports,Hydration Water Bottle,593.8,4.0,ORD10229,2024-02-17,PayPal,"Hyderabad, Telangana",3.0,Returned
+CUST1177,Meera Davis,145.0,male,PRD3102,Electronics,Fast Charger 65W,989.57,3.0,ORD10230,2023-02-22,PayPal,"Pune, Maharashtra",4.0,Cancelled
+CUST1246,Meera Reddy,54.0,male,PRD3142,Electronics,Bluetooth Speaker,2113.71,1.0,ORD10231,2023-10-05,Debit Card,"Chennai, Tamil Nadu",4.5,Shipped
+CUST1307,Varun Sharma,33.0,Male,PRD6239,Clothing,Formal Shirt,1325.52,3.0,ORD10232,2023-07-20,Cash on Delivery,"Bengaluru, Karnataka",4.5,Delivered
+CUST1086,Olivia Smith,30.0,Female,PRD5207,Beauty,Moisturizing Cream,667.82,8.0,ORD10233,2023-07-27,Cash on Delivery,"Delhi, Delhi",4.5,Processing
+CUST1020,Lucas Wilson,37.0,male,PRD3745,Sports,Hydration Water Bottle,655.14,1.0,ORD10234,2024-09-14,Credit Card,"Jaipur, Rajasthan",4.0,Returned
+CUST1196,Priya Moore,21.0,female,PRD7299,Electronics,Noise Cancelling Headphones,8622.2,5.0,ORD10235,2024-05-20,UPI,"Hyderabad, Telangana",,Cancelled
+CUST1004,Varun Miller,-5.0,M,PRD2552,Beauty,Sunscreen SPF 50,679.08,3.0,ORD10236,2024-09-14,Cash on Delivery,"Chennai, Tamil Nadu",4.0,Returned
+CUST1105,Tanvi Wilson,32.0,female,PRD2552,Beauty,Sunscreen SPF 50,709.71,1.0,ORD10237,2023-03-28,Debit Card,"Ahmedabad, Gujarat",2.0,Delivered
+CUST1110,Arjun Brown,47.0,F,PRD5675,Books,Python for Data Science,585.86,1.0,ORD10238,2024-03-16,Credit Card,"Delhi, Delhi",3.0,Delivered
+CUST1312,Diya Brown,34.0,M,PRD8658,Books,The Psychology of Money,376.58,2.0,ORD10239,2024-01-07,Debit Card,"Mumbai, Maharashtra",4.5,Processing
+CUST1119,Rhea Singh,34.0,male,PRD3102,Electronics,Fast Charger 65W,997.79,4.0,ORD10240,2023-09-01,Credit Card,"Jaipur, Rajasthan",4.5,Processing
+CUST1179,Priya Mehta,29.0,Female,PRD2162,Sports,Yoga Mat Pro,925.69,1.0,ORD10241,2023-05-11,Cash on Delivery,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1227,Karan Moore,40.0,Female,PRD4519,Books,Deep Work,459.22,1.0,ORD10242,2023-07-21,Debit Card,"Pune, Maharashtra",3.0,Processing
+CUST1275,Aarav Mehta,35.0,M,PRD3142,Electronics,Bluetooth Speaker,2246.03,1.0,ORD10243,2023-12-22,PayPal,"Hyderabad, Telangana",2.0,Returned
+CUST1136,Rahul Nair,39.0,male,PRD8991,Electronics,Smart Watch,5328.21,2.0,ORD10244,2024-09-02,UPI,"Chandigarh, Punjab",4.5,Returned
+CUST1141,Meera Singh,18.0,male,PRD5055,Sports,Dumbbell Set 10kg,2038.14,1.0,ORD10245,2024-09-12,Debit Card,"Ahmedabad, Gujarat",5.0,Processing
+CUST1236,Amit Sharma,,female,PRD1585,Electronics,USB-C Hub,1797.95,2.0,ORD10246,2024-05-16,UPI,"Bengaluru, Karnataka",2.0,Shipped
+CUST1191,Priya Brown,48.0,female,PRD5751,Books,Machine Learning Hands-on,935.87,1.0,ORD10247,2023-07-07,Debit Card,"Ahmedabad, Gujarat",2.0,Shipped
+CUST1256,Vikram Miller,35.0,M,PRD3745,Sports,Hydration Water Bottle,563.56,3.0,ORD10248,2023-05-16,PayPal,"Pune, Maharashtra",3.0,Processing
+CUST1286,Mia Mehta,51.0,F,PRD5055,Sports,Dumbbell Set 10kg,2068.18,2.0,ORD10249,2024-05-12,Cash on Delivery,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1196,Rhea Chopra,45.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2779.45,1.0,ORD10250,2023-03-11,UPI,"Pune, Maharashtra",5.0,Delivered
+CUST1310,James Brown,35.0,M,PRD8658,Books,The Psychology of Money,375.79,1.0,ORD10251,2023-03-24,UPI,"Delhi, Delhi",4.0,Delivered
+CUST1049,Rohan Davis,50.0,Male,PRD3102,Electronics,Fast Charger 65W,1131.76,1.0,ORD10252,2024-04-08,PayPal,"Bengaluru, Karnataka",2.0,Delivered
+CUST1018,Emma Johnson,43.0,female,PRD4647,Home & Kitchen,Blender Mixer,2147.74,1.0,ORD10253,2024-10-15,Cash on Delivery,"Jaipur, Rajasthan",3.0,Shipped
+CUST1277,Sneha Verma,18.0,M,PRD1423,Electronics,Wireless Earbuds,2801.29,1.0,ORD10254,2024-09-01,PayPal,"Chennai, Tamil Nadu",,Shipped
+CUST1150,Rhea Nair,49.0,female,PRD4991,Beauty,Herbal Shampoo,529.69,4.0,ORD10255,2023-04-09,PayPal,"Hyderabad, Telangana",4.5,Returned
+CUST1140,Neha Wilson,36.0,male,PRD5872,Clothing,Hooded Sweatshirt,1518.77,2.0,ORD10256,2024-08-07,Credit Card,"Bengaluru, Karnataka",,Processing
+CUST1012,Pooja Iyer,18.0,Male,PRD5665,Clothing,Cotton T-Shirt,688.85,1.0,ORD10257,2024-08-12,Credit Card,"Pune, Maharashtra",2.0,Delivered
+CUST1137,Noah Brown,44.0,M,PRD6904,Beauty,Vitamin C Serum,768.83,4.0,ORD10258,2023-08-08,Debit Card,"Ahmedabad, Gujarat",1.0,Processing
+CUST1341,Rahul Davis,37.0,male,PRD5675,Books,Python for Data Science,604.85,1.0,ORD10259,2024-05-07,Credit Card,"Hyderabad, Telangana",2.0,Cancelled
+CUST1223,Amit Sharma,33.0,male,PRD1423,Electronics,Wireless Earbuds,3215.23,1.0,ORD10260,2023-02-08,PayPal,"Delhi, Delhi",3.0,Returned
+CUST1321,Diya Patel,42.0,Male,PRD6239,Clothing,Formal Shirt,1425.19,1.0,ORD10261,2023-08-24,Credit Card,"Kolkata, West Bengal",2.0,Delivered
+CUST1021,Meera Jones,33.0,female,PRD8656,Clothing,Athletic Shorts,870.98,1.0,ORD10262,2023-09-06,Cash on Delivery,"Bengaluru, Karnataka",3.0,Processing
+CUST1188,Siddharth Sharma,38.0,Male,PRD3550,Sports,Resistance Bands,539.05,2.0,ORD10263,2024-09-27,Debit Card,"Jaipur, Rajasthan",4.5,Delivered
+CUST1314,Neha Smith,32.0,F,PRD1423,Electronics,Wireless Earbuds,3354.0,1.0,ORD10264,2023-08-07,Credit Card,"Chandigarh, Punjab",4.0,Cancelled
+CUST1251,Arjun Taylor,33.0,female,PRD5675,Books,Python for Data Science,,1.0,ORD10265,2023-11-16,PayPal,"Mumbai, Maharashtra",5.0,Shipped
+CUST1189,Ava Patel,21.0,Male,PRD1388,Home & Kitchen,Air Fryer,5544.75,1.0,ORD10266,2023-09-13,Debit Card,"Jaipur, Rajasthan",4.5,Cancelled
+CUST1092,Isha Wilson,39.0,M,PRD4519,Books,Deep Work,416.71,3.0,ORD10267,2024-09-13,Debit Card,"Jaipur, Rajasthan",4.0,Delivered
+CUST1162,Isha Smith,56.0,F,PRD4647,Home & Kitchen,Blender Mixer,1986.54,1.0,ORD10268,2024-12-09,PayPal,"Ahmedabad, Gujarat",1.0,Cancelled
+CUST1018,Neha Taylor,,M,PRD3102,Electronics,Fast Charger 65W,977.75,1.0,ORD10269,2024-12-27,Cash on Delivery,"Jaipur, Rajasthan",4.5,Delivered
+CUST1049,Diya Jones,30.0,female,PRD5532,Clothing,Slim Fit Jeans,2084.2,1.0,ORD10270,2023-04-24,UPI,"Ahmedabad, Gujarat",5.0,Cancelled
+CUST1296,Ethan Iyer,28.0,female,PRD6904,Beauty,Vitamin C Serum,785.89,1.0,ORD10271,2023-07-14,Debit Card,"Chandigarh, Punjab",5.0,Returned
+CUST1324,Karan Patel,25.0,male,PRD4647,Home & Kitchen,Blender Mixer,2135.75,1.0,ORD10272,2023-08-25,Debit Card,"Kolkata, West Bengal",4.0,Delivered
+CUST1068,Amit Verma,32.0,M,PRD7299,Electronics,Noise Cancelling Headphones,8392.41,1.0,ORD10273,2024-09-07,PayPal,"Chandigarh, Punjab",4.5,Cancelled
+CUST1269,Sneha Nair,22.0,female,PRD8991,Electronics,Smart Watch,4934.4,1.0,ORD10274,2023-10-21,UPI,"Bengaluru, Karnataka",4.5,Returned
+CUST1227,Rhea Gupta,55.0,F,PRD3413,Home & Kitchen,Coffee Maker,3247.4,1.0,ORD10275,2024-10-05,Credit Card,"Pune, Maharashtra",1.0,Delivered
+CUST1231,Meera Sharma,34.0,female,PRD3550,Sports,Resistance Bands,572.89,2.0,ORD10276,2024-11-01,Cash on Delivery,"Jaipur, Rajasthan",,Delivered
+CUST1031,Neha Reddy,26.0,F,PRD8991,Electronics,Smart Watch,5563.99,3.0,ORD10277,2024-02-01,PayPal,"Hyderabad, Telangana",4.5,Cancelled
+CUST1051,Lucas Smith,36.0,male,PRD1071,Sports,Badminton Racket,1364.0,4.0,ORD10278,2024-05-11,PayPal,"Bengaluru, Karnataka",,Cancelled
+CUST1181,Priya Chopra,32.0,Male,PRD5279,Books,Atomic Habits,550.75,,ORD10279,2023-09-09,Debit Card,"Pune, Maharashtra",5.0,Delivered
+CUST1045,Olivia Brown,31.0,F,PRD6239,Clothing,Formal Shirt,1484.28,3.0,ORD10280,2023-06-15,Debit Card,"Bengaluru, Karnataka",5.0,Returned
+CUST1104,Sophia Gupta,25.0,male,PRD5207,Beauty,Moisturizing Cream,562.77,1.0,ORD10281,2023-09-24,Debit Card,"Pune, Maharashtra",2.0,Cancelled
+CUST1016,Noah Smith,40.0,Female,PRD5279,Books,Atomic Habits,465.51,,ORD10282,2024-10-20,Cash on Delivery,"Chandigarh, Punjab",4.5,Delivered
+CUST1119,Emma Sharma,30.0,female,PRD1071,Sports,Badminton Racket,1668.44,2.0,ORD10283,2023-03-06,Debit Card,"Mumbai, Maharashtra",1.0,Delivered
+CUST1212,Sneha Reddy,18.0,Female,PRD1071,Sports,Badminton Racket,1681.72,1.0,ORD10284,2024-01-20,UPI,"Kolkata, West Bengal",5.0,Processing
+CUST1305,Isha Miller,52.0,,PRD4748,Electronics,Tablet 10-inch,17910.0,1.0,ORD10285,2023-09-13,Cash on Delivery,"Kolkata, West Bengal",5.0,Delivered
+CUST1098,Neha Jones,31.0,Female,PRD6239,Clothing,Formal Shirt,1393.16,1.0,ORD10286,2024-08-27,Credit Card,"Jaipur, Rajasthan",4.5,Cancelled
+CUST1280,Vikram Brown,40.0,female,PRD5751,Books,Machine Learning Hands-on,833.87,1.0,ORD10287,2023-12-26,Credit Card,"Delhi, Delhi",4.0,Cancelled
+CUST1186,Rohan Miller,37.0,female,PRD6239,Clothing,Formal Shirt,1224.59,1.0,ORD10288,2023-11-28,Debit Card,"Bengaluru, Karnataka",5.0,Delivered
+CUST1215,Neha Chopra,32.0,male,PRD3142,Electronics,Bluetooth Speaker,49975.0,,ORD10289,2024-08-28,Cash on Delivery,"Mumbai, Maharashtra",4.0,Delivered
+CUST1112,Varun Davis,23.0,Male,PRD8656,Clothing,Athletic Shorts,993.42,1.0,ORD10290,2023-03-05,UPI,"Mumbai, Maharashtra",1.0,Cancelled
+CUST1296,Ethan Taylor,25.0,Female,PRD5532,Clothing,Slim Fit Jeans,2144.68,1.0,ORD10291,2024-09-06,Cash on Delivery,"Pune, Maharashtra",1.0,Returned
+CUST1154,Amit Johnson,24.0,female,PRD3102,Electronics,Fast Charger 65W,1113.74,1.0,ORD10292,2023-07-17,Debit Card,"Chandigarh, Punjab",,Processing
+CUST1323,Arjun Verma,22.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2577.34,1.0,ORD10293,2024-06-05,Cash on Delivery,"Ahmedabad, Gujarat",2.0,Processing
+CUST1120,Liam Chopra,145.0,Male,PRD5751,Books,Machine Learning Hands-on,852.98,1.0,ORD10294,2023-09-26,Credit Card,"Hyderabad, Telangana",3.0,Returned
+CUST1035,Neha Chopra,26.0,,PRD5279,Books,Atomic Habits,525.95,,ORD10295,2024-03-07,UPI,"Ahmedabad, Gujarat",1.0,Cancelled
+CUST1070,Meera Gupta,36.0,M,PRD4991,Beauty,Herbal Shampoo,514.1,2.0,ORD10296,2023-11-11,Debit Card,"Chandigarh, Punjab",3.0,Delivered
+CUST1077,Aditya Sharma,44.0,male,PRD3745,Sports,Hydration Water Bottle,668.57,2.0,ORD10297,2024-12-28,Credit Card,"Chennai, Tamil Nadu",4.0,Delivered
+CUST1191,Siddharth Chopra,24.0,Male,PRD5665,Clothing,Cotton T-Shirt,713.45,1.0,ORD10298,2024-04-11,Cash on Delivery,"Chennai, Tamil Nadu",2.0,Returned
+CUST1051,Ethan Miller,33.0,Female,PRD2425,Beauty,Face Cleanser,390.12,2.0,ORD10299,2023-10-28,UPI,"Ahmedabad, Gujarat",1.0,Processing
+CUST1338,Olivia Chopra,,F,PRD5872,Clothing,Hooded Sweatshirt,1548.57,2.0,ORD10300,2024-11-04,Debit Card,"Bengaluru, Karnataka",1.0,Processing
+CUST1287,Arjun Iyer,22.0,male,PRD5279,Books,Atomic Habits,487.94,1.0,ORD10301,2023-09-15,Debit Card,"Mumbai, Maharashtra",5.0,Delivered
+CUST1055,Karan Patel,31.0,female,PRD4519,Books,Deep Work,496.96,1.0,ORD10302,2023-11-26,PayPal,"Chandigarh, Punjab",5.0,Shipped
+CUST1050,Siddharth Chopra,44.0,male,PRD5532,Clothing,Slim Fit Jeans,2255.3,1.0,ORD10303,2024-12-22,UPI,"Ahmedabad, Gujarat",1.0,Shipped
+CUST1058,Priya Davis,55.0,female,PRD5055,Sports,Dumbbell Set 10kg,2156.06,8.0,ORD10304,2023-09-21,UPI,"Jaipur, Rajasthan",4.5,Shipped
+CUST1123,Rhea Nair,18.0,M,PRD4805,Clothing,Track Pants,1143.91,1.0,ORD10305,2023-06-18,Debit Card,"Delhi, Delhi",5.0,Processing
+CUST1250,Ananya Moore,40.0,Female,PRD5872,Clothing,Hooded Sweatshirt,1389.85,1.0,ORD10306,2024-07-11,Credit Card,"Delhi, Delhi",2.0,Processing
+CUST1326,Ava Sharma,26.0,M,PRD8896,Beauty,Matte Lipstick,962.27,1.0,ORD10307,2024-10-26,PayPal,"Pune, Maharashtra",4.5,Delivered
+CUST1314,Arjun Brown,28.0,female,PRD1423,Electronics,Wireless Earbuds,2968.44,1.0,ORD10308,2024-01-08,Cash on Delivery,"Kolkata, West Bengal",5.0,Shipped
+CUST1208,Karan Williams,34.0,male,PRD1071,Sports,Badminton Racket,1505.46,1.0,ORD10309,2023-11-05,Credit Card,"Delhi, Delhi",2.0,Cancelled
+CUST1250,Emma Williams,24.0,Female,PRD2425,Beauty,Face Cleanser,377.03,8.0,ORD10310,2024-09-27,PayPal,"Pune, Maharashtra",4.0,Processing
+CUST1004,Varun Davis,31.0,Female,PRD3745,Sports,Hydration Water Bottle,624.18,5.0,ORD10311,2024-02-19,Credit Card,"Bengaluru, Karnataka",4.5,Returned
+CUST1144,Siddharth Miller,24.0,Female,PRD5675,Books,Python for Data Science,679.19,3.0,ORD10312,2023-06-18,PayPal,"Ahmedabad, Gujarat",4.0,Processing
+CUST1170,Tanvi Johnson,27.0,Male,PRD8658,Books,The Psychology of Money,415.33,1.0,ORD10313,2023-08-19,Cash on Delivery,"Mumbai, Maharashtra",3.0,Returned
+CUST1320,Aarav Chopra,42.0,M,PRD3413,Home & Kitchen,Coffee Maker,3373.87,2.0,ORD10314,2023-10-06,PayPal,"Pune, Maharashtra",3.0,Returned
+CUST1121,Meera Singh,35.0,Male,PRD8656,Clothing,Athletic Shorts,920.56,2.0,ORD10315,2024-07-08,Debit Card,"Hyderabad, Telangana",3.0,Delivered
+CUST1329,Aditya Iyer,42.0,Female,PRD8658,Books,The Psychology of Money,398.01,1.0,ORD10316,2024-09-28,Credit Card,"Chennai, Tamil Nadu",4.0,Shipped
+CUST1348,Amit Miller,26.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2419.4,1.0,ORD10317,2024-02-09,PayPal,"Hyderabad, Telangana",4.5,Returned
+CUST1100,Arjun Smith,40.0,Male,PRD5675,Books,Python for Data Science,9750.0,1.0,ORD10318,2024-11-15,Debit Card,"Chennai, Tamil Nadu",1.0,Delivered
+CUST1318,Rohan Patel,18.0,female,PRD5675,Books,Python for Data Science,724.17,1.0,ORD10319,2023-11-25,Credit Card,"Bengaluru, Karnataka",4.0,Cancelled
+CUST1039,James Jones,34.0,F,PRD8791,Home & Kitchen,Electric Kettle,1421.47,2.0,ORD10320,2024-06-02,UPI,"Bengaluru, Karnataka",4.0,Delivered
+CUST1313,Karan Singh,41.0,Female,PRD8656,Clothing,Athletic Shorts,969.89,1.0,ORD10321,2024-02-03,PayPal,"Mumbai, Maharashtra",2.0,Cancelled
+CUST1328,Aarav Patel,18.0,Female,PRD2162,Sports,Yoga Mat Pro,1021.65,1.0,ORD10322,2023-12-25,Cash on Delivery,"Hyderabad, Telangana",,Cancelled
+CUST1247,Ananya Moore,26.0,M,PRD6904,Beauty,Vitamin C Serum,737.21,1.0,ORD10323,2024-06-03,UPI,"Hyderabad, Telangana",1.0,Shipped
+CUST1339,Rahul Chopra,34.0,M,PRD6904,Beauty,Vitamin C Serum,756.95,1.0,ORD10324,2023-01-24,PayPal,"Kolkata, West Bengal",4.5,Cancelled
+CUST1158,Meera Wilson,45.0,Male,PRD1585,Electronics,USB-C Hub,1729.43,1.0,ORD10325,2024-11-22,Cash on Delivery,"Bengaluru, Karnataka",2.0,Delivered
+CUST1019,Olivia Gupta,27.0,female,PRD4636,Electronics,Gaming Mouse,1413.65,2.0,ORD10326,2023-05-27,PayPal,"Chandigarh, Punjab",4.5,Delivered
+CUST1055,Ananya Davis,39.0,male,PRD2552,Beauty,Sunscreen SPF 50,694.17,1.0,ORD10327,2023-11-19,UPI,"Hyderabad, Telangana",4.5,Delivered
+CUST1172,Rohan Iyer,49.0,M,PRD5055,Sports,Dumbbell Set 10kg,1819.44,1.0,ORD10328,2024-11-20,Debit Card,"Mumbai, Maharashtra",1.0,Delivered
+CUST1004,Pooja Verma,40.0,F,PRD2425,Beauty,Face Cleanser,386.13,3.0,ORD10329,2023-04-06,Cash on Delivery,"Bengaluru, Karnataka",4.5,Delivered
+CUST1322,Ethan Chopra,145.0,female,PRD1585,Electronics,USB-C Hub,1950.05,5.0,ORD10330,2023-11-22,UPI,"Mumbai, Maharashtra",2.0,Cancelled
+CUST1243,Meera Singh,31.0,M,PRD3413,Home & Kitchen,Coffee Maker,3853.41,1.0,ORD10331,2023-01-04,Cash on Delivery,"Bengaluru, Karnataka",1.0,Shipped
+CUST1264,Ananya Verma,35.0,M,PRD5207,Beauty,Moisturizing Cream,573.55,1.0,ORD10332,2023-04-04,PayPal,"Hyderabad, Telangana",2.0,Delivered
+CUST1242,Varun Davis,34.0,female,PRD5207,Beauty,Moisturizing Cream,646.89,1.0,ORD10333,2024-05-07,Debit Card,"Mumbai, Maharashtra",1.0,Delivered
+CUST1070,Ananya Jones,39.0,M,PRD5055,Sports,Dumbbell Set 10kg,2104.71,3.0,ORD10334,2023-09-28,Credit Card,"Kolkata, West Bengal",4.0,Returned
+CUST1111,Varun Davis,51.0,F,PRD5532,Clothing,Slim Fit Jeans,2244.79,1.0,ORD10335,2023-03-19,PayPal,"Mumbai, Maharashtra",,Shipped
+CUST1259,Diya Williams,27.0,Male,PRD4991,Beauty,Herbal Shampoo,450.65,1.0,ORD10336,2024-04-05,UPI,"Hyderabad, Telangana",1.0,Delivered
+CUST1246,Emma Chopra,40.0,female,PRD4748,Electronics,Tablet 10-inch,17211.46,1.0,ORD10337,2024-06-21,Credit Card,"Delhi, Delhi",5.0,Delivered
+CUST1272,Diya Chopra,39.0,female,PRD5055,Sports,Dumbbell Set 10kg,2239.3,1.0,ORD10338,2024-01-17,Credit Card,"Delhi, Delhi",4.0,Processing
+CUST1021,Priya Johnson,45.0,F,PRD5532,Clothing,Slim Fit Jeans,1855.85,1.0,ORD10339,2023-10-28,Debit Card,"Pune, Maharashtra",3.0,Processing
+CUST1349,Tanvi Mehta,31.0,female,PRD2162,Sports,Yoga Mat Pro,1105.24,3.0,ORD10340,2024-08-20,Credit Card,"Hyderabad, Telangana",4.0,Delivered
+CUST1042,Karan Singh,44.0,M,PRD3142,Electronics,Bluetooth Speaker,2059.31,1.0,ORD10341,2023-05-14,PayPal,"Pune, Maharashtra",5.0,Cancelled
+CUST1011,Neha Reddy,26.0,female,PRD5279,Books,Atomic Habits,529.69,1.0,ORD10342,2024-10-22,PayPal,"Chennai, Tamil Nadu",3.0,Delivered
+CUST1134,Sneha Davis,18.0,male,PRD8791,Home & Kitchen,Electric Kettle,1469.21,2.0,ORD10343,2023-05-06,Debit Card,"Bengaluru, Karnataka",1.0,Delivered
+CUST1295,Vikram Jones,18.0,Male,PRD5279,Books,Atomic Habits,505.04,3.0,ORD10344,2023-09-10,Credit Card,"Kolkata, West Bengal",2.0,Shipped
+CUST1164,Vikram Sharma,34.0,F,PRD5279,Books,Atomic Habits,566.87,1.0,ORD10345,2023-10-22,Cash on Delivery,"Ahmedabad, Gujarat",1.0,Cancelled
+CUST1246,Lucas Patel,43.0,Female,PRD5055,Sports,Dumbbell Set 10kg,1826.6,2.0,ORD10346,2023-10-17,UPI,"Hyderabad, Telangana",,Processing
+CUST1229,Emma Verma,35.0,female,PRD3745,Sports,Hydration Water Bottle,593.17,1.0,ORD10347,2024-07-12,UPI,"Mumbai, Maharashtra",3.0,Delivered
+CUST1229,Sophia Wilson,35.0,Female,PRD2552,Beauty,Sunscreen SPF 50,729.76,1.0,ORD10348,2023-07-05,Debit Card,"Hyderabad, Telangana",4.5,Delivered
+CUST1034,Mia Moore,40.0,M,PRD5207,Beauty,Moisturizing Cream,652.2,1.0,ORD10349,2024-03-27,UPI,"Jaipur, Rajasthan",3.0,Returned
+CUST1300,Neha Davis,39.0,,PRD3142,Electronics,Bluetooth Speaker,2216.01,1.0,ORD10350,2024-11-22,PayPal,"Bengaluru, Karnataka",5.0,Cancelled
+CUST1126,Aarav Iyer,47.0,female,PRD5279,Books,Atomic Habits,557.43,3.0,ORD10351,2023-08-23,UPI,"Jaipur, Rajasthan",1.0,Returned
+CUST1133,Pooja Moore,28.0,male,PRD3413,Home & Kitchen,Coffee Maker,3705.66,1.0,ORD10352,2024-01-10,Cash on Delivery,"Delhi, Delhi",5.0,Delivered
+CUST1049,Rhea Singh,38.0,F,PRD8791,Home & Kitchen,Electric Kettle,1200.22,1.0,ORD10353,2023-03-01,Cash on Delivery,"Chennai, Tamil Nadu",4.0,Shipped
+CUST1175,Mia Singh,50.0,male,PRD3745,Sports,Hydration Water Bottle,665.8,3.0,ORD10354,2023-12-25,PayPal,"Ahmedabad, Gujarat",1.0,Returned
+CUST1068,Mia Sharma,38.0,Female,PRD3745,Sports,Hydration Water Bottle,645.41,,ORD10355,2023-02-08,Debit Card,"Hyderabad, Telangana",2.0,Delivered
+CUST1041,Tanvi Iyer,45.0,Male,PRD5665,Clothing,Cotton T-Shirt,732.76,1.0,ORD10356,2023-05-02,UPI,"Mumbai, Maharashtra",1.0,Processing
+CUST1106,Varun Reddy,28.0,F,PRD4647,Home & Kitchen,Blender Mixer,2049.29,3.0,ORD10357,2023-04-17,Credit Card,"Chandigarh, Punjab",4.5,Delivered
+CUST1099,Neha Singh,31.0,Male,PRD8656,Clothing,Athletic Shorts,966.01,2.0,ORD10358,2023-11-04,UPI,"Kolkata, West Bengal",4.5,Delivered
+CUST1209,Ananya Smith,23.0,M,PRD5279,Books,Atomic Habits,490.03,1.0,ORD10359,2024-05-15,PayPal,"Hyderabad, Telangana",3.0,Returned
+CUST1220,Rahul Verma,42.0,M,PRD5665,Clothing,Cotton T-Shirt,647.48,2.0,ORD10360,2023-11-22,Credit Card,"Bengaluru, Karnataka",5.0,Processing
+CUST1053,Olivia Singh,23.0,female,PRD6904,Beauty,Vitamin C Serum,818.8,2.0,ORD10361,2024-10-19,PayPal,"Pune, Maharashtra",4.5,Shipped
+CUST1249,Arjun Mehta,38.0,Female,PRD5207,Beauty,Moisturizing Cream,554.02,1.0,ORD10362,2023-02-16,Debit Card,"Kolkata, West Bengal",3.0,Delivered
+CUST1156,Rhea Taylor,54.0,Female,PRD5207,Beauty,Moisturizing Cream,614.69,1.0,ORD10363,2023-09-18,Credit Card,"Kolkata, West Bengal",1.0,Shipped
+CUST1231,Amit Brown,18.0,F,PRD3655,Home & Kitchen,LED Desk Lamp,879.33,1.0,ORD10364,2024-02-19,Cash on Delivery,"Jaipur, Rajasthan",4.0,Processing
+CUST1081,Arjun Patel,50.0,female,PRD5279,Books,Atomic Habits,456.76,4.0,ORD10365,2024-03-27,UPI,"Chandigarh, Punjab",,Cancelled
+CUST1175,Karan Iyer,37.0,Male,PRD5751,Books,Machine Learning Hands-on,890.91,1.0,ORD10366,2024-02-28,Credit Card,"Pune, Maharashtra",4.5,Delivered
+CUST1020,Siddharth Williams,21.0,F,PRD8896,Beauty,Matte Lipstick,,2.0,ORD10367,2024-10-13,Cash on Delivery,"Delhi, Delhi",1.0,Cancelled
+CUST1346,Rahul Smith,35.0,male,PRD3550,Sports,Resistance Bands,511.09,2.0,ORD10368,2023-02-27,UPI,"Chennai, Tamil Nadu",,Processing
+CUST1206,Ava Nair,41.0,female,PRD1585,Electronics,USB-C Hub,1961.22,4.0,ORD10369,2023-06-26,UPI,"Jaipur, Rajasthan",4.0,Cancelled
+CUST1277,Amit Reddy,25.0,F,PRD5055,Sports,Dumbbell Set 10kg,2057.08,2.0,ORD10370,2024-08-07,UPI,"Jaipur, Rajasthan",4.0,Processing
+CUST1321,Diya Miller,39.0,F,PRD5279,Books,Atomic Habits,556.41,2.0,ORD10371,2024-11-07,UPI,"Chennai, Tamil Nadu",3.0,Cancelled
+CUST1308,Sneha Brown,51.0,,PRD4244,Home & Kitchen,Non-stick Cookware Set,2512.76,4.0,ORD10372,2024-04-06,Debit Card,"Mumbai, Maharashtra",3.0,Cancelled
+CUST1282,Pooja Patel,28.0,,PRD1585,Electronics,USB-C Hub,2136.65,4.0,ORD10373,2023-06-22,PayPal,"Bengaluru, Karnataka",4.5,Cancelled
+CUST1257,Mia Iyer,23.0,female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2325.49,8.0,ORD10374,2024-06-27,Debit Card,"Kolkata, West Bengal",1.0,Delivered
+CUST1110,Aditya Jones,32.0,female,PRD3655,Home & Kitchen,LED Desk Lamp,904.34,3.0,ORD10375,2023-05-26,UPI,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1331,Lucas Taylor,,Male,PRD5751,Books,Machine Learning Hands-on,900.78,1.0,ORD10376,2023-11-04,PayPal,"Kolkata, West Bengal",,Shipped
+CUST1131,Neha Verma,61.0,male,PRD2425,Beauty,Face Cleanser,423.38,1.0,ORD10377,2023-05-28,PayPal,"Ahmedabad, Gujarat",3.0,Cancelled
+CUST1217,Lucas Iyer,39.0,M,PRD8896,Beauty,Matte Lipstick,882.54,1.0,ORD10378,2023-01-21,PayPal,"Bengaluru, Karnataka",,Delivered
+CUST1322,Neha Smith,45.0,F,PRD5751,Books,Machine Learning Hands-on,933.44,1.0,ORD10379,2023-08-28,UPI,"Bengaluru, Karnataka",3.0,Returned
+CUST1145,Rahul Verma,27.0,female,PRD5665,Clothing,Cotton T-Shirt,742.18,1.0,ORD10380,2023-02-15,UPI,"Bengaluru, Karnataka",,Processing
+CUST1220,Rhea Mehta,43.0,female,PRD1423,Electronics,Wireless Earbuds,3388.86,4.0,ORD10381,2023-11-16,Debit Card,"Hyderabad, Telangana",3.0,Delivered
+CUST1254,Karan Gupta,18.0,M,PRD5751,Books,Machine Learning Hands-on,796.01,1.0,ORD10382,2024-05-08,Debit Card,"Pune, Maharashtra",5.0,Shipped
+CUST1044,Aarav Davis,47.0,F,PRD5594,Clothing,Denim Jacket,3146.85,1.0,ORD10383,2023-09-02,UPI,"Hyderabad, Telangana",3.0,Processing
+CUST1344,Ava Taylor,24.0,,PRD3745,Sports,Hydration Water Bottle,639.62,1.0,ORD10384,2023-09-02,UPI,"Bengaluru, Karnataka",3.0,Shipped
+CUST1068,Rohan Smith,21.0,M,PRD3142,Electronics,Bluetooth Speaker,1939.53,1.0,ORD10385,2024-07-10,Cash on Delivery,"Chennai, Tamil Nadu",4.0,Delivered
+CUST1162,Olivia Davis,32.0,F,PRD4519,Books,Deep Work,430.86,1.0,ORD10386,2024-05-06,PayPal,"Delhi, Delhi",4.0,Delivered
+CUST1227,Priya Wilson,42.0,male,PRD1585,Electronics,USB-C Hub,1794.87,1.0,ORD10387,2024-09-27,Cash on Delivery,"Chandigarh, Punjab",1.0,Processing
+CUST1293,Pooja Williams,32.0,Male,PRD1388,Home & Kitchen,Air Fryer,5582.06,2.0,ORD10388,2024-02-27,Debit Card,"Mumbai, Maharashtra",5.0,Cancelled
+CUST1246,Siddharth Mehta,145.0,Female,PRD3655,Home & Kitchen,LED Desk Lamp,988.23,2.0,ORD10389,2024-01-26,UPI,"Mumbai, Maharashtra",4.5,Processing
+CUST1196,Rohan Brown,31.0,Female,PRD1423,Electronics,Wireless Earbuds,3283.52,1.0,ORD10390,2023-11-05,UPI,"Ahmedabad, Gujarat",5.0,Returned
+CUST1159,Lucas Taylor,21.0,female,PRD6239,Clothing,Formal Shirt,1256.29,8.0,ORD10391,2024-02-25,UPI,"Chandigarh, Punjab",5.0,Shipped
+CUST1048,Diya Miller,62.0,F,PRD5751,Books,Machine Learning Hands-on,902.54,1.0,ORD10392,2023-08-14,PayPal,"Chennai, Tamil Nadu",2.0,Cancelled
+CUST1154,Ethan Nair,34.0,Male,PRD8991,Electronics,Smart Watch,5079.8,2.0,ORD10393,2024-05-12,Cash on Delivery,"Delhi, Delhi",1.0,Delivered
+CUST1339,Siddharth Singh,36.0,Female,PRD5279,Books,Atomic Habits,543.58,1.0,ORD10394,2023-05-11,Debit Card,"Bengaluru, Karnataka",4.5,Delivered
+CUST1345,Ananya Williams,145.0,,PRD4519,Books,Deep Work,478.99,1.0,ORD10395,2024-12-16,Cash on Delivery,"Chandigarh, Punjab",5.0,Cancelled
+CUST1346,Karan Chopra,32.0,Male,PRD5751,Books,Machine Learning Hands-on,902.83,1.0,ORD10396,2023-07-27,Credit Card,"Chennai, Tamil Nadu",2.0,Shipped
+CUST1217,Aarav Iyer,62.0,Female,PRD6904,Beauty,Vitamin C Serum,759.32,1.0,ORD10397,2024-07-02,Credit Card,"Delhi, Delhi",5.0,Shipped
+CUST1213,Sophia Davis,21.0,M,PRD4748,Electronics,Tablet 10-inch,17297.38,2.0,ORD10398,2023-08-08,Cash on Delivery,"Mumbai, Maharashtra",3.0,Processing
+CUST1033,Aditya Williams,49.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2429.03,1.0,ORD10399,2023-06-15,Cash on Delivery,"Hyderabad, Telangana",5.0,Delivered
+CUST1309,Sophia Jones,18.0,Female,PRD5279,Books,Atomic Habits,554.46,1.0,ORD10400,2023-05-23,PayPal,"Bengaluru, Karnataka",2.0,Processing
+CUST1252,Ananya Williams,21.0,female,PRD1423,Electronics,Wireless Earbuds,3206.63,1.0,ORD10401,2023-09-02,UPI,"Kolkata, West Bengal",2.0,Delivered
+CUST1288,Sneha Davis,36.0,Male,PRD3550,Sports,Resistance Bands,558.09,3.0,ORD10402,2023-02-23,PayPal,"Ahmedabad, Gujarat",1.0,Delivered
+CUST1313,Rhea Iyer,32.0,F,PRD4636,Electronics,Gaming Mouse,1458.57,1.0,ORD10403,2023-09-16,Debit Card,"Pune, Maharashtra",2.0,Delivered
+CUST1104,Siddharth Williams,160.0,female,PRD5665,Clothing,Cotton T-Shirt,701.62,2.0,ORD10404,2024-04-05,Debit Card,"Bengaluru, Karnataka",4.0,Shipped
+CUST1235,Sophia Miller,39.0,,PRD4805,Clothing,Track Pants,,1.0,ORD10405,2024-02-03,UPI,"Kolkata, West Bengal",2.0,Shipped
+CUST1032,Karan Patel,44.0,Male,PRD8658,Books,The Psychology of Money,447.46,1.0,ORD10406,2024-05-24,UPI,"Mumbai, Maharashtra",4.5,Processing
+CUST1076,Liam Brown,47.0,female,PRD4519,Books,Deep Work,492.93,1.0,ORD10407,2023-04-10,Credit Card,"Jaipur, Rajasthan",5.0,Cancelled
+CUST1065,Arjun Wilson,41.0,female,PRD3655,Home & Kitchen,LED Desk Lamp,988.14,1.0,ORD10408,2024-04-27,PayPal,"Jaipur, Rajasthan",1.0,Returned
+CUST1191,Aditya Miller,21.0,Male,PRD2552,Beauty,Sunscreen SPF 50,16225.0,1.0,ORD10409,2023-12-19,UPI,"Chennai, Tamil Nadu",5.0,Processing
+CUST1345,Vikram Brown,28.0,female,PRD4805,Clothing,Track Pants,935.7,2.0,ORD10410,2023-07-03,Credit Card,"Kolkata, West Bengal",4.0,Delivered
+CUST1229,Rohan Johnson,39.0,Female,PRD4647,Home & Kitchen,Blender Mixer,2019.03,1.0,ORD10411,2024-08-24,Debit Card,"Bengaluru, Karnataka",4.0,Cancelled
+CUST1235,Vikram Miller,31.0,Female,PRD3142,Electronics,Bluetooth Speaker,2274.77,2.0,ORD10412,2023-07-04,UPI,"Chandigarh, Punjab",4.5,Delivered
+CUST1061,Priya Chopra,29.0,male,PRD4805,Clothing,Track Pants,1122.44,3.0,ORD10413,2024-04-06,Credit Card,"Delhi, Delhi",1.0,Returned
+CUST1023,Tanvi Davis,30.0,Female,PRD2425,Beauty,Face Cleanser,372.92,2.0,ORD10414,2024-08-22,Debit Card,"Pune, Maharashtra",4.5,Cancelled
+CUST1320,Tanvi Brown,46.0,F,PRD2425,Beauty,Face Cleanser,375.62,,ORD10415,2024-11-26,Cash on Delivery,"Delhi, Delhi",1.0,Delivered
+CUST1317,Isha Moore,26.0,Female,PRD2162,Sports,Yoga Mat Pro,943.99,,ORD10416,2024-04-08,Credit Card,"Jaipur, Rajasthan",4.0,Processing
+CUST1024,Meera Sharma,23.0,,PRD3550,Sports,Resistance Bands,571.33,3.0,ORD10417,2023-05-05,UPI,"Delhi, Delhi",4.0,Cancelled
+CUST1087,Diya Taylor,37.0,M,PRD6904,Beauty,Vitamin C Serum,783.86,1.0,ORD10418,2023-02-02,Debit Card,"Chandigarh, Punjab",4.0,Processing
+CUST1259,Karan Iyer,20.0,Male,PRD6904,Beauty,Vitamin C Serum,896.11,3.0,ORD10419,2023-10-22,Debit Card,"Jaipur, Rajasthan",2.0,Delivered
+CUST1291,Tanvi Jones,28.0,male,PRD4647,Home & Kitchen,Blender Mixer,2067.73,1.0,ORD10420,2023-09-15,Credit Card,"Ahmedabad, Gujarat",4.5,Delivered
+CUST1335,Pooja Sharma,45.0,M,PRD4519,Books,Deep Work,428.93,1.0,ORD10421,2023-05-02,Cash on Delivery,"Chandigarh, Punjab",1.0,Shipped
+CUST1063,Ethan Gupta,18.0,male,PRD3745,Sports,Hydration Water Bottle,641.24,2.0,ORD10422,2024-05-25,UPI,"Hyderabad, Telangana",3.0,Delivered
+CUST1108,Siddharth Taylor,40.0,Male,PRD1071,Sports,Badminton Racket,,,ORD10423,2024-03-14,PayPal,"Jaipur, Rajasthan",5.0,Cancelled
+CUST1040,Isha Sharma,47.0,Male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2359.8,1.0,ORD10424,2023-12-01,PayPal,"Pune, Maharashtra",4.0,Delivered
+CUST1114,Olivia Sharma,18.0,male,PRD3102,Electronics,Fast Charger 65W,1143.88,1.0,ORD10425,2024-01-09,Cash on Delivery,"Hyderabad, Telangana",,Returned
+CUST1327,Karan Iyer,44.0,female,PRD5594,Clothing,Denim Jacket,3151.18,2.0,ORD10426,2023-10-05,Debit Card,"Chennai, Tamil Nadu",2.0,Processing
+CUST1141,Rahul Sharma,33.0,M,PRD8658,Books,The Psychology of Money,9975.0,1.0,ORD10427,2024-11-02,PayPal,"Kolkata, West Bengal",5.0,Processing
+CUST1239,Meera Johnson,57.0,Male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2493.91,1.0,ORD10428,2023-10-26,Debit Card,"Kolkata, West Bengal",2.0,Delivered
+CUST1085,Amit Chopra,41.0,,PRD6904,Beauty,Vitamin C Serum,785.88,1.0,ORD10429,2023-02-16,UPI,"Mumbai, Maharashtra",4.5,Returned
+CUST1122,Rohan Taylor,19.0,female,PRD8991,Electronics,Smart Watch,4970.75,1.0,ORD10430,2023-12-03,Credit Card,"Ahmedabad, Gujarat",,Processing
+CUST1321,Tanvi Verma,35.0,Female,PRD6904,Beauty,Vitamin C Serum,891.8,1.0,ORD10431,2024-10-01,PayPal,"Ahmedabad, Gujarat",4.5,Processing
+CUST1052,Amit Sharma,18.0,Male,PRD8991,Electronics,Smart Watch,5629.34,2.0,ORD10432,2024-09-09,PayPal,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1125,Vikram Patel,40.0,F,PRD8791,Home & Kitchen,Electric Kettle,1216.39,2.0,ORD10433,2024-10-11,UPI,"Mumbai, Maharashtra",5.0,Cancelled
+CUST1075,Diya Nair,28.0,Female,PRD3413,Home & Kitchen,Coffee Maker,3325.15,1.0,ORD10434,2024-04-22,PayPal,"Chandigarh, Punjab",4.5,Processing
+CUST1172,Rhea Chopra,39.0,Male,PRD5207,Beauty,Moisturizing Cream,642.91,1.0,ORD10435,2024-04-08,UPI,"Kolkata, West Bengal",2.0,Returned
+CUST1004,Priya Sharma,51.0,M,PRD5207,Beauty,Moisturizing Cream,593.0,2.0,ORD10436,2024-04-07,Debit Card,"Hyderabad, Telangana",5.0,Delivered
+CUST1174,Sophia Wilson,51.0,M,PRD1423,Electronics,Wireless Earbuds,3190.09,1.0,ORD10437,2024-06-07,PayPal,"Hyderabad, Telangana",3.0,Cancelled
+CUST1088,Arjun Taylor,32.0,male,PRD4805,Clothing,Track Pants,1072.51,1.0,ORD10438,2023-07-21,Credit Card,"Chandigarh, Punjab",4.5,Delivered
+CUST1077,Amit Nair,42.0,female,PRD1071,Sports,Badminton Racket,1525.48,1.0,ORD10439,2024-02-06,Cash on Delivery,"Pune, Maharashtra",4.0,Delivered
+CUST1165,Liam Johnson,30.0,Female,PRD4647,Home & Kitchen,Blender Mixer,2090.95,2.0,ORD10440,2024-04-07,Debit Card,"Kolkata, West Bengal",4.0,Shipped
+CUST1293,Pooja Johnson,36.0,M,PRD8896,Beauty,Matte Lipstick,913.67,1.0,ORD10441,2024-07-15,PayPal,"Kolkata, West Bengal",4.0,Delivered
+CUST1140,Karan Sharma,18.0,M,PRD3102,Electronics,Fast Charger 65W,1059.85,1.0,ORD10442,2023-04-04,Credit Card,"Pune, Maharashtra",,Delivered
+CUST1171,Rahul Smith,25.0,M,PRD5594,Clothing,Denim Jacket,3340.14,2.0,ORD10443,2023-09-09,UPI,"Chennai, Tamil Nadu",4.0,Shipped
+CUST1297,Noah Sharma,40.0,male,PRD5207,Beauty,Moisturizing Cream,610.15,1.0,ORD10444,2024-09-25,PayPal,"Pune, Maharashtra",3.0,Returned
+CUST1097,Tanvi Williams,18.0,M,PRD8656,Clothing,Athletic Shorts,974.92,2.0,ORD10445,2024-11-27,UPI,"Hyderabad, Telangana",5.0,Returned
+CUST1207,Noah Wilson,35.0,Male,PRD5532,Clothing,Slim Fit Jeans,2083.05,1.0,ORD10446,2024-10-19,PayPal,"Hyderabad, Telangana",1.0,Processing
+CUST1198,Rahul Davis,35.0,M,PRD3142,Electronics,Bluetooth Speaker,1815.12,1.0,ORD10447,2023-08-01,Debit Card,"Delhi, Delhi",4.0,Delivered
+CUST1106,Sneha Chopra,40.0,female,PRD3142,Electronics,Bluetooth Speaker,1994.55,1.0,ORD10448,2024-03-18,PayPal,"Delhi, Delhi",2.0,Delivered
+CUST1106,Neha Williams,18.0,female,PRD4647,Home & Kitchen,Blender Mixer,2028.46,1.0,ORD10449,2023-03-15,PayPal,"Chandigarh, Punjab",4.5,Delivered
+CUST1292,Lucas Davis,18.0,M,PRD4519,Books,Deep Work,494.14,2.0,ORD10450,2023-03-14,Debit Card,"Chandigarh, Punjab",4.0,Shipped
+CUST1338,Pooja Moore,44.0,male,PRD3655,Home & Kitchen,LED Desk Lamp,824.1,1.0,ORD10451,2024-04-16,Cash on Delivery,"Delhi, Delhi",1.0,Returned
+CUST1054,Arjun Smith,35.0,Male,PRD6904,Beauty,Vitamin C Serum,868.86,1.0,ORD10452,2023-12-13,PayPal,"Mumbai, Maharashtra",,Delivered
+CUST1070,Amit Jones,30.0,male,PRD4519,Books,Deep Work,499.68,2.0,ORD10453,2023-01-20,Debit Card,"Chennai, Tamil Nadu",5.0,Shipped
+CUST1087,Rohan Sharma,18.0,male,PRD5675,Books,Python for Data Science,656.83,3.0,ORD10454,2023-11-26,PayPal,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1025,Noah Brown,29.0,male,PRD5665,Clothing,Cotton T-Shirt,,,ORD10455,2023-01-11,Credit Card,"Hyderabad, Telangana",1.0,Returned
+CUST1341,Pooja Singh,,M,PRD4647,Home & Kitchen,Blender Mixer,2266.03,2.0,ORD10456,2023-07-04,Debit Card,"Delhi, Delhi",2.0,Delivered
+CUST1206,James Smith,,male,PRD3102,Electronics,Fast Charger 65W,915.92,2.0,ORD10457,2024-05-25,Credit Card,"Jaipur, Rajasthan",4.5,Delivered
+CUST1129,Ananya Taylor,40.0,F,PRD5872,Clothing,Hooded Sweatshirt,1606.79,1.0,ORD10458,2023-11-16,UPI,"Mumbai, Maharashtra",4.5,Shipped
+CUST1196,Arjun Nair,18.0,,PRD8991,Electronics,Smart Watch,5445.47,1.0,ORD10459,2024-01-05,PayPal,"Chennai, Tamil Nadu",4.0,Delivered
+CUST1329,Diya Nair,33.0,F,PRD3413,Home & Kitchen,Coffee Maker,3814.34,1.0,ORD10460,2024-07-21,Credit Card,"Hyderabad, Telangana",3.0,Delivered
+CUST1125,Rahul Wilson,40.0,F,PRD5751,Books,Machine Learning Hands-on,833.35,1.0,ORD10461,2024-01-03,Credit Card,"Hyderabad, Telangana",,Delivered
+CUST1105,Vikram Verma,38.0,male,PRD8656,Clothing,Athletic Shorts,879.1,3.0,ORD10462,2023-04-14,Cash on Delivery,"Hyderabad, Telangana",4.5,Shipped
+CUST1326,Rahul Mehta,40.0,M,PRD4991,Beauty,Herbal Shampoo,512.14,2.0,ORD10463,2024-03-27,Credit Card,"Kolkata, West Bengal",1.0,Returned
+CUST1154,Rhea Wilson,43.0,Female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2549.51,1.0,ORD10464,2023-12-16,Debit Card,"Hyderabad, Telangana",,Returned
+CUST1257,Olivia Johnson,39.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2616.65,1.0,ORD10465,2024-01-04,Cash on Delivery,"Bengaluru, Karnataka",4.0,Delivered
+CUST1179,Arjun Davis,38.0,Female,PRD2425,Beauty,Face Cleanser,451.02,1.0,ORD10466,2023-12-22,Debit Card,"Chennai, Tamil Nadu",5.0,Delivered
+CUST1131,Sneha Taylor,36.0,Male,PRD7299,Electronics,Noise Cancelling Headphones,10126.11,2.0,ORD10467,2023-04-14,PayPal,"Chennai, Tamil Nadu",4.5,Processing
+CUST1338,Lucas Brown,22.0,F,PRD8991,Electronics,Smart Watch,4929.5,4.0,ORD10468,2024-12-07,UPI,"Mumbai, Maharashtra",4.0,Delivered
+CUST1050,Rohan Williams,45.0,male,PRD5872,Clothing,Hooded Sweatshirt,1531.41,5.0,ORD10469,2023-02-15,Debit Card,"Hyderabad, Telangana",,Delivered
+CUST1099,Aditya Williams,33.0,F,PRD5665,Clothing,Cotton T-Shirt,677.46,3.0,ORD10470,2024-10-08,PayPal,"Delhi, Delhi",,Delivered
+CUST1004,Emma Moore,41.0,Male,PRD8896,Beauty,Matte Lipstick,868.85,3.0,ORD10471,2024-06-20,UPI,"Pune, Maharashtra",3.0,Delivered
+CUST1123,Priya Brown,44.0,M,PRD1423,Electronics,Wireless Earbuds,3242.83,1.0,ORD10472,2023-03-01,Cash on Delivery,"Chennai, Tamil Nadu",2.0,Delivered
+CUST1232,Rhea Davis,28.0,,PRD5279,Books,Atomic Habits,,2.0,ORD10473,2024-01-26,PayPal,"Hyderabad, Telangana",4.0,Cancelled
+CUST1314,Ava Verma,29.0,Female,PRD5675,Books,Python for Data Science,616.7,1.0,ORD10474,2023-09-19,Debit Card,"Ahmedabad, Gujarat",3.0,Returned
+CUST1345,Isha Jones,30.0,F,PRD5055,Sports,Dumbbell Set 10kg,2270.97,2.0,ORD10475,2023-02-14,Debit Card,"Pune, Maharashtra",3.0,Delivered
+CUST1132,Emma Davis,47.0,female,PRD4519,Books,Deep Work,503.09,1.0,ORD10476,2024-10-03,PayPal,"Kolkata, West Bengal",4.5,Returned
+CUST1224,Ava Nair,24.0,Male,PRD3655,Home & Kitchen,LED Desk Lamp,1020.82,1.0,ORD10477,2024-03-28,PayPal,"Chandigarh, Punjab",3.0,Delivered
+CUST1303,Isha Reddy,49.0,M,PRD5751,Books,Machine Learning Hands-on,812.21,1.0,ORD10478,2024-09-28,UPI,"Bengaluru, Karnataka",3.0,Returned
+CUST1113,Meera Jones,36.0,F,PRD1585,Electronics,USB-C Hub,1767.71,2.0,ORD10479,2024-12-19,Debit Card,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1171,Vikram Reddy,36.0,F,PRD3142,Electronics,Bluetooth Speaker,1948.58,1.0,ORD10480,2024-03-01,UPI,"Kolkata, West Bengal",3.0,Returned
+CUST1201,Karan Verma,43.0,male,PRD8658,Books,The Psychology of Money,434.14,1.0,ORD10481,2024-01-28,PayPal,"Bengaluru, Karnataka",4.0,Cancelled
+CUST1248,Neha Gupta,34.0,F,PRD1585,Electronics,USB-C Hub,2031.13,4.0,ORD10482,2024-03-13,Debit Card,"Mumbai, Maharashtra",4.0,Delivered
+CUST1027,Ananya Miller,45.0,F,PRD4519,Books,Deep Work,449.62,2.0,ORD10483,2024-10-06,Credit Card,"Ahmedabad, Gujarat",5.0,Shipped
+CUST1141,James Jones,28.0,Female,PRD8658,Books,The Psychology of Money,457.59,1.0,ORD10484,2023-12-24,Cash on Delivery,"Bengaluru, Karnataka",5.0,Cancelled
+CUST1223,Neha Moore,49.0,female,PRD6239,Clothing,Formal Shirt,1349.68,2.0,ORD10485,2023-09-16,Cash on Delivery,"Chandigarh, Punjab",5.0,Delivered
+CUST1107,Emma Iyer,29.0,female,PRD2552,Beauty,Sunscreen SPF 50,617.56,1.0,ORD10486,2023-09-09,Credit Card,"Delhi, Delhi",3.0,Processing
+CUST1088,Tanvi Sharma,49.0,M,PRD8658,Books,The Psychology of Money,428.44,2.0,ORD10487,2023-06-20,Credit Card,"Mumbai, Maharashtra",2.0,Delivered
+CUST1154,Sophia Reddy,29.0,M,PRD3413,Home & Kitchen,Coffee Maker,3630.08,1.0,ORD10488,2024-11-06,PayPal,"Delhi, Delhi",5.0,Shipped
+CUST1074,Isha Reddy,30.0,F,PRD5751,Books,Machine Learning Hands-on,902.65,1.0,ORD10489,2023-03-14,UPI,"Kolkata, West Bengal",4.5,Delivered
+CUST1040,Aditya Iyer,22.0,M,PRD5675,Books,Python for Data Science,629.4,1.0,ORD10490,2023-04-09,Credit Card,"Kolkata, West Bengal",2.0,Shipped
+CUST1054,Ava Iyer,25.0,Female,PRD1585,Electronics,USB-C Hub,1970.94,1.0,ORD10491,2024-01-06,PayPal,"Bengaluru, Karnataka",5.0,Cancelled
+CUST1273,Isha Taylor,33.0,M,PRD3142,Electronics,Bluetooth Speaker,2082.74,1.0,ORD10492,2024-12-21,Debit Card,"Chandigarh, Punjab",4.0,Delivered
+CUST1225,Priya Jones,36.0,F,PRD5872,Clothing,Hooded Sweatshirt,1463.65,2.0,ORD10493,2023-02-21,Credit Card,"Hyderabad, Telangana",2.0,Processing
+CUST1030,Rohan Chopra,44.0,Female,PRD8658,Books,The Psychology of Money,408.76,4.0,ORD10494,2023-11-18,PayPal,"Mumbai, Maharashtra",5.0,Delivered
+CUST1218,Liam Wilson,31.0,female,PRD8658,Books,The Psychology of Money,375.91,1.0,ORD10495,2023-09-08,Credit Card,"Pune, Maharashtra",4.5,Delivered
+CUST1027,Tanvi Davis,21.0,F,PRD4805,Clothing,Track Pants,928.54,8.0,ORD10496,2023-05-09,Credit Card,"Chandigarh, Punjab",3.0,Cancelled
+CUST1264,Ethan Patel,38.0,Male,PRD1388,Home & Kitchen,Air Fryer,5929.85,,ORD10497,2024-12-06,UPI,"Mumbai, Maharashtra",4.0,Delivered
+CUST1044,Arjun Miller,46.0,Male,PRD4805,Clothing,Track Pants,997.84,1.0,ORD10498,2024-07-06,Credit Card,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1072,Priya Williams,,F,PRD5665,Clothing,Cotton T-Shirt,698.05,1.0,ORD10499,2023-01-06,PayPal,"Chennai, Tamil Nadu",4.0,Processing
+CUST1254,Ava Gupta,51.0,female,PRD4519,Books,Deep Work,494.18,1.0,ORD10500,2023-06-17,Debit Card,"Mumbai, Maharashtra",3.0,Shipped
+CUST1306,Olivia Sharma,27.0,Female,PRD8656,Clothing,Athletic Shorts,865.17,2.0,ORD10501,2023-05-23,PayPal,"Hyderabad, Telangana",1.0,Cancelled
+CUST1258,Rhea Singh,27.0,male,PRD5665,Clothing,Cotton T-Shirt,802.17,1.0,ORD10502,2023-07-01,Credit Card,"Mumbai, Maharashtra",4.5,Delivered
+CUST1325,Sneha Nair,49.0,F,PRD3102,Electronics,Fast Charger 65W,1134.61,2.0,ORD10503,2023-04-11,Debit Card,"Mumbai, Maharashtra",,Cancelled
+CUST1165,Rahul Chopra,27.0,male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2309.63,,ORD10504,2023-09-25,UPI,"Pune, Maharashtra",3.0,Cancelled
+CUST1302,Arjun Taylor,37.0,Female,PRD8991,Electronics,Smart Watch,4649.51,1.0,ORD10505,2023-11-27,Debit Card,"Ahmedabad, Gujarat",1.0,Processing
+CUST1317,Amit Chopra,29.0,F,PRD5665,Clothing,Cotton T-Shirt,753.45,1.0,ORD10506,2024-09-12,PayPal,"Delhi, Delhi",1.0,Shipped
+CUST1215,Arjun Miller,59.0,male,PRD1388,Home & Kitchen,Air Fryer,6857.57,2.0,ORD10507,2023-07-16,Debit Card,"Ahmedabad, Gujarat",4.0,Processing
+CUST1200,Karan Taylor,44.0,male,PRD2162,Sports,Yoga Mat Pro,1012.85,1.0,ORD10508,2024-09-09,Debit Card,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1088,Sneha Patel,30.0,M,PRD5872,Clothing,Hooded Sweatshirt,1716.36,1.0,ORD10509,2023-04-18,Credit Card,"Pune, Maharashtra",3.0,Delivered
+CUST1043,Liam Wilson,40.0,M,PRD1388,Home & Kitchen,Air Fryer,149975.0,3.0,ORD10510,2024-05-06,Credit Card,"Jaipur, Rajasthan",4.5,Delivered
+CUST1196,James Mehta,39.0,Female,PRD5872,Clothing,Hooded Sweatshirt,1651.8,2.0,ORD10511,2023-03-15,PayPal,"Pune, Maharashtra",4.0,Delivered
+CUST1254,Pooja Jones,45.0,Female,PRD5751,Books,Machine Learning Hands-on,799.62,1.0,ORD10512,2023-07-22,Credit Card,"Bengaluru, Karnataka",2.0,Shipped
+CUST1331,Karan Iyer,18.0,Male,PRD2162,Sports,Yoga Mat Pro,1105.53,1.0,ORD10513,2023-11-02,Debit Card,"Delhi, Delhi",5.0,Processing
+CUST1007,Ava Sharma,20.0,M,PRD5675,Books,Python for Data Science,676.46,2.0,ORD10514,2024-03-10,PayPal,"Bengaluru, Karnataka",4.5,Cancelled
+CUST1137,James Wilson,24.0,M,PRD7299,Electronics,Noise Cancelling Headphones,8153.1,1.0,ORD10515,2024-03-12,Debit Card,"Kolkata, West Bengal",5.0,Returned
+CUST1058,Meera Singh,33.0,M,PRD1388,Home & Kitchen,Air Fryer,6783.85,2.0,ORD10516,2023-01-20,Debit Card,"Kolkata, West Bengal",4.5,Delivered
+CUST1348,Tanvi Gupta,18.0,M,PRD1388,Home & Kitchen,Air Fryer,5952.68,2.0,ORD10517,2023-12-26,Credit Card,"Bengaluru, Karnataka",2.0,Delivered
+CUST1076,Karan Jones,24.0,Male,PRD7299,Electronics,Noise Cancelling Headphones,8302.58,3.0,ORD10518,2024-03-25,UPI,"Pune, Maharashtra",4.0,Cancelled
+CUST1212,Rhea Smith,48.0,Female,PRD8896,Beauty,Matte Lipstick,928.77,2.0,ORD10519,2024-07-03,Cash on Delivery,"Chandigarh, Punjab",5.0,Delivered
+CUST1045,Sneha Johnson,,Male,PRD4647,Home & Kitchen,Blender Mixer,1854.15,1.0,ORD10520,2023-06-28,UPI,"Ahmedabad, Gujarat",4.5,Shipped
+CUST1125,Rahul Nair,21.0,F,PRD6239,Clothing,Formal Shirt,1307.02,3.0,ORD10521,2023-02-22,PayPal,"Chandigarh, Punjab",1.0,Delivered
+CUST1188,Vikram Verma,40.0,Female,PRD4805,Clothing,Track Pants,1085.94,3.0,ORD10522,2024-05-16,UPI,"Ahmedabad, Gujarat",5.0,Delivered
+CUST1147,Ananya Gupta,46.0,male,PRD5055,Sports,Dumbbell Set 10kg,,3.0,ORD10523,2024-11-15,Cash on Delivery,"Jaipur, Rajasthan",2.0,Shipped
+CUST1081,Aditya Verma,43.0,male,PRD8896,Beauty,Matte Lipstick,993.96,2.0,ORD10524,2023-10-27,PayPal,"Ahmedabad, Gujarat",5.0,Shipped
+CUST1195,Pooja Patel,39.0,Male,PRD8991,Electronics,Smart Watch,4918.36,2.0,ORD10525,2023-03-18,Credit Card,"Hyderabad, Telangana",3.0,Delivered
+CUST1283,Rahul Patel,49.0,Male,PRD1071,Sports,Badminton Racket,1702.68,,ORD10526,2024-06-25,PayPal,"Jaipur, Rajasthan",4.0,Cancelled
+CUST1183,Vikram Iyer,41.0,female,PRD5665,Clothing,Cotton T-Shirt,731.57,1.0,ORD10527,2023-05-06,PayPal,"Delhi, Delhi",1.0,Cancelled
+CUST1119,Lucas Reddy,29.0,male,PRD3745,Sports,Hydration Water Bottle,617.46,2.0,ORD10528,2023-08-26,UPI,"Chennai, Tamil Nadu",4.0,Delivered
+CUST1350,Karan Nair,24.0,male,PRD1071,Sports,Badminton Racket,37475.0,1.0,ORD10529,2023-02-16,PayPal,"Pune, Maharashtra",3.0,Delivered
+CUST1035,Aditya Moore,38.0,Female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2525.27,1.0,ORD10530,2024-02-19,Credit Card,"Pune, Maharashtra",4.0,Shipped
+CUST1318,Mia Gupta,38.0,M,PRD1388,Home & Kitchen,Air Fryer,5793.28,1.0,ORD10531,2023-11-02,Debit Card,"Jaipur, Rajasthan",,Returned
+CUST1054,Neha Brown,42.0,Female,PRD2425,Beauty,Face Cleanser,423.19,8.0,ORD10532,2023-08-04,Debit Card,"Delhi, Delhi",4.0,Returned
+CUST1222,Rahul Brown,18.0,Female,PRD5594,Clothing,Denim Jacket,3039.92,2.0,ORD10533,2023-08-05,UPI,"Chandigarh, Punjab",,Processing
+CUST1195,Diya Johnson,42.0,male,PRD7299,Electronics,Noise Cancelling Headphones,8287.16,1.0,ORD10534,2024-07-03,PayPal,"Kolkata, West Bengal",5.0,Delivered
+CUST1095,Ethan Patel,19.0,M,PRD5532,Clothing,Slim Fit Jeans,2036.73,2.0,ORD10535,2024-03-23,UPI,"Chandigarh, Punjab",1.0,Processing
+CUST1306,Rahul Verma,36.0,F,PRD5279,Books,Atomic Habits,,1.0,ORD10536,2024-03-16,Credit Card,"Kolkata, West Bengal",5.0,Delivered
+CUST1231,Ethan Gupta,29.0,Male,PRD5594,Clothing,Denim Jacket,3108.53,5.0,ORD10537,2024-07-07,Debit Card,"Hyderabad, Telangana",4.5,Delivered
+CUST1190,Ethan Johnson,,female,PRD4748,Electronics,Tablet 10-inch,16040.54,1.0,ORD10538,2024-09-14,Credit Card,"Bengaluru, Karnataka",3.0,Delivered
+CUST1284,Rhea Singh,40.0,F,PRD4519,Books,Deep Work,510.51,1.0,ORD10539,2023-02-03,Credit Card,"Mumbai, Maharashtra",4.0,Delivered
+CUST1255,Olivia Taylor,36.0,female,PRD3102,Electronics,Fast Charger 65W,1093.13,4.0,ORD10540,2024-02-07,Credit Card,"Pune, Maharashtra",4.0,Shipped
+CUST1331,Liam Brown,,male,PRD3550,Sports,Resistance Bands,487.45,2.0,ORD10541,2023-07-22,Credit Card,"Kolkata, West Bengal",,Delivered
+CUST1079,Ava Johnson,31.0,M,PRD3413,Home & Kitchen,Coffee Maker,3360.64,2.0,ORD10542,2024-04-20,Credit Card,"Chandigarh, Punjab",5.0,Shipped
+CUST1089,Karan Smith,29.0,male,PRD2162,Sports,Yoga Mat Pro,1109.65,1.0,ORD10543,2023-05-27,UPI,"Hyderabad, Telangana",1.0,Shipped
+CUST1006,James Moore,18.0,Male,PRD1071,Sports,Badminton Racket,,2.0,ORD10544,2024-08-21,Debit Card,"Hyderabad, Telangana",2.0,Delivered
+CUST1100,Isha Nair,44.0,M,PRD5675,Books,Python for Data Science,686.96,1.0,ORD10545,2023-10-28,Credit Card,"Ahmedabad, Gujarat",1.0,Delivered
+CUST1073,Neha Mehta,38.0,M,PRD6239,Clothing,Formal Shirt,1303.46,1.0,ORD10546,2023-11-03,PayPal,"Kolkata, West Bengal",5.0,Shipped
+CUST1083,Pooja Chopra,,female,PRD8658,Books,The Psychology of Money,393.3,1.0,ORD10547,2023-10-20,Debit Card,"Jaipur, Rajasthan",1.0,Delivered
+CUST1311,Aarav Wilson,,male,PRD4805,Clothing,Track Pants,906.47,1.0,ORD10548,2023-02-24,UPI,"Chennai, Tamil Nadu",1.0,Delivered
+CUST1283,James Chopra,28.0,Female,PRD5872,Clothing,Hooded Sweatshirt,1681.62,1.0,ORD10549,2024-07-04,Debit Card,"Hyderabad, Telangana",4.0,Shipped
+CUST1229,Tanvi Taylor,42.0,female,PRD4991,Beauty,Herbal Shampoo,561.11,1.0,ORD10550,2023-08-06,Cash on Delivery,"Chennai, Tamil Nadu",3.0,Processing
+CUST1331,Arjun Johnson,45.0,Female,PRD5872,Clothing,Hooded Sweatshirt,1488.38,1.0,ORD10551,2023-06-04,UPI,"Mumbai, Maharashtra",2.0,Shipped
+CUST1291,Ava Smith,20.0,female,PRD8656,Clothing,Athletic Shorts,970.08,2.0,ORD10552,2024-11-03,PayPal,"Pune, Maharashtra",2.0,Delivered
+CUST1026,Ava Davis,32.0,Male,PRD5207,Beauty,Moisturizing Cream,574.5,,ORD10553,2023-01-21,PayPal,"Chennai, Tamil Nadu",4.0,Delivered
+CUST1274,Mia Miller,,Male,PRD6904,Beauty,Vitamin C Serum,779.22,2.0,ORD10554,2023-06-13,Cash on Delivery,"Pune, Maharashtra",1.0,Shipped
+CUST1153,Liam Jones,46.0,M,PRD2162,Sports,Yoga Mat Pro,,1.0,ORD10555,2023-01-05,UPI,"Kolkata, West Bengal",1.0,Delivered
+CUST1189,Ethan Wilson,48.0,M,PRD8991,Electronics,Smart Watch,4828.69,5.0,ORD10556,2023-07-09,Debit Card,"Chandigarh, Punjab",2.0,Delivered
+CUST1076,Noah Moore,31.0,Female,PRD5675,Books,Python for Data Science,662.66,4.0,ORD10557,2024-05-11,Debit Card,"Delhi, Delhi",3.0,Cancelled
+CUST1043,Priya Wilson,21.0,male,PRD5675,Books,Python for Data Science,619.53,1.0,ORD10558,2024-08-27,Debit Card,"Ahmedabad, Gujarat",2.0,Returned
+CUST1303,Noah Miller,20.0,F,PRD2425,Beauty,Face Cleanser,450.28,1.0,ORD10559,2024-06-13,Cash on Delivery,"Jaipur, Rajasthan",4.0,Delivered
+CUST1036,Aditya Williams,52.0,F,PRD3142,Electronics,Bluetooth Speaker,1854.17,,ORD10560,2024-08-06,Credit Card,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1136,Ananya Wilson,33.0,female,PRD8896,Beauty,Matte Lipstick,892.21,3.0,ORD10561,2024-07-24,Debit Card,"Chennai, Tamil Nadu",2.0,Processing
+CUST1142,Arjun Taylor,36.0,F,PRD5665,Clothing,Cotton T-Shirt,635.34,1.0,ORD10562,2023-02-18,UPI,"Hyderabad, Telangana",5.0,Cancelled
+CUST1208,Karan Brown,20.0,M,PRD5207,Beauty,Moisturizing Cream,634.48,3.0,ORD10563,2023-05-24,Credit Card,"Bengaluru, Karnataka",5.0,Processing
+CUST1245,Olivia Chopra,49.0,F,PRD3142,Electronics,Bluetooth Speaker,1869.98,,ORD10564,2024-08-14,Credit Card,"Bengaluru, Karnataka",1.0,Delivered
+CUST1348,Noah Sharma,39.0,Female,PRD6239,Clothing,Formal Shirt,1353.32,1.0,ORD10565,2023-04-17,Debit Card,"Delhi, Delhi",5.0,Delivered
+CUST1232,Meera Johnson,33.0,M,PRD6904,Beauty,Vitamin C Serum,785.76,3.0,ORD10566,2024-11-28,Credit Card,"Chennai, Tamil Nadu",5.0,Cancelled
+CUST1011,Vikram Williams,41.0,Female,PRD4636,Electronics,Gaming Mouse,1510.51,3.0,ORD10567,2024-02-07,Credit Card,"Chennai, Tamil Nadu",5.0,Processing
+CUST1231,Lucas Miller,41.0,M,PRD8896,Beauty,Matte Lipstick,878.62,2.0,ORD10568,2024-09-23,Cash on Delivery,"Delhi, Delhi",4.0,Processing
+CUST1178,Neha Iyer,23.0,Female,PRD5751,Books,Machine Learning Hands-on,883.6,1.0,ORD10569,2023-08-10,UPI,"Mumbai, Maharashtra",2.0,Delivered
+CUST1304,Ananya Patel,160.0,Male,PRD3102,Electronics,Fast Charger 65W,1095.22,4.0,ORD10570,2023-09-05,UPI,"Bengaluru, Karnataka",2.0,Shipped
+CUST1300,Mia Verma,37.0,male,PRD4519,Books,Deep Work,416.04,2.0,ORD10571,2024-05-20,Debit Card,"Chandigarh, Punjab",3.0,Returned
+CUST1297,Vikram Reddy,33.0,M,PRD3102,Electronics,Fast Charger 65W,1035.42,1.0,ORD10572,2023-07-04,Cash on Delivery,"Ahmedabad, Gujarat",4.5,Cancelled
+CUST1184,Siddharth Johnson,49.0,Male,PRD2162,Sports,Yoga Mat Pro,1087.88,1.0,ORD10573,2023-05-26,Cash on Delivery,"Jaipur, Rajasthan",4.5,Processing
+CUST1290,Lucas Chopra,26.0,F,PRD4748,Electronics,Tablet 10-inch,16239.87,1.0,ORD10574,2023-01-09,UPI,"Chandigarh, Punjab",3.0,Processing
+CUST1247,Liam Smith,53.0,female,PRD5675,Books,Python for Data Science,676.33,1.0,ORD10575,2023-03-08,UPI,"Chennai, Tamil Nadu",1.0,Returned
+CUST1249,Rhea Reddy,-5.0,female,PRD4636,Electronics,Gaming Mouse,1661.16,1.0,ORD10576,2024-01-04,PayPal,"Ahmedabad, Gujarat",2.0,Returned
+CUST1280,Aditya Taylor,18.0,Female,PRD5594,Clothing,Denim Jacket,,2.0,ORD10577,2023-12-22,Debit Card,"Jaipur, Rajasthan",4.5,Delivered
+CUST1244,Meera Chopra,40.0,M,PRD5279,Books,Atomic Habits,462.49,1.0,ORD10578,2023-07-05,UPI,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1298,Neha Patel,30.0,Male,PRD3413,Home & Kitchen,Coffee Maker,3391.32,1.0,ORD10579,2023-06-17,UPI,"Jaipur, Rajasthan",1.0,Delivered
+CUST1336,Vikram Johnson,33.0,male,PRD3655,Home & Kitchen,LED Desk Lamp,1015.01,1.0,ORD10580,2023-07-16,Cash on Delivery,"Jaipur, Rajasthan",4.5,Delivered
+CUST1067,Liam Smith,61.0,Female,PRD1423,Electronics,Wireless Earbuds,,1.0,ORD10581,2023-04-04,PayPal,"Ahmedabad, Gujarat",2.0,Returned
+CUST1122,Ananya Singh,28.0,Male,PRD3102,Electronics,Fast Charger 65W,917.3,2.0,ORD10582,2023-10-21,Debit Card,"Pune, Maharashtra",4.0,Shipped
+CUST1069,James Moore,38.0,F,PRD3413,Home & Kitchen,Coffee Maker,3861.0,1.0,ORD10583,2023-04-03,Credit Card,"Hyderabad, Telangana",,Delivered
+CUST1003,Priya Williams,39.0,F,PRD8658,Books,The Psychology of Money,415.99,1.0,ORD10584,2023-06-12,Credit Card,"Ahmedabad, Gujarat",4.0,Returned
+CUST1037,Varun Verma,31.0,Female,PRD5665,Clothing,Cotton T-Shirt,668.25,8.0,ORD10585,2024-05-13,Credit Card,"Bengaluru, Karnataka",1.0,Processing
+CUST1295,Sneha Miller,29.0,Male,PRD2162,Sports,Yoga Mat Pro,1145.09,1.0,ORD10586,2024-01-11,UPI,"Hyderabad, Telangana",1.0,Delivered
+CUST1105,Isha Smith,60.0,male,PRD6904,Beauty,Vitamin C Serum,840.95,2.0,ORD10587,2023-01-12,PayPal,"Chandigarh, Punjab",1.0,Processing
+CUST1246,Vikram Mehta,33.0,male,PRD5279,Books,Atomic Habits,555.12,2.0,ORD10588,2023-01-02,Debit Card,"Jaipur, Rajasthan",4.0,Cancelled
+CUST1010,Isha Davis,24.0,Female,PRD4519,Books,Deep Work,418.27,1.0,ORD10589,2023-06-12,UPI,"Kolkata, West Bengal",2.0,Delivered
+CUST1048,Varun Sharma,34.0,female,PRD2162,Sports,Yoga Mat Pro,14985.0,1.0,ORD10590,2023-02-02,PayPal,"Bengaluru, Karnataka",3.0,Delivered
+CUST1309,James Nair,32.0,F,PRD8991,Electronics,Smart Watch,4756.37,1.0,ORD10591,2023-06-28,PayPal,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1335,Sneha Miller,25.0,Male,PRD1585,Electronics,USB-C Hub,2004.33,2.0,ORD10592,2023-04-05,UPI,"Jaipur, Rajasthan",3.0,Cancelled
+CUST1073,Diya Nair,44.0,Male,PRD4748,Electronics,Tablet 10-inch,16751.91,1.0,ORD10593,2024-02-02,Cash on Delivery,"Kolkata, West Bengal",4.0,Shipped
+CUST1228,Diya Nair,40.0,Male,PRD5279,Books,Atomic Habits,566.02,1.0,ORD10594,2024-06-27,Cash on Delivery,"Hyderabad, Telangana",3.0,Cancelled
+CUST1319,Tanvi Williams,37.0,Male,PRD1071,Sports,Badminton Racket,1456.81,2.0,ORD10595,2024-09-15,Cash on Delivery,"Chandigarh, Punjab",3.0,Delivered
+CUST1196,Siddharth Nair,25.0,M,PRD4636,Electronics,Gaming Mouse,1563.11,1.0,ORD10596,2024-05-12,UPI,"Chandigarh, Punjab",,Delivered
+CUST1292,Emma Smith,53.0,Male,PRD6904,Beauty,Vitamin C Serum,815.02,3.0,ORD10597,2023-04-14,Cash on Delivery,"Delhi, Delhi",4.5,Processing
+CUST1161,Rohan Jones,37.0,Female,PRD5532,Clothing,Slim Fit Jeans,2107.92,2.0,ORD10598,2023-02-21,Debit Card,"Jaipur, Rajasthan",4.5,Delivered
+CUST1022,Isha Nair,27.0,M,PRD1585,Electronics,USB-C Hub,1820.52,3.0,ORD10599,2023-09-15,Cash on Delivery,"Delhi, Delhi",3.0,Processing
+CUST1191,Ethan Williams,45.0,Male,PRD4647,Home & Kitchen,Blender Mixer,2003.07,1.0,ORD10600,2023-08-10,Debit Card,"Pune, Maharashtra",,Delivered
+CUST1303,Aarav Iyer,35.0,F,PRD3745,Sports,Hydration Water Bottle,595.83,3.0,ORD10601,2023-11-24,PayPal,"Delhi, Delhi",2.0,Processing
+CUST1258,Varun Wilson,44.0,female,PRD4748,Electronics,Tablet 10-inch,15666.78,1.0,ORD10602,2023-10-10,UPI,"Hyderabad, Telangana",3.0,Delivered
+CUST1234,Amit Iyer,38.0,Female,PRD1388,Home & Kitchen,Air Fryer,6770.82,2.0,ORD10603,2024-10-08,PayPal,"Hyderabad, Telangana",2.0,Processing
+CUST1126,Noah Williams,58.0,M,PRD8791,Home & Kitchen,Electric Kettle,1333.11,1.0,ORD10604,2023-08-21,Debit Card,"Ahmedabad, Gujarat",,Delivered
+CUST1215,Aditya Wilson,22.0,Male,PRD6904,Beauty,Vitamin C Serum,745.54,2.0,ORD10605,2024-07-14,Debit Card,"Kolkata, West Bengal",2.0,Cancelled
+CUST1151,Ananya Smith,28.0,female,PRD1423,Electronics,Wireless Earbuds,3411.3,2.0,ORD10606,2024-11-15,UPI,"Ahmedabad, Gujarat",5.0,Delivered
+CUST1302,Mia Miller,66.0,M,PRD4519,Books,Deep Work,462.23,2.0,ORD10607,2024-02-08,PayPal,"Pune, Maharashtra",,Processing
+CUST1269,Varun Miller,32.0,M,PRD5532,Clothing,Slim Fit Jeans,2240.07,1.0,ORD10608,2024-07-17,Cash on Delivery,"Chandigarh, Punjab",3.0,Delivered
+CUST1085,Ananya Chopra,21.0,M,PRD4647,Home & Kitchen,Blender Mixer,2132.15,2.0,ORD10609,2023-04-18,Credit Card,"Chandigarh, Punjab",4.5,Processing
+CUST1100,Aarav Davis,40.0,female,PRD2425,Beauty,Face Cleanser,404.37,1.0,ORD10610,2023-12-23,PayPal,"Kolkata, West Bengal",1.0,Returned
+CUST1071,Aditya Iyer,46.0,male,PRD5675,Books,Python for Data Science,629.87,2.0,ORD10611,2023-09-22,UPI,"Mumbai, Maharashtra",5.0,Returned
+CUST1267,Amit Reddy,32.0,Male,PRD5675,Books,Python for Data Science,726.72,2.0,ORD10612,2024-04-09,Debit Card,"Ahmedabad, Gujarat",5.0,Shipped
+CUST1145,Vikram Reddy,18.0,F,PRD5751,Books,Machine Learning Hands-on,,1.0,ORD10613,2023-09-20,Debit Card,"Mumbai, Maharashtra",3.0,Processing
+CUST1195,James Moore,24.0,male,PRD3413,Home & Kitchen,Coffee Maker,3577.92,8.0,ORD10614,2024-10-12,UPI,"Delhi, Delhi",3.0,Shipped
+CUST1229,Amit Nair,18.0,M,PRD5675,Books,Python for Data Science,605.81,2.0,ORD10615,2024-08-20,Debit Card,"Mumbai, Maharashtra",4.5,Delivered
+CUST1210,Diya Wilson,56.0,Female,PRD4991,Beauty,Herbal Shampoo,482.57,1.0,ORD10616,2023-06-21,UPI,"Ahmedabad, Gujarat",4.5,Delivered
+CUST1275,Rahul Iyer,18.0,female,PRD2162,Sports,Yoga Mat Pro,993.8,2.0,ORD10617,2023-06-12,Credit Card,"Jaipur, Rajasthan",4.5,Delivered
+CUST1081,Ethan Wilson,27.0,male,PRD8791,Home & Kitchen,Electric Kettle,1249.87,,ORD10618,2023-01-25,Cash on Delivery,"Kolkata, West Bengal",1.0,Delivered
+CUST1145,Neha Sharma,50.0,M,PRD5675,Books,Python for Data Science,650.12,2.0,ORD10619,2023-05-28,Credit Card,"Delhi, Delhi",5.0,Returned
+CUST1213,Aarav Sharma,49.0,Male,PRD8658,Books,The Psychology of Money,419.52,1.0,ORD10620,2023-06-14,UPI,"Chennai, Tamil Nadu",1.0,Delivered
+CUST1336,Varun Davis,39.0,Female,PRD3550,Sports,Resistance Bands,515.62,1.0,ORD10621,2024-01-16,UPI,"Jaipur, Rajasthan",4.0,Delivered
+CUST1296,Aarav Brown,36.0,Male,PRD5279,Books,Atomic Habits,570.83,1.0,ORD10622,2024-03-07,Cash on Delivery,"Hyderabad, Telangana",4.0,Processing
+CUST1243,Arjun Moore,33.0,Female,PRD3655,Home & Kitchen,LED Desk Lamp,881.34,1.0,ORD10623,2023-07-28,UPI,"Hyderabad, Telangana",4.0,Processing
+CUST1256,Amit Nair,46.0,F,PRD5675,Books,Python for Data Science,597.59,3.0,ORD10624,2023-01-06,Debit Card,"Hyderabad, Telangana",1.0,Delivered
+CUST1218,Meera Singh,42.0,female,PRD4991,Beauty,Herbal Shampoo,,1.0,ORD10625,2024-05-24,Cash on Delivery,"Pune, Maharashtra",3.0,Processing
+CUST1333,Pooja Gupta,18.0,F,PRD4647,Home & Kitchen,Blender Mixer,1904.36,2.0,ORD10626,2023-12-24,Debit Card,"Jaipur, Rajasthan",4.0,Delivered
+CUST1163,Tanvi Singh,30.0,M,PRD5751,Books,Machine Learning Hands-on,862.45,5.0,ORD10627,2023-10-15,Credit Card,"Pune, Maharashtra",2.0,Delivered
+CUST1322,Aarav Reddy,21.0,female,PRD5279,Books,Atomic Habits,565.65,1.0,ORD10628,2023-11-22,Credit Card,"Chandigarh, Punjab",5.0,Delivered
+CUST1144,Pooja Mehta,19.0,F,PRD2552,Beauty,Sunscreen SPF 50,682.22,2.0,ORD10629,2024-12-28,Debit Card,"Bengaluru, Karnataka",,Delivered
+CUST1111,Rohan Taylor,46.0,M,PRD1423,Electronics,Wireless Earbuds,3018.05,1.0,ORD10630,2023-05-17,Debit Card,"Jaipur, Rajasthan",4.0,Cancelled
+CUST1243,Priya Chopra,33.0,female,PRD5532,Clothing,Slim Fit Jeans,2154.6,1.0,ORD10631,2024-09-15,UPI,"Delhi, Delhi",4.0,Cancelled
+CUST1179,Pooja Sharma,39.0,M,PRD4519,Books,Deep Work,517.26,1.0,ORD10632,2023-07-12,Credit Card,"Hyderabad, Telangana",4.5,Delivered
+CUST1003,Varun Chopra,34.0,female,PRD3102,Electronics,Fast Charger 65W,1018.66,1.0,ORD10633,2024-12-23,UPI,"Mumbai, Maharashtra",1.0,Returned
+CUST1242,Rhea Jones,19.0,female,PRD1423,Electronics,Wireless Earbuds,3233.9,3.0,ORD10634,2023-03-28,Credit Card,"Kolkata, West Bengal",1.0,Delivered
+CUST1228,James Patel,18.0,male,PRD8658,Books,The Psychology of Money,426.13,2.0,ORD10635,2024-12-06,Cash on Delivery,"Mumbai, Maharashtra",4.0,Shipped
+CUST1342,Emma Patel,29.0,F,PRD1388,Home & Kitchen,Air Fryer,6311.74,2.0,ORD10636,2023-07-06,UPI,"Chennai, Tamil Nadu",1.0,Delivered
+CUST1239,Varun Verma,30.0,Male,PRD5594,Clothing,Denim Jacket,3168.91,,ORD10637,2023-03-26,Debit Card,"Pune, Maharashtra",5.0,Delivered
+CUST1158,Ethan Reddy,30.0,Female,PRD5279,Books,Atomic Habits,488.46,1.0,ORD10638,2023-04-09,Debit Card,"Chennai, Tamil Nadu",4.0,Delivered
+CUST1048,Meera Johnson,43.0,Female,PRD5751,Books,Machine Learning Hands-on,846.96,1.0,ORD10639,2024-04-23,UPI,"Chennai, Tamil Nadu",5.0,Processing
+CUST1283,Ethan Mehta,47.0,Female,PRD1388,Home & Kitchen,Air Fryer,6345.61,3.0,ORD10640,2024-08-19,UPI,"Chandigarh, Punjab",4.5,Delivered
+CUST1166,Liam Iyer,37.0,,PRD4991,Beauty,Herbal Shampoo,461.6,3.0,ORD10641,2024-05-06,Cash on Delivery,"Bengaluru, Karnataka",4.0,Returned
+CUST1316,Siddharth Moore,48.0,male,PRD3655,Home & Kitchen,LED Desk Lamp,961.61,1.0,ORD10642,2023-04-25,PayPal,"Kolkata, West Bengal",4.5,Shipped
+CUST1304,Aarav Singh,30.0,F,PRD5055,Sports,Dumbbell Set 10kg,1868.84,1.0,ORD10643,2024-01-03,Debit Card,"Pune, Maharashtra",2.0,Shipped
+CUST1001,Emma Gupta,27.0,male,PRD4805,Clothing,Track Pants,960.22,1.0,ORD10644,2024-06-01,Debit Card,"Pune, Maharashtra",4.5,Cancelled
+CUST1202,Liam Reddy,32.0,F,PRD4805,Clothing,Track Pants,978.61,4.0,ORD10645,2024-07-25,UPI,"Kolkata, West Bengal",4.5,Delivered
+CUST1178,Meera Moore,,male,PRD5872,Clothing,Hooded Sweatshirt,1349.7,1.0,ORD10646,2023-07-03,Debit Card,"Ahmedabad, Gujarat",2.0,Delivered
+CUST1223,Rohan Smith,22.0,M,PRD2425,Beauty,Face Cleanser,454.71,1.0,ORD10647,2023-03-13,PayPal,"Delhi, Delhi",5.0,Delivered
+CUST1336,Sophia Brown,44.0,female,PRD1071,Sports,Badminton Racket,37475.0,1.0,ORD10648,2024-01-10,UPI,"Delhi, Delhi",4.0,Processing
+CUST1191,Noah Davis,37.0,Male,PRD6239,Clothing,Formal Shirt,1388.21,1.0,ORD10649,2024-06-23,Debit Card,"Jaipur, Rajasthan",5.0,Returned
+CUST1233,Tanvi Patel,56.0,Female,PRD1388,Home & Kitchen,Air Fryer,5777.53,1.0,ORD10650,2023-05-25,Cash on Delivery,"Chennai, Tamil Nadu",3.0,Shipped
+CUST1009,Siddharth Smith,32.0,F,PRD7299,Electronics,Noise Cancelling Headphones,8311.86,1.0,ORD10651,2024-11-16,UPI,"Pune, Maharashtra",5.0,Processing
+CUST1125,Mia Miller,46.0,Male,PRD8656,Clothing,Athletic Shorts,1007.34,1.0,ORD10652,2024-12-03,UPI,"Kolkata, West Bengal",2.0,Cancelled
+CUST1132,Olivia Verma,22.0,male,PRD3550,Sports,Resistance Bands,516.36,2.0,ORD10653,2023-12-26,UPI,"Chandigarh, Punjab",4.0,Delivered
+CUST1096,Aditya Miller,27.0,F,PRD8791,Home & Kitchen,Electric Kettle,,3.0,ORD10654,2023-07-22,UPI,"Chennai, Tamil Nadu",5.0,Delivered
+CUST1050,Sneha Nair,,Male,PRD3550,Sports,Resistance Bands,506.57,1.0,ORD10655,2024-10-11,PayPal,"Jaipur, Rajasthan",,Delivered
+CUST1164,Priya Jones,55.0,female,PRD5751,Books,Machine Learning Hands-on,771.86,2.0,ORD10656,2024-02-21,Cash on Delivery,"Pune, Maharashtra",5.0,Processing
+CUST1190,Neha Chopra,33.0,male,PRD3745,Sports,Hydration Water Bottle,603.72,2.0,ORD10657,2024-01-25,Cash on Delivery,"Ahmedabad, Gujarat",4.0,Processing
+CUST1068,Karan Taylor,56.0,male,PRD3102,Electronics,Fast Charger 65W,1093.29,3.0,ORD10658,2024-07-18,UPI,"Hyderabad, Telangana",4.5,Delivered
+CUST1164,Noah Johnson,29.0,F,PRD5279,Books,Atomic Habits,477.18,4.0,ORD10659,2024-08-10,Debit Card,"Bengaluru, Karnataka",1.0,Processing
+CUST1172,Noah Jones,34.0,female,PRD4519,Books,Deep Work,476.6,2.0,ORD10660,2023-03-20,Cash on Delivery,"Chandigarh, Punjab",1.0,Delivered
+CUST1313,Sneha Singh,22.0,M,PRD7299,Electronics,Noise Cancelling Headphones,10012.08,2.0,ORD10661,2023-06-24,Debit Card,"Ahmedabad, Gujarat",2.0,Delivered
+CUST1068,Neha Verma,41.0,male,PRD8658,Books,The Psychology of Money,376.74,1.0,ORD10662,2024-11-04,Debit Card,"Hyderabad, Telangana",1.0,Delivered
+CUST1017,Emma Williams,25.0,Male,PRD2552,Beauty,Sunscreen SPF 50,700.24,2.0,ORD10663,2023-09-23,PayPal,"Ahmedabad, Gujarat",1.0,Delivered
+CUST1204,Ethan Patel,37.0,F,PRD4991,Beauty,Herbal Shampoo,554.77,8.0,ORD10664,2023-10-25,Debit Card,"Pune, Maharashtra",3.0,Delivered
+CUST1125,Ava Davis,45.0,Male,PRD2425,Beauty,Face Cleanser,385.03,2.0,ORD10665,2024-08-11,UPI,"Chandigarh, Punjab",1.0,Returned
+CUST1072,Vikram Miller,31.0,M,PRD5279,Books,Atomic Habits,519.91,2.0,ORD10666,2024-12-15,Debit Card,"Bengaluru, Karnataka",3.0,Returned
+CUST1197,Aditya Nair,,M,PRD8656,Clothing,Athletic Shorts,,2.0,ORD10667,2024-09-24,PayPal,"Chandigarh, Punjab",3.0,Cancelled
+CUST1080,Varun Miller,31.0,Female,PRD5751,Books,Machine Learning Hands-on,867.85,1.0,ORD10668,2024-11-03,Debit Card,"Chennai, Tamil Nadu",2.0,Delivered
+CUST1312,Noah Iyer,44.0,F,PRD4636,Electronics,Gaming Mouse,1361.41,2.0,ORD10669,2023-06-17,UPI,"Jaipur, Rajasthan",5.0,Processing
+CUST1041,Ava Patel,40.0,F,PRD5594,Clothing,Denim Jacket,2870.3,2.0,ORD10670,2024-03-02,Cash on Delivery,"Chennai, Tamil Nadu",2.0,Cancelled
+CUST1033,Lucas Gupta,41.0,female,PRD1071,Sports,Badminton Racket,1641.93,1.0,ORD10671,2023-11-03,PayPal,"Delhi, Delhi",4.0,Delivered
+CUST1052,Isha Moore,32.0,female,PRD6904,Beauty,Vitamin C Serum,847.46,1.0,ORD10672,2024-11-20,Credit Card,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1253,James Singh,35.0,F,PRD8791,Home & Kitchen,Electric Kettle,1258.5,1.0,ORD10673,2024-05-21,Credit Card,"Bengaluru, Karnataka",3.0,Processing
+CUST1241,Meera Singh,21.0,Male,PRD2552,Beauty,Sunscreen SPF 50,613.74,1.0,ORD10674,2024-04-07,Cash on Delivery,"Chennai, Tamil Nadu",4.5,Shipped
+CUST1053,Emma Chopra,18.0,M,PRD5532,Clothing,Slim Fit Jeans,2225.07,2.0,ORD10675,2024-03-11,Cash on Delivery,"Kolkata, West Bengal",3.0,Delivered
+CUST1135,Meera Chopra,23.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2725.59,,ORD10676,2024-07-02,UPI,"Bengaluru, Karnataka",3.0,Delivered
+CUST1104,Rahul Mehta,18.0,Female,PRD4647,Home & Kitchen,Blender Mixer,1906.54,1.0,ORD10677,2023-05-04,Debit Card,"Bengaluru, Karnataka",4.0,Cancelled
+CUST1304,Meera Patel,19.0,F,PRD5207,Beauty,Moisturizing Cream,595.26,1.0,ORD10678,2024-11-11,Cash on Delivery,"Pune, Maharashtra",3.0,Delivered
+CUST1242,Vikram Verma,27.0,male,PRD8656,Clothing,Athletic Shorts,828.88,2.0,ORD10679,2024-10-18,Cash on Delivery,"Jaipur, Rajasthan",5.0,Delivered
+CUST1072,Noah Verma,45.0,M,PRD2425,Beauty,Face Cleanser,405.82,1.0,ORD10680,2024-06-07,UPI,"Chandigarh, Punjab",1.0,Delivered
+CUST1062,James Williams,50.0,female,PRD1585,Electronics,USB-C Hub,,1.0,ORD10681,2024-01-17,Cash on Delivery,"Ahmedabad, Gujarat",3.0,Cancelled
+CUST1035,Olivia Verma,34.0,female,PRD4805,Clothing,Track Pants,1042.44,1.0,ORD10682,2023-11-07,PayPal,"Chennai, Tamil Nadu",5.0,Delivered
+CUST1334,Amit Verma,46.0,F,PRD4519,Books,Deep Work,438.05,1.0,ORD10683,2023-07-01,Debit Card,"Pune, Maharashtra",3.0,Returned
+CUST1115,Varun Smith,21.0,female,PRD3655,Home & Kitchen,LED Desk Lamp,982.83,1.0,ORD10684,2023-03-04,Cash on Delivery,"Chandigarh, Punjab",1.0,Returned
+CUST1066,Isha Johnson,18.0,male,PRD5751,Books,Machine Learning Hands-on,975.59,2.0,ORD10685,2024-04-25,Credit Card,"Bengaluru, Karnataka",4.0,Delivered
+CUST1193,Aarav Jones,59.0,Male,PRD4991,Beauty,Herbal Shampoo,496.57,2.0,ORD10686,2023-02-06,Debit Card,"Hyderabad, Telangana",4.0,Cancelled
+CUST1310,Priya Smith,41.0,female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2534.58,,ORD10687,2023-07-13,UPI,"Pune, Maharashtra",1.0,Shipped
+CUST1334,Neha Nair,40.0,Female,PRD6904,Beauty,Vitamin C Serum,848.41,5.0,ORD10688,2023-03-28,Debit Card,"Chandigarh, Punjab",,Processing
+CUST1080,Vikram Davis,43.0,F,PRD5279,Books,Atomic Habits,468.75,1.0,ORD10689,2023-09-05,UPI,"Delhi, Delhi",1.0,Shipped
+CUST1105,Neha Brown,42.0,M,PRD1423,Electronics,Wireless Earbuds,2724.76,1.0,ORD10690,2024-07-02,Cash on Delivery,"Jaipur, Rajasthan",1.0,Delivered
+CUST1179,Lucas Nair,37.0,Female,PRD4991,Beauty,Herbal Shampoo,465.87,4.0,ORD10691,2024-11-01,PayPal,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1166,Emma Wilson,25.0,Female,PRD2425,Beauty,Face Cleanser,371.65,1.0,ORD10692,2023-03-08,Credit Card,"Kolkata, West Bengal",4.5,Delivered
+CUST1128,Sneha Mehta,30.0,Female,PRD8658,Books,The Psychology of Money,447.24,1.0,ORD10693,2024-03-11,UPI,"Bengaluru, Karnataka",1.0,Cancelled
+CUST1198,James Patel,23.0,,PRD5675,Books,Python for Data Science,649.47,,ORD10694,2024-08-16,Debit Card,"Chandigarh, Punjab",2.0,Shipped
+CUST1319,Aditya Wilson,21.0,female,PRD8791,Home & Kitchen,Electric Kettle,1279.83,3.0,ORD10695,2023-09-15,UPI,"Jaipur, Rajasthan",3.0,Shipped
+CUST1329,Aarav Wilson,18.0,Male,PRD3102,Electronics,Fast Charger 65W,1012.13,2.0,ORD10696,2023-02-28,PayPal,"Jaipur, Rajasthan",5.0,Delivered
+CUST1009,Rahul Johnson,38.0,female,PRD2162,Sports,Yoga Mat Pro,956.65,2.0,ORD10697,2024-09-06,Debit Card,"Delhi, Delhi",5.0,Cancelled
+CUST1317,Sneha Gupta,27.0,male,PRD1388,Home & Kitchen,Air Fryer,5843.77,1.0,ORD10698,2024-07-16,UPI,"Bengaluru, Karnataka",3.0,Delivered
+CUST1039,Aditya Wilson,18.0,female,PRD1423,Electronics,Wireless Earbuds,3059.68,1.0,ORD10699,2023-04-13,PayPal,"Kolkata, West Bengal",2.0,Returned
+CUST1180,Rohan Nair,23.0,Male,PRD8658,Books,The Psychology of Money,403.33,1.0,ORD10700,2023-06-01,Cash on Delivery,"Chennai, Tamil Nadu",5.0,Processing
+CUST1242,Sneha Jones,40.0,Female,PRD5665,Clothing,Cotton T-Shirt,754.92,2.0,ORD10701,2024-01-13,Credit Card,"Ahmedabad, Gujarat",2.0,Cancelled
+CUST1250,Noah Chopra,35.0,female,PRD3550,Sports,Resistance Bands,510.79,1.0,ORD10702,2023-07-14,Credit Card,"Chennai, Tamil Nadu",5.0,Delivered
+CUST1129,James Miller,23.0,M,PRD1423,Electronics,Wireless Earbuds,2881.1,5.0,ORD10703,2024-10-14,Credit Card,"Ahmedabad, Gujarat",4.5,Shipped
+CUST1311,Arjun Brown,,F,PRD8991,Electronics,Smart Watch,4949.89,1.0,ORD10704,2024-10-14,Credit Card,"Pune, Maharashtra",4.0,Returned
+CUST1236,Varun Miller,,F,PRD4519,Books,Deep Work,468.78,,ORD10705,2024-06-04,PayPal,"Mumbai, Maharashtra",3.0,Delivered
+CUST1350,Priya Johnson,36.0,Male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2729.29,1.0,ORD10706,2024-09-25,PayPal,"Pune, Maharashtra",2.0,Returned
+CUST1256,Sophia Verma,49.0,male,PRD8791,Home & Kitchen,Electric Kettle,1376.76,2.0,ORD10707,2023-08-21,PayPal,"Hyderabad, Telangana",5.0,Shipped
+CUST1180,Amit Jones,35.0,M,PRD8991,Electronics,Smart Watch,5131.62,3.0,ORD10708,2023-05-25,PayPal,"Chandigarh, Punjab",2.0,Delivered
+CUST1047,Liam Taylor,39.0,male,PRD5279,Books,Atomic Habits,564.03,3.0,ORD10709,2024-12-27,Cash on Delivery,"Chandigarh, Punjab",3.0,Delivered
+CUST1227,Ethan Patel,26.0,Male,PRD5207,Beauty,Moisturizing Cream,575.84,2.0,ORD10710,2023-11-26,Debit Card,"Mumbai, Maharashtra",1.0,Returned
+CUST1314,Meera Jones,26.0,Female,PRD4805,Clothing,Track Pants,1042.82,1.0,ORD10711,2024-07-24,UPI,"Chennai, Tamil Nadu",3.0,Delivered
+CUST1164,Isha Johnson,20.0,F,PRD4805,Clothing,Track Pants,1144.11,2.0,ORD10712,2024-09-23,Cash on Delivery,"Pune, Maharashtra",4.5,Delivered
+CUST1179,Liam Wilson,26.0,Male,PRD8896,Beauty,Matte Lipstick,823.63,1.0,ORD10713,2024-01-18,Cash on Delivery,"Mumbai, Maharashtra",4.0,Returned
+CUST1076,Rohan Johnson,30.0,F,PRD4748,Electronics,Tablet 10-inch,14932.49,2.0,ORD10714,2024-11-15,Cash on Delivery,"Chennai, Tamil Nadu",4.5,Returned
+CUST1261,Tanvi Gupta,47.0,Male,PRD2162,Sports,Yoga Mat Pro,928.99,1.0,ORD10715,2024-10-03,Debit Card,"Hyderabad, Telangana",4.5,Returned
+CUST1092,Ethan Singh,,F,PRD1585,Electronics,USB-C Hub,1981.61,2.0,ORD10716,2024-07-26,PayPal,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1050,Neha Johnson,58.0,Male,PRD5872,Clothing,Hooded Sweatshirt,1718.47,1.0,ORD10717,2023-06-15,Cash on Delivery,"Chennai, Tamil Nadu",,Processing
+CUST1032,Isha Patel,20.0,,PRD2162,Sports,Yoga Mat Pro,,2.0,ORD10718,2024-01-26,Credit Card,"Bengaluru, Karnataka",4.5,Shipped
+CUST1094,Isha Reddy,30.0,male,PRD3550,Sports,Resistance Bands,537.22,1.0,ORD10719,2023-03-17,PayPal,"Mumbai, Maharashtra",4.5,Returned
+CUST1062,Ava Chopra,38.0,female,PRD5055,Sports,Dumbbell Set 10kg,2100.7,1.0,ORD10720,2024-06-15,PayPal,"Delhi, Delhi",1.0,Delivered
+CUST1127,Priya Gupta,47.0,Female,PRD1585,Electronics,USB-C Hub,1937.18,1.0,ORD10721,2023-11-23,Cash on Delivery,"Delhi, Delhi",3.0,Processing
+CUST1289,Varun Wilson,51.0,M,PRD3413,Home & Kitchen,Coffee Maker,3975.08,1.0,ORD10722,2023-07-13,PayPal,"Mumbai, Maharashtra",3.0,Processing
+CUST1248,Rhea Brown,50.0,F,PRD5675,Books,Python for Data Science,738.85,1.0,ORD10723,2023-10-24,UPI,"Mumbai, Maharashtra",1.0,Delivered
+CUST1198,Rahul Johnson,18.0,Female,PRD8658,Books,The Psychology of Money,396.09,8.0,ORD10724,2024-04-04,Debit Card,"Hyderabad, Telangana",1.0,Cancelled
+CUST1105,Meera Reddy,38.0,Female,PRD5594,Clothing,Denim Jacket,3377.17,1.0,ORD10725,2024-06-06,Debit Card,"Pune, Maharashtra",4.0,Delivered
+CUST1080,Vikram Taylor,25.0,Female,PRD8658,Books,The Psychology of Money,390.0,1.0,ORD10726,2024-11-24,PayPal,"Mumbai, Maharashtra",4.0,Shipped
+CUST1143,Ethan Reddy,44.0,F,PRD4519,Books,Deep Work,419.5,8.0,ORD10727,2023-02-21,Credit Card,"Bengaluru, Karnataka",4.0,Delivered
+CUST1094,Isha Smith,46.0,F,PRD4519,Books,Deep Work,501.24,1.0,ORD10728,2023-02-13,Credit Card,"Jaipur, Rajasthan",2.0,Delivered
+CUST1266,Diya Davis,37.0,,PRD5207,Beauty,Moisturizing Cream,549.19,2.0,ORD10729,2023-06-15,PayPal,"Chandigarh, Punjab",5.0,Processing
+CUST1097,Noah Reddy,28.0,,PRD5872,Clothing,Hooded Sweatshirt,1414.88,1.0,ORD10730,2024-11-02,PayPal,"Bengaluru, Karnataka",4.5,Delivered
+CUST1116,Pooja Reddy,21.0,,PRD6904,Beauty,Vitamin C Serum,776.59,1.0,ORD10731,2023-09-11,Credit Card,"Delhi, Delhi",4.5,Delivered
+CUST1317,Olivia Singh,26.0,,PRD4636,Electronics,Gaming Mouse,,,ORD10732,2024-01-27,Cash on Delivery,"Delhi, Delhi",5.0,Delivered
+CUST1289,Isha Verma,,Female,PRD1071,Sports,Badminton Racket,1517.61,1.0,ORD10733,2024-11-16,UPI,"Ahmedabad, Gujarat",2.0,Shipped
+CUST1275,Lucas Johnson,25.0,Female,PRD3413,Home & Kitchen,Coffee Maker,3853.67,3.0,ORD10734,2023-08-14,PayPal,"Bengaluru, Karnataka",3.0,Delivered
+CUST1208,Tanvi Williams,34.0,Female,PRD8791,Home & Kitchen,Electric Kettle,1403.99,1.0,ORD10735,2023-04-23,Cash on Delivery,"Hyderabad, Telangana",5.0,Cancelled
+CUST1317,Priya Jones,45.0,F,PRD3413,Home & Kitchen,Coffee Maker,3623.94,2.0,ORD10736,2023-10-14,Debit Card,"Hyderabad, Telangana",2.0,Cancelled
+CUST1197,Mia Miller,35.0,,PRD6239,Clothing,Formal Shirt,1488.53,1.0,ORD10737,2024-03-21,Cash on Delivery,"Hyderabad, Telangana",3.0,Shipped
+CUST1126,Sophia Gupta,21.0,female,PRD2162,Sports,Yoga Mat Pro,920.52,,ORD10738,2023-01-11,UPI,"Pune, Maharashtra",2.0,Delivered
+CUST1158,Ethan Verma,20.0,Female,PRD2552,Beauty,Sunscreen SPF 50,600.57,2.0,ORD10739,2024-03-06,Credit Card,"Jaipur, Rajasthan",4.0,Delivered
+CUST1288,Isha Davis,52.0,male,PRD3142,Electronics,Bluetooth Speaker,1818.78,1.0,ORD10740,2024-08-13,Debit Card,"Mumbai, Maharashtra",3.0,Shipped
+CUST1300,Varun Singh,38.0,F,PRD3550,Sports,Resistance Bands,559.69,1.0,ORD10741,2024-03-20,PayPal,"Bengaluru, Karnataka",5.0,Delivered
+CUST1325,Amit Chopra,40.0,female,PRD6904,Beauty,Vitamin C Serum,917.19,1.0,ORD10742,2024-05-07,Cash on Delivery,"Mumbai, Maharashtra",2.0,Delivered
+CUST1333,Sneha Chopra,34.0,M,PRD4519,Books,Deep Work,408.53,2.0,ORD10743,2023-10-01,UPI,"Kolkata, West Bengal",4.0,Shipped
+CUST1199,Diya Mehta,35.0,Female,PRD2425,Beauty,Face Cleanser,430.83,1.0,ORD10744,2024-08-10,Credit Card,"Ahmedabad, Gujarat",1.0,Returned
+CUST1342,Mia Smith,18.0,,PRD4805,Clothing,Track Pants,943.33,1.0,ORD10745,2023-10-26,Credit Card,"Delhi, Delhi",,Delivered
+CUST1175,Sophia Taylor,25.0,Female,PRD5279,Books,Atomic Habits,464.32,2.0,ORD10746,2023-04-24,Debit Card,"Delhi, Delhi",1.0,Delivered
+CUST1222,Ava Nair,47.0,F,PRD5055,Sports,Dumbbell Set 10kg,2292.82,2.0,ORD10747,2024-03-16,Cash on Delivery,"Mumbai, Maharashtra",4.5,Delivered
+CUST1041,Pooja Reddy,21.0,male,PRD5675,Books,Python for Data Science,615.4,8.0,ORD10748,2024-04-06,Cash on Delivery,"Chennai, Tamil Nadu",4.5,Cancelled
+CUST1147,Rahul Williams,30.0,Male,PRD5279,Books,Atomic Habits,456.79,4.0,ORD10749,2024-12-02,Credit Card,"Ahmedabad, Gujarat",,Cancelled
+CUST1346,Rohan Smith,47.0,F,PRD2162,Sports,Yoga Mat Pro,978.79,1.0,ORD10750,2024-08-12,UPI,"Ahmedabad, Gujarat",5.0,Delivered
+CUST1117,Varun Singh,,Female,PRD2552,Beauty,Sunscreen SPF 50,741.85,2.0,ORD10751,2023-08-15,Debit Card,"Kolkata, West Bengal",1.0,Returned
+CUST1072,Ava Smith,35.0,M,PRD7299,Electronics,Noise Cancelling Headphones,8487.81,1.0,ORD10752,2023-03-07,Credit Card,"Kolkata, West Bengal",3.0,Delivered
+CUST1102,Aarav Davis,28.0,female,PRD3413,Home & Kitchen,Coffee Maker,3585.72,3.0,ORD10753,2023-03-16,UPI,"Delhi, Delhi",3.0,Cancelled
+CUST1245,Rhea Chopra,37.0,male,PRD4991,Beauty,Herbal Shampoo,,2.0,ORD10754,2024-03-11,Cash on Delivery,"Kolkata, West Bengal",4.5,Delivered
+CUST1272,Neha Smith,22.0,M,PRD1071,Sports,Badminton Racket,1505.37,1.0,ORD10755,2023-06-23,UPI,"Ahmedabad, Gujarat",4.5,Delivered
+CUST1296,Ava Smith,24.0,F,PRD5055,Sports,Dumbbell Set 10kg,2205.56,1.0,ORD10756,2023-10-16,UPI,"Jaipur, Rajasthan",4.0,Returned
+CUST1076,Rhea Smith,34.0,F,PRD1388,Home & Kitchen,Air Fryer,6585.82,1.0,ORD10757,2023-03-12,PayPal,"Hyderabad, Telangana",1.0,Delivered
+CUST1183,Ethan Taylor,41.0,M,PRD2552,Beauty,Sunscreen SPF 50,717.82,1.0,ORD10758,2023-10-20,UPI,"Mumbai, Maharashtra",2.0,Processing
+CUST1259,Neha Nair,57.0,Male,PRD8791,Home & Kitchen,Electric Kettle,1178.46,1.0,ORD10759,2024-07-03,PayPal,"Bengaluru, Karnataka",4.0,Processing
+CUST1081,Rhea Jones,21.0,M,PRD5594,Clothing,Denim Jacket,3138.81,4.0,ORD10760,2023-01-04,UPI,"Jaipur, Rajasthan",2.0,Delivered
+CUST1193,Isha Sharma,36.0,M,PRD2162,Sports,Yoga Mat Pro,1088.03,3.0,ORD10761,2023-09-02,PayPal,"Delhi, Delhi",2.0,Delivered
+CUST1053,Arjun Singh,33.0,M,PRD1388,Home & Kitchen,Air Fryer,6137.66,1.0,ORD10762,2024-09-14,Debit Card,"Jaipur, Rajasthan",2.0,Shipped
+CUST1082,Ananya Mehta,29.0,Male,PRD4636,Electronics,Gaming Mouse,1633.36,3.0,ORD10763,2024-03-17,UPI,"Kolkata, West Bengal",5.0,Shipped
+CUST1010,Arjun Chopra,46.0,female,PRD1423,Electronics,Wireless Earbuds,2871.17,3.0,ORD10764,2023-06-23,Cash on Delivery,"Pune, Maharashtra",2.0,Shipped
+CUST1109,Vikram Wilson,,female,PRD8791,Home & Kitchen,Electric Kettle,1221.02,3.0,ORD10765,2024-10-09,Debit Card,"Pune, Maharashtra",4.0,Delivered
+CUST1334,Neha Jones,,F,PRD8658,Books,The Psychology of Money,370.34,2.0,ORD10766,2023-02-24,Debit Card,"Chandigarh, Punjab",3.0,Returned
+CUST1346,Rahul Moore,28.0,F,PRD8656,Clothing,Athletic Shorts,857.83,,ORD10767,2023-01-07,UPI,"Hyderabad, Telangana",5.0,Shipped
+CUST1168,Siddharth Brown,31.0,female,PRD3550,Sports,Resistance Bands,566.09,1.0,ORD10768,2023-02-01,Cash on Delivery,"Mumbai, Maharashtra",3.0,Delivered
+CUST1156,Siddharth Brown,39.0,M,PRD5594,Clothing,Denim Jacket,3356.21,1.0,ORD10769,2023-07-21,UPI,"Mumbai, Maharashtra",3.0,Delivered
+CUST1135,Siddharth Reddy,24.0,Male,PRD5207,Beauty,Moisturizing Cream,,5.0,ORD10770,2024-04-15,UPI,"Mumbai, Maharashtra",4.0,Delivered
+CUST1079,Rahul Verma,45.0,,PRD4991,Beauty,Herbal Shampoo,521.05,1.0,ORD10771,2024-02-25,UPI,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1344,Aditya Reddy,39.0,,PRD5675,Books,Python for Data Science,655.74,3.0,ORD10772,2023-08-26,Credit Card,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1234,Ethan Davis,33.0,F,PRD3745,Sports,Hydration Water Bottle,591.03,2.0,ORD10773,2024-07-12,UPI,"Chennai, Tamil Nadu",5.0,Returned
+CUST1254,Emma Wilson,42.0,M,PRD5872,Clothing,Hooded Sweatshirt,1518.03,2.0,ORD10774,2023-11-06,UPI,"Jaipur, Rajasthan",5.0,Delivered
+CUST1307,Amit Wilson,34.0,female,PRD4805,Clothing,Track Pants,998.09,1.0,ORD10775,2023-02-17,Cash on Delivery,"Delhi, Delhi",3.0,Processing
+CUST1341,Pooja Nair,19.0,M,PRD5279,Books,Atomic Habits,531.05,1.0,ORD10776,2024-10-12,Credit Card,"Hyderabad, Telangana",4.0,Delivered
+CUST1097,Liam Sharma,27.0,Female,PRD5665,Clothing,Cotton T-Shirt,761.18,1.0,ORD10777,2023-04-18,Debit Card,"Mumbai, Maharashtra",,Delivered
+CUST1062,Rahul Singh,31.0,Female,PRD7299,Electronics,Noise Cancelling Headphones,8122.88,1.0,ORD10778,2024-06-13,Debit Card,"Chennai, Tamil Nadu",4.5,Shipped
+CUST1326,Rhea Moore,,Male,PRD2552,Beauty,Sunscreen SPF 50,660.94,5.0,ORD10779,2023-09-25,PayPal,"Chandigarh, Punjab",3.0,Cancelled
+CUST1252,Aarav Brown,,Male,PRD2552,Beauty,Sunscreen SPF 50,701.61,1.0,ORD10780,2024-02-15,UPI,"Hyderabad, Telangana",4.0,Delivered
+CUST1166,Neha Wilson,33.0,Female,PRD1423,Electronics,Wireless Earbuds,3205.36,,ORD10781,2023-09-15,Cash on Delivery,"Bengaluru, Karnataka",5.0,Processing
+CUST1199,Ava Wilson,39.0,F,PRD1071,Sports,Badminton Racket,1668.97,1.0,ORD10782,2024-10-11,Credit Card,"Bengaluru, Karnataka",1.0,Delivered
+CUST1247,Meera Nair,,F,PRD4805,Clothing,Track Pants,954.9,1.0,ORD10783,2024-10-28,Debit Card,"Ahmedabad, Gujarat",1.0,Delivered
+CUST1085,Vikram Gupta,23.0,Female,PRD2552,Beauty,Sunscreen SPF 50,699.04,2.0,ORD10784,2023-06-21,PayPal,"Ahmedabad, Gujarat",,Shipped
+CUST1286,Liam Williams,32.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2815.51,1.0,ORD10785,2023-02-01,Credit Card,"Chandigarh, Punjab",2.0,Shipped
+CUST1338,Isha Johnson,50.0,F,PRD8656,Clothing,Athletic Shorts,861.3,1.0,ORD10786,2024-03-24,Credit Card,"Pune, Maharashtra",,Returned
+CUST1007,Ananya Miller,47.0,,PRD5872,Clothing,Hooded Sweatshirt,1649.36,1.0,ORD10787,2024-08-16,Debit Card,"Delhi, Delhi",4.5,Cancelled
+CUST1322,Isha Verma,31.0,Male,PRD8896,Beauty,Matte Lipstick,846.12,1.0,ORD10788,2024-07-27,Debit Card,"Chennai, Tamil Nadu",4.0,Delivered
+CUST1165,Noah Brown,,M,PRD4991,Beauty,Herbal Shampoo,542.49,8.0,ORD10789,2024-10-26,Debit Card,"Hyderabad, Telangana",3.0,Shipped
+CUST1039,Tanvi Taylor,,Male,PRD5751,Books,Machine Learning Hands-on,823.95,1.0,ORD10790,2024-11-26,UPI,"Jaipur, Rajasthan",3.0,Returned
+CUST1241,Arjun Davis,50.0,F,PRD3745,Sports,Hydration Water Bottle,559.66,2.0,ORD10791,2024-12-16,Cash on Delivery,"Jaipur, Rajasthan",1.0,Delivered
+CUST1323,Aditya Mehta,27.0,M,PRD8656,Clothing,Athletic Shorts,852.22,2.0,ORD10792,2024-11-14,UPI,"Chandigarh, Punjab",5.0,Delivered
+CUST1314,Lucas Gupta,30.0,F,PRD3655,Home & Kitchen,LED Desk Lamp,988.46,1.0,ORD10793,2024-03-04,Debit Card,"Hyderabad, Telangana",5.0,Returned
+CUST1173,Pooja Davis,35.0,female,PRD8896,Beauty,Matte Lipstick,825.29,3.0,ORD10794,2024-07-27,Credit Card,"Delhi, Delhi",3.0,Shipped
+CUST1233,Mia Wilson,34.0,male,PRD1388,Home & Kitchen,Air Fryer,6133.32,2.0,ORD10795,2024-07-13,Credit Card,"Bengaluru, Karnataka",3.0,Returned
+CUST1028,Diya Verma,44.0,Male,PRD4519,Books,Deep Work,468.74,,ORD10796,2024-06-20,UPI,"Kolkata, West Bengal",2.0,Processing
+CUST1310,Varun Mehta,18.0,Male,PRD3745,Sports,Hydration Water Bottle,659.76,1.0,ORD10797,2023-04-18,Debit Card,"Delhi, Delhi",4.5,Delivered
+CUST1249,Ananya Iyer,22.0,female,PRD5532,Clothing,Slim Fit Jeans,1800.68,3.0,ORD10798,2024-07-19,PayPal,"Hyderabad, Telangana",1.0,Shipped
+CUST1228,Siddharth Gupta,31.0,Female,PRD3102,Electronics,Fast Charger 65W,1008.15,1.0,ORD10799,2023-06-11,PayPal,"Jaipur, Rajasthan",4.0,Processing
+CUST1106,Priya Gupta,28.0,Female,PRD4805,Clothing,Track Pants,987.33,1.0,ORD10800,2023-12-10,PayPal,"Chandigarh, Punjab",1.0,Cancelled
+CUST1289,Sneha Verma,21.0,M,PRD4244,Home & Kitchen,Non-stick Cookware Set,,3.0,ORD10801,2023-08-14,PayPal,"Chennai, Tamil Nadu",3.0,Delivered
+CUST1134,Meera Singh,43.0,female,PRD5055,Sports,Dumbbell Set 10kg,1981.29,1.0,ORD10802,2023-02-23,Credit Card,"Chandigarh, Punjab",1.0,Delivered
+CUST1041,Arjun Mehta,42.0,M,PRD5532,Clothing,Slim Fit Jeans,1832.47,1.0,ORD10803,2023-10-02,UPI,"Jaipur, Rajasthan",4.0,Delivered
+CUST1121,Aarav Reddy,29.0,M,PRD8656,Clothing,Athletic Shorts,980.1,1.0,ORD10804,2023-03-18,Debit Card,"Mumbai, Maharashtra",2.0,Returned
+CUST1140,Arjun Sharma,33.0,male,PRD4748,Electronics,Tablet 10-inch,17845.64,2.0,ORD10805,2024-10-26,PayPal,"Hyderabad, Telangana",5.0,Delivered
+CUST1128,Pooja Taylor,35.0,Male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2720.32,1.0,ORD10806,2024-12-13,Cash on Delivery,"Pune, Maharashtra",4.5,Cancelled
+CUST1208,Noah Mehta,21.0,Female,PRD4805,Clothing,Track Pants,1147.53,1.0,ORD10807,2024-02-20,PayPal,"Kolkata, West Bengal",1.0,Delivered
+CUST1250,Rahul Sharma,23.0,Female,PRD5055,Sports,Dumbbell Set 10kg,1921.28,,ORD10808,2024-04-15,PayPal,"Kolkata, West Bengal",4.0,Delivered
+CUST1105,Siddharth Gupta,33.0,F,PRD3102,Electronics,Fast Charger 65W,1126.22,1.0,ORD10809,2024-07-03,UPI,"Jaipur, Rajasthan",1.0,Returned
+CUST1246,Rohan Johnson,47.0,Male,PRD3142,Electronics,Bluetooth Speaker,1829.03,1.0,ORD10810,2024-11-17,Credit Card,"Ahmedabad, Gujarat",4.5,Shipped
+CUST1178,Rhea Smith,32.0,Male,PRD4991,Beauty,Herbal Shampoo,532.22,1.0,ORD10811,2023-12-19,Debit Card,"Kolkata, West Bengal",5.0,Shipped
+CUST1326,Aditya Gupta,29.0,Female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2256.67,2.0,ORD10812,2023-07-19,PayPal,"Bengaluru, Karnataka",4.5,Delivered
+CUST1108,Aarav Verma,24.0,Male,PRD6239,Clothing,Formal Shirt,1387.53,1.0,ORD10813,2024-11-15,Cash on Delivery,"Pune, Maharashtra",3.0,Processing
+CUST1286,Isha Smith,18.0,F,PRD8658,Books,The Psychology of Money,418.34,1.0,ORD10814,2023-04-27,PayPal,"Ahmedabad, Gujarat",4.5,Delivered
+CUST1256,Olivia Brown,18.0,M,PRD3142,Electronics,Bluetooth Speaker,1908.52,2.0,ORD10815,2023-08-05,Cash on Delivery,"Jaipur, Rajasthan",5.0,Shipped
+CUST1215,Varun Smith,26.0,F,PRD1585,Electronics,USB-C Hub,1901.81,2.0,ORD10816,2023-07-16,UPI,"Pune, Maharashtra",2.0,Shipped
+CUST1252,Mia Brown,45.0,M,PRD8656,Clothing,Athletic Shorts,943.5,1.0,ORD10817,2023-02-04,Credit Card,"Mumbai, Maharashtra",4.0,Shipped
+CUST1048,Mia Gupta,145.0,,PRD8791,Home & Kitchen,Electric Kettle,1396.42,1.0,ORD10818,2023-02-02,UPI,"Pune, Maharashtra",4.5,Delivered
+CUST1021,Rhea Sharma,33.0,Female,PRD6904,Beauty,Vitamin C Serum,886.26,2.0,ORD10819,2023-10-10,Credit Card,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1330,Noah Miller,44.0,Male,PRD2552,Beauty,Sunscreen SPF 50,715.57,2.0,ORD10820,2024-09-10,PayPal,"Kolkata, West Bengal",2.0,Returned
+CUST1159,Emma Smith,37.0,Male,PRD1423,Electronics,Wireless Earbuds,2779.83,2.0,ORD10821,2023-03-24,UPI,"Pune, Maharashtra",4.5,Delivered
+CUST1247,Tanvi Williams,42.0,female,PRD8658,Books,The Psychology of Money,448.44,1.0,ORD10822,2024-06-06,Debit Card,"Pune, Maharashtra",1.0,Returned
+CUST1130,Karan Singh,20.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2853.04,2.0,ORD10823,2023-06-25,Credit Card,"Bengaluru, Karnataka",4.0,Delivered
+CUST1250,Lucas Smith,34.0,female,PRD2552,Beauty,Sunscreen SPF 50,651.9,1.0,ORD10824,2024-11-12,Cash on Delivery,"Pune, Maharashtra",1.0,Shipped
+CUST1257,Rahul Reddy,31.0,F,PRD3550,Sports,Resistance Bands,573.06,1.0,ORD10825,2024-10-07,Credit Card,"Ahmedabad, Gujarat",4.5,Processing
+CUST1149,Isha Jones,,Female,PRD2162,Sports,Yoga Mat Pro,1131.13,2.0,ORD10826,2023-10-19,UPI,"Chandigarh, Punjab",3.0,Delivered
+CUST1334,Sophia Patel,34.0,Female,PRD1388,Home & Kitchen,Air Fryer,6826.87,1.0,ORD10827,2024-07-01,Credit Card,"Delhi, Delhi",3.0,Processing
+CUST1280,Tanvi Sharma,19.0,F,PRD4647,Home & Kitchen,Blender Mixer,2089.04,1.0,ORD10828,2023-09-10,Debit Card,"Kolkata, West Bengal",3.0,Delivered
+CUST1280,James Reddy,,M,PRD5751,Books,Machine Learning Hands-on,792.6,2.0,ORD10829,2024-05-06,UPI,"Kolkata, West Bengal",4.0,Delivered
+CUST1084,Priya Iyer,23.0,F,PRD2162,Sports,Yoga Mat Pro,929.43,2.0,ORD10830,2024-04-03,Debit Card,"Delhi, Delhi",3.0,Delivered
+CUST1257,Noah Wilson,29.0,M,PRD1585,Electronics,USB-C Hub,1893.25,1.0,ORD10831,2023-05-24,Cash on Delivery,"Delhi, Delhi",2.0,Delivered
+CUST1176,Pooja Miller,29.0,F,PRD1388,Home & Kitchen,Air Fryer,6534.05,2.0,ORD10832,2024-09-25,Debit Card,"Bengaluru, Karnataka",5.0,Shipped
+CUST1301,Olivia Verma,25.0,Female,PRD1071,Sports,Badminton Racket,1423.72,1.0,ORD10833,2023-08-07,Cash on Delivery,"Pune, Maharashtra",,Cancelled
+CUST1191,James Smith,43.0,Female,PRD3142,Electronics,Bluetooth Speaker,2079.67,1.0,ORD10834,2024-03-16,Cash on Delivery,"Jaipur, Rajasthan",3.0,Delivered
+CUST1320,Ava Patel,40.0,female,PRD2552,Beauty,Sunscreen SPF 50,736.46,1.0,ORD10835,2024-03-23,PayPal,"Bengaluru, Karnataka",4.0,Delivered
+CUST1272,Priya Verma,48.0,Male,PRD8791,Home & Kitchen,Electric Kettle,1213.73,1.0,ORD10836,2023-10-28,UPI,"Delhi, Delhi",3.0,Returned
+CUST1171,Amit Iyer,37.0,male,PRD3102,Electronics,Fast Charger 65W,1087.62,2.0,ORD10837,2024-02-26,Cash on Delivery,"Chennai, Tamil Nadu",4.0,Returned
+CUST1021,Neha Williams,23.0,male,PRD8991,Electronics,Smart Watch,4632.61,2.0,ORD10838,2024-08-26,PayPal,"Jaipur, Rajasthan",2.0,Processing
+CUST1288,Lucas Nair,27.0,female,PRD5675,Books,Python for Data Science,620.49,5.0,ORD10839,2023-03-24,PayPal,"Mumbai, Maharashtra",3.0,Processing
+CUST1097,Meera Wilson,34.0,Female,PRD4805,Clothing,Track Pants,1000.13,2.0,ORD10840,2024-10-10,Debit Card,"Chandigarh, Punjab",1.0,Cancelled
+CUST1216,Aditya Taylor,50.0,male,PRD5279,Books,Atomic Habits,550.7,2.0,ORD10841,2023-11-08,Credit Card,"Hyderabad, Telangana",5.0,Delivered
+CUST1037,Emma Brown,53.0,female,PRD4636,Electronics,Gaming Mouse,1354.26,3.0,ORD10842,2023-04-15,Debit Card,"Delhi, Delhi",3.0,Shipped
+CUST1194,Emma Miller,24.0,F,PRD5532,Clothing,Slim Fit Jeans,2131.86,1.0,ORD10843,2024-04-16,UPI,"Kolkata, West Bengal",,Delivered
+CUST1222,Siddharth Singh,37.0,Female,PRD3550,Sports,Resistance Bands,484.93,4.0,ORD10844,2023-03-14,PayPal,"Jaipur, Rajasthan",4.0,Delivered
+CUST1156,James Nair,27.0,Female,PRD2552,Beauty,Sunscreen SPF 50,730.9,,ORD10845,2024-04-21,PayPal,"Hyderabad, Telangana",4.5,Processing
+CUST1329,Mia Gupta,19.0,F,PRD3102,Electronics,Fast Charger 65W,976.58,1.0,ORD10846,2023-02-19,Debit Card,"Chennai, Tamil Nadu",2.0,Returned
+CUST1343,Mia Wilson,56.0,male,PRD4519,Books,Deep Work,6750.0,4.0,ORD10847,2024-12-25,Cash on Delivery,"Pune, Maharashtra",,Delivered
+CUST1096,Ananya Chopra,21.0,M,PRD5055,Sports,Dumbbell Set 10kg,2279.19,1.0,ORD10848,2024-06-04,PayPal,"Chandigarh, Punjab",2.0,Delivered
+CUST1024,Sophia Smith,31.0,Female,PRD6239,Clothing,Formal Shirt,1193.87,3.0,ORD10849,2024-03-08,Credit Card,"Hyderabad, Telangana",4.5,Cancelled
+CUST1038,Ananya Wilson,30.0,male,PRD1388,Home & Kitchen,Air Fryer,149975.0,2.0,ORD10850,2024-05-21,Debit Card,"Delhi, Delhi",2.0,Processing
+CUST1061,Rohan Mehta,43.0,male,PRD4748,Electronics,Tablet 10-inch,17028.12,3.0,ORD10851,2024-01-27,Debit Card,"Kolkata, West Bengal",1.0,Delivered
+CUST1258,Varun Nair,27.0,M,PRD4244,Home & Kitchen,Non-stick Cookware Set,2710.73,3.0,ORD10852,2024-10-01,Debit Card,"Bengaluru, Karnataka",2.0,Cancelled
+CUST1024,Olivia Singh,32.0,Female,PRD4748,Electronics,Tablet 10-inch,14870.58,2.0,ORD10853,2024-04-12,PayPal,"Bengaluru, Karnataka",2.0,Shipped
+CUST1194,Aarav Singh,37.0,Female,PRD8991,Electronics,Smart Watch,4691.24,1.0,ORD10854,2023-04-23,UPI,"Jaipur, Rajasthan",5.0,Processing
+CUST1303,Lucas Moore,39.0,female,PRD3745,Sports,Hydration Water Bottle,564.88,2.0,ORD10855,2024-08-09,UPI,"Chandigarh, Punjab",5.0,Returned
+CUST1011,Rahul Brown,42.0,Male,PRD2162,Sports,Yoga Mat Pro,912.53,2.0,ORD10856,2023-09-28,Cash on Delivery,"Ahmedabad, Gujarat",5.0,Processing
+CUST1070,Diya Miller,35.0,male,PRD8991,Electronics,Smart Watch,4922.91,8.0,ORD10857,2024-05-09,Cash on Delivery,"Bengaluru, Karnataka",1.0,Shipped
+CUST1252,Sophia Reddy,19.0,Male,PRD5055,Sports,Dumbbell Set 10kg,2159.38,4.0,ORD10858,2024-12-25,PayPal,"Bengaluru, Karnataka",3.0,Delivered
+CUST1017,Noah Sharma,38.0,F,PRD8991,Electronics,Smart Watch,5508.86,3.0,ORD10859,2023-02-23,PayPal,"Delhi, Delhi",4.5,Cancelled
+CUST1191,Diya Taylor,,M,PRD4244,Home & Kitchen,Non-stick Cookware Set,2563.99,1.0,ORD10860,2023-05-09,Credit Card,"Jaipur, Rajasthan",4.5,Cancelled
+CUST1296,Isha Davis,26.0,male,PRD4805,Clothing,Track Pants,1095.98,1.0,ORD10861,2024-08-02,PayPal,"Mumbai, Maharashtra",,Delivered
+CUST1002,Emma Mehta,39.0,Male,PRD3655,Home & Kitchen,LED Desk Lamp,900.16,1.0,ORD10862,2023-04-14,UPI,"Jaipur, Rajasthan",3.0,Delivered
+CUST1339,Diya Johnson,41.0,F,PRD1423,Electronics,Wireless Earbuds,2854.99,2.0,ORD10863,2024-10-18,Cash on Delivery,"Pune, Maharashtra",1.0,Returned
+CUST1320,Noah Miller,18.0,Male,PRD7299,Electronics,Noise Cancelling Headphones,10101.84,2.0,ORD10864,2024-12-01,UPI,"Bengaluru, Karnataka",4.0,Shipped
+CUST1128,Arjun Reddy,34.0,Male,PRD2552,Beauty,Sunscreen SPF 50,607.06,2.0,ORD10865,2023-11-10,Cash on Delivery,"Chandigarh, Punjab",5.0,Cancelled
+CUST1158,Tanvi Chopra,37.0,F,PRD5872,Clothing,Hooded Sweatshirt,1510.58,2.0,ORD10866,2024-05-03,Credit Card,"Kolkata, West Bengal",5.0,Shipped
+CUST1081,Priya Johnson,43.0,Female,PRD5594,Clothing,Denim Jacket,3211.32,1.0,ORD10867,2023-12-01,PayPal,"Kolkata, West Bengal",3.0,Returned
+CUST1149,Arjun Moore,31.0,Male,PRD5594,Clothing,Denim Jacket,3221.98,1.0,ORD10868,2023-05-11,PayPal,"Chandigarh, Punjab",1.0,Cancelled
+CUST1175,Diya Chopra,33.0,male,PRD5532,Clothing,Slim Fit Jeans,1976.54,2.0,ORD10869,2024-05-19,Credit Card,"Kolkata, West Bengal",2.0,Returned
+CUST1053,Rohan Iyer,48.0,Male,PRD2162,Sports,Yoga Mat Pro,1047.28,1.0,ORD10870,2023-04-16,Debit Card,"Kolkata, West Bengal",2.0,Delivered
+CUST1209,Sophia Patel,29.0,female,PRD1071,Sports,Badminton Racket,1495.01,2.0,ORD10871,2024-09-28,Cash on Delivery,"Jaipur, Rajasthan",1.0,Delivered
+CUST1107,Ethan Sharma,41.0,Female,PRD3142,Electronics,Bluetooth Speaker,1805.66,1.0,ORD10872,2024-06-16,UPI,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1213,Mia Sharma,49.0,female,PRD3413,Home & Kitchen,Coffee Maker,3677.18,1.0,ORD10873,2024-09-21,Credit Card,"Jaipur, Rajasthan",2.0,Shipped
+CUST1272,Meera Smith,37.0,Female,PRD5532,Clothing,Slim Fit Jeans,1906.84,1.0,ORD10874,2023-03-03,PayPal,"Chennai, Tamil Nadu",4.0,Delivered
+CUST1048,Aditya Patel,50.0,female,PRD1071,Sports,Badminton Racket,1486.57,,ORD10875,2024-06-08,PayPal,"Kolkata, West Bengal",5.0,Delivered
+CUST1266,Liam Iyer,25.0,Male,PRD4636,Electronics,Gaming Mouse,1680.73,5.0,ORD10876,2023-07-20,Credit Card,"Kolkata, West Bengal",4.0,Delivered
+CUST1165,Olivia Reddy,41.0,M,PRD1388,Home & Kitchen,Air Fryer,5674.16,1.0,ORD10877,2024-08-21,PayPal,"Jaipur, Rajasthan",2.0,Processing
+CUST1108,Arjun Mehta,24.0,M,PRD2162,Sports,Yoga Mat Pro,1093.97,1.0,ORD10878,2023-04-16,PayPal,"Mumbai, Maharashtra",5.0,Delivered
+CUST1315,Olivia Iyer,29.0,F,PRD1423,Electronics,Wireless Earbuds,3134.59,3.0,ORD10879,2023-05-10,Credit Card,"Ahmedabad, Gujarat",4.5,Returned
+CUST1085,Karan Taylor,52.0,female,PRD1071,Sports,Badminton Racket,1660.25,3.0,ORD10880,2024-10-24,Credit Card,"Jaipur, Rajasthan",4.5,Returned
+CUST1188,Varun Brown,29.0,female,PRD3102,Electronics,Fast Charger 65W,,2.0,ORD10881,2023-05-19,Debit Card,"Hyderabad, Telangana",2.0,Delivered
+CUST1073,Noah Williams,18.0,Female,PRD2162,Sports,Yoga Mat Pro,998.5,2.0,ORD10882,2024-07-01,Debit Card,"Hyderabad, Telangana",5.0,Delivered
+CUST1267,Rhea Nair,18.0,F,PRD8656,Clothing,Athletic Shorts,979.24,1.0,ORD10883,2023-05-27,UPI,"Kolkata, West Bengal",1.0,Delivered
+CUST1290,Rhea Williams,18.0,male,PRD8896,Beauty,Matte Lipstick,842.05,2.0,ORD10884,2024-02-26,Cash on Delivery,"Kolkata, West Bengal",5.0,Delivered
+CUST1111,Aarav Wilson,47.0,F,PRD4805,Clothing,Track Pants,1041.83,1.0,ORD10885,2023-02-09,UPI,"Kolkata, West Bengal",2.0,Processing
+CUST1160,Sophia Miller,27.0,male,PRD5207,Beauty,Moisturizing Cream,,2.0,ORD10886,2024-09-14,PayPal,"Delhi, Delhi",1.0,Returned
+CUST1199,Arjun Reddy,62.0,M,PRD1423,Electronics,Wireless Earbuds,2741.08,1.0,ORD10887,2023-02-10,UPI,"Mumbai, Maharashtra",2.0,Returned
+CUST1323,Arjun Reddy,50.0,F,PRD5665,Clothing,Cotton T-Shirt,678.0,,ORD10888,2024-08-15,Cash on Delivery,"Chennai, Tamil Nadu",1.0,Cancelled
+CUST1230,Lucas Gupta,56.0,male,PRD5055,Sports,Dumbbell Set 10kg,1845.11,2.0,ORD10889,2024-12-21,PayPal,"Mumbai, Maharashtra",4.5,Cancelled
+CUST1309,Rohan Mehta,,F,PRD3550,Sports,Resistance Bands,474.38,2.0,ORD10890,2024-03-11,Debit Card,"Hyderabad, Telangana",4.0,Delivered
+CUST1240,Isha Verma,45.0,male,PRD5675,Books,Python for Data Science,646.72,1.0,ORD10891,2024-07-08,Debit Card,"Ahmedabad, Gujarat",4.5,Delivered
+CUST1193,Ananya Reddy,40.0,M,PRD8791,Home & Kitchen,Electric Kettle,1223.88,3.0,ORD10892,2024-01-05,UPI,"Jaipur, Rajasthan",,Returned
+CUST1049,Tanvi Mehta,24.0,F,PRD1388,Home & Kitchen,Air Fryer,6790.39,1.0,ORD10893,2024-12-26,Cash on Delivery,"Bengaluru, Karnataka",1.0,Delivered
+CUST1083,James Verma,33.0,male,PRD4636,Electronics,Gaming Mouse,1506.45,1.0,ORD10894,2024-06-24,Cash on Delivery,"Ahmedabad, Gujarat",4.0,Returned
+CUST1119,Sophia Wilson,41.0,female,PRD5279,Books,Atomic Habits,520.51,2.0,ORD10895,2024-12-01,Cash on Delivery,"Jaipur, Rajasthan",4.0,Shipped
+CUST1349,Mia Iyer,44.0,Female,PRD6239,Clothing,Formal Shirt,1448.42,,ORD10896,2023-01-13,Credit Card,"Bengaluru, Karnataka",5.0,Delivered
+CUST1168,Emma Singh,18.0,M,PRD1585,Electronics,USB-C Hub,1758.9,1.0,ORD10897,2023-10-05,Cash on Delivery,"Bengaluru, Karnataka",4.5,Delivered
+CUST1168,Varun Brown,42.0,female,PRD3745,Sports,Hydration Water Bottle,603.49,1.0,ORD10898,2023-05-26,Debit Card,"Bengaluru, Karnataka",1.0,Returned
+CUST1170,Ava Patel,24.0,female,PRD2425,Beauty,Face Cleanser,409.71,1.0,ORD10899,2024-03-10,Cash on Delivery,"Jaipur, Rajasthan",1.0,Cancelled
+CUST1044,Neha Johnson,32.0,Male,PRD4519,Books,Deep Work,431.47,2.0,ORD10900,2024-08-13,Debit Card,"Jaipur, Rajasthan",5.0,Delivered
+CUST1014,Mia Taylor,36.0,female,PRD4748,Electronics,Tablet 10-inch,15936.9,1.0,ORD10901,2024-10-19,Cash on Delivery,"Ahmedabad, Gujarat",2.0,Returned
+CUST1067,Amit Miller,40.0,F,PRD3550,Sports,Resistance Bands,7485.0,2.0,ORD10902,2023-04-12,UPI,"Mumbai, Maharashtra",3.0,Returned
+CUST1200,Karan Taylor,30.0,,PRD5675,Books,Python for Data Science,613.58,1.0,ORD10903,2024-06-09,Debit Card,"Jaipur, Rajasthan",4.5,Shipped
+CUST1101,Vikram Johnson,36.0,male,PRD5751,Books,Machine Learning Hands-on,944.93,3.0,ORD10904,2023-04-28,Cash on Delivery,"Chandigarh, Punjab",3.0,Shipped
+CUST1085,Aditya Verma,47.0,M,PRD4519,Books,Deep Work,448.77,2.0,ORD10905,2023-03-13,Debit Card,"Pune, Maharashtra",5.0,Delivered
+CUST1053,Sneha Miller,18.0,Male,PRD4519,Books,Deep Work,511.83,1.0,ORD10906,2024-01-20,PayPal,"Chennai, Tamil Nadu",2.0,Delivered
+CUST1100,Neha Taylor,18.0,female,PRD8991,Electronics,Smart Watch,4705.08,1.0,ORD10907,2023-12-11,UPI,"Mumbai, Maharashtra",3.0,Delivered
+CUST1202,Neha Verma,21.0,M,PRD5665,Clothing,Cotton T-Shirt,737.34,1.0,ORD10908,2023-07-16,Debit Card,"Kolkata, West Bengal",3.0,Delivered
+CUST1009,Rhea Mehta,28.0,Male,PRD1388,Home & Kitchen,Air Fryer,6083.94,1.0,ORD10909,2024-02-23,Cash on Delivery,"Mumbai, Maharashtra",2.0,Returned
+CUST1245,Aarav Mehta,42.0,female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2455.83,1.0,ORD10910,2023-07-14,UPI,"Chandigarh, Punjab",4.0,Processing
+CUST1227,Aditya Chopra,45.0,female,PRD3655,Home & Kitchen,LED Desk Lamp,951.18,3.0,ORD10911,2024-07-12,Cash on Delivery,"Chennai, Tamil Nadu",2.0,Delivered
+CUST1315,Mia Iyer,31.0,M,PRD3142,Electronics,Bluetooth Speaker,29985.0,1.0,ORD10912,2023-05-12,Cash on Delivery,"Hyderabad, Telangana",2.0,Delivered
+CUST1330,Lucas Iyer,31.0,Male,PRD8791,Home & Kitchen,Electric Kettle,1374.8,1.0,ORD10913,2023-12-06,UPI,"Chennai, Tamil Nadu",4.5,Processing
+CUST1316,Karan Brown,49.0,Female,PRD5751,Books,Machine Learning Hands-on,932.63,1.0,ORD10914,2024-05-21,Debit Card,"Mumbai, Maharashtra",4.5,Cancelled
+CUST1086,Mia Johnson,36.0,male,PRD5594,Clothing,Denim Jacket,3251.7,1.0,ORD10915,2023-02-05,Cash on Delivery,"Bengaluru, Karnataka",5.0,Delivered
+CUST1321,Neha Taylor,29.0,,PRD4636,Electronics,Gaming Mouse,1425.53,1.0,ORD10916,2023-06-01,PayPal,"Kolkata, West Bengal",1.0,Cancelled
+CUST1234,Pooja Singh,43.0,F,PRD4647,Home & Kitchen,Blender Mixer,1988.46,1.0,ORD10917,2023-01-11,Cash on Delivery,"Delhi, Delhi",5.0,Cancelled
+CUST1233,Karan Wilson,42.0,male,PRD4519,Books,Deep Work,424.75,2.0,ORD10918,2024-04-07,Debit Card,"Chandigarh, Punjab",2.0,Returned
+CUST1015,Amit Singh,38.0,female,PRD5594,Clothing,Denim Jacket,2774.68,2.0,ORD10919,2023-06-22,UPI,"Hyderabad, Telangana",2.0,Delivered
+CUST1086,Amit Johnson,27.0,female,PRD5872,Clothing,Hooded Sweatshirt,1505.7,5.0,ORD10920,2024-11-15,Debit Card,"Bengaluru, Karnataka",3.0,Delivered
+CUST1011,Varun Smith,23.0,Female,PRD2162,Sports,Yoga Mat Pro,1105.11,1.0,ORD10921,2023-08-01,Cash on Delivery,"Bengaluru, Karnataka",2.0,Delivered
+CUST1170,Sneha Taylor,24.0,Male,PRD6239,Clothing,Formal Shirt,1214.0,4.0,ORD10922,2023-09-08,Debit Card,"Mumbai, Maharashtra",1.0,Delivered
+CUST1187,Karan Patel,24.0,M,PRD1071,Sports,Badminton Racket,1680.69,2.0,ORD10923,2024-09-28,UPI,"Hyderabad, Telangana",5.0,Cancelled
+CUST1191,Emma Miller,23.0,Male,PRD4636,Electronics,Gaming Mouse,,1.0,ORD10924,2023-04-13,Cash on Delivery,"Chandigarh, Punjab",4.0,Delivered
+CUST1178,Ethan Singh,28.0,Male,PRD3142,Electronics,Bluetooth Speaker,2262.3,1.0,ORD10925,2023-12-12,Credit Card,"Chennai, Tamil Nadu",3.0,Cancelled
+CUST1262,Rahul Patel,33.0,,PRD4991,Beauty,Herbal Shampoo,511.46,4.0,ORD10926,2024-02-05,Credit Card,"Bengaluru, Karnataka",1.0,Delivered
+CUST1081,Ananya Jones,35.0,Male,PRD2162,Sports,Yoga Mat Pro,925.2,1.0,ORD10927,2023-01-04,PayPal,"Bengaluru, Karnataka",5.0,Cancelled
+CUST1271,Noah Jones,21.0,F,PRD5665,Clothing,Cotton T-Shirt,695.55,1.0,ORD10928,2023-01-22,PayPal,"Chennai, Tamil Nadu",1.0,Delivered
+CUST1145,Pooja Iyer,36.0,Female,PRD8658,Books,The Psychology of Money,359.97,2.0,ORD10929,2024-03-05,PayPal,"Bengaluru, Karnataka",,Returned
+CUST1303,Rahul Johnson,34.0,Male,PRD5675,Books,Python for Data Science,693.38,4.0,ORD10930,2024-03-25,Credit Card,"Delhi, Delhi",4.0,Delivered
+CUST1073,Aditya Reddy,32.0,M,PRD2552,Beauty,Sunscreen SPF 50,721.42,1.0,ORD10931,2023-02-24,Credit Card,"Bengaluru, Karnataka",1.0,Shipped
+CUST1064,Priya Taylor,27.0,Male,PRD8656,Clothing,Athletic Shorts,971.27,2.0,ORD10932,2023-07-28,PayPal,"Hyderabad, Telangana",3.0,Processing
+CUST1333,Lucas Iyer,21.0,F,PRD5675,Books,Python for Data Science,631.39,2.0,ORD10933,2024-02-01,PayPal,"Ahmedabad, Gujarat",5.0,Shipped
+CUST1189,Tanvi Chopra,40.0,M,PRD8791,Home & Kitchen,Electric Kettle,1249.02,1.0,ORD10934,2024-02-05,PayPal,"Kolkata, West Bengal",,Delivered
+CUST1285,Diya Iyer,34.0,,PRD7299,Electronics,Noise Cancelling Headphones,8995.94,1.0,ORD10935,2023-02-16,PayPal,"Jaipur, Rajasthan",,Delivered
+CUST1265,Ananya Johnson,37.0,,PRD5675,Books,Python for Data Science,660.31,1.0,ORD10936,2024-01-14,Credit Card,"Hyderabad, Telangana",,Cancelled
+CUST1118,Amit Verma,29.0,female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2358.42,1.0,ORD10937,2024-01-01,Debit Card,"Pune, Maharashtra",4.5,Cancelled
+CUST1182,Siddharth Williams,28.0,male,PRD1423,Electronics,Wireless Earbuds,3301.64,3.0,ORD10938,2023-10-13,PayPal,"Chennai, Tamil Nadu",4.0,Shipped
+CUST1077,Rohan Johnson,45.0,F,PRD6904,Beauty,Vitamin C Serum,799.6,1.0,ORD10939,2023-05-11,Credit Card,"Delhi, Delhi",,Processing
+CUST1249,Emma Jones,63.0,,PRD5279,Books,Atomic Habits,566.55,3.0,ORD10940,2024-12-19,Cash on Delivery,"Mumbai, Maharashtra",5.0,Cancelled
+CUST1034,Amit Singh,,female,PRD3102,Electronics,Fast Charger 65W,1023.2,2.0,ORD10941,2024-10-17,Debit Card,"Delhi, Delhi",4.5,Shipped
+CUST1062,Ethan Williams,35.0,Female,PRD6904,Beauty,Vitamin C Serum,909.37,1.0,ORD10942,2023-10-09,Debit Card,"Bengaluru, Karnataka",4.0,Delivered
+CUST1108,Olivia Miller,29.0,Male,PRD1071,Sports,Badminton Racket,1657.35,1.0,ORD10943,2023-07-28,Credit Card,"Hyderabad, Telangana",4.5,Shipped
+CUST1277,Sophia Singh,22.0,F,PRD5675,Books,Python for Data Science,627.17,1.0,ORD10944,2023-09-26,Debit Card,"Pune, Maharashtra",4.5,Processing
+CUST1263,Rhea Miller,18.0,male,PRD8991,Electronics,Smart Watch,5412.61,4.0,ORD10945,2024-11-19,Cash on Delivery,"Mumbai, Maharashtra",1.0,Processing
+CUST1205,Lucas Mehta,38.0,Female,PRD4647,Home & Kitchen,Blender Mixer,2084.5,1.0,ORD10946,2024-09-12,Credit Card,"Jaipur, Rajasthan",1.0,Delivered
+CUST1277,Diya Williams,43.0,male,PRD6239,Clothing,Formal Shirt,1300.05,1.0,ORD10947,2023-11-03,Cash on Delivery,"Ahmedabad, Gujarat",4.5,Delivered
+CUST1085,Rhea Williams,40.0,Female,PRD1071,Sports,Badminton Racket,1365.26,1.0,ORD10948,2024-12-04,Credit Card,"Chandigarh, Punjab",3.0,Shipped
+CUST1023,Meera Wilson,56.0,F,PRD3745,Sports,Hydration Water Bottle,592.12,1.0,ORD10949,2024-08-19,Debit Card,"Chennai, Tamil Nadu",4.5,Shipped
+CUST1328,Neha Taylor,31.0,female,PRD6904,Beauty,Vitamin C Serum,749.4,1.0,ORD10950,2024-03-18,Credit Card,"Kolkata, West Bengal",3.0,Processing
+CUST1125,Ethan Williams,49.0,,PRD5055,Sports,Dumbbell Set 10kg,2147.27,2.0,ORD10951,2023-01-14,UPI,"Kolkata, West Bengal",4.5,Shipped
+CUST1309,Varun Verma,26.0,M,PRD4636,Electronics,Gaming Mouse,1684.9,1.0,ORD10952,2023-04-12,Debit Card,"Kolkata, West Bengal",2.0,Shipped
+CUST1209,Lucas Sharma,25.0,M,PRD4647,Home & Kitchen,Blender Mixer,2188.78,1.0,ORD10953,2024-03-12,UPI,"Ahmedabad, Gujarat",1.0,Processing
+CUST1050,Tanvi Smith,35.0,M,PRD7299,Electronics,Noise Cancelling Headphones,9799.02,1.0,ORD10954,2023-12-03,UPI,"Chandigarh, Punjab",4.5,Cancelled
+CUST1022,Isha Wilson,51.0,Female,PRD5055,Sports,Dumbbell Set 10kg,1934.47,3.0,ORD10955,2023-02-26,UPI,"Chandigarh, Punjab",4.0,Cancelled
+CUST1193,Aditya Wilson,30.0,male,PRD8658,Books,The Psychology of Money,403.02,8.0,ORD10956,2024-07-19,Credit Card,"Pune, Maharashtra",3.0,Delivered
+CUST1338,Diya Iyer,18.0,male,PRD4748,Electronics,Tablet 10-inch,18113.86,2.0,ORD10957,2023-01-12,Credit Card,"Ahmedabad, Gujarat",5.0,Cancelled
+CUST1032,Sneha Taylor,43.0,male,PRD2552,Beauty,Sunscreen SPF 50,689.18,1.0,ORD10958,2024-10-09,UPI,"Chandigarh, Punjab",,Shipped
+CUST1004,Diya Sharma,33.0,male,PRD4647,Home & Kitchen,Blender Mixer,1822.57,1.0,ORD10959,2024-07-22,Cash on Delivery,"Chandigarh, Punjab",4.0,Shipped
+CUST1026,Amit Williams,37.0,M,PRD4244,Home & Kitchen,Non-stick Cookware Set,2525.92,3.0,ORD10960,2024-01-19,UPI,"Pune, Maharashtra",2.0,Returned
+CUST1260,Ava Taylor,,M,PRD4244,Home & Kitchen,Non-stick Cookware Set,2782.82,1.0,ORD10961,2024-07-11,Credit Card,"Delhi, Delhi",3.0,Processing
+CUST1312,Priya Nair,-5.0,male,PRD3142,Electronics,Bluetooth Speaker,2179.93,2.0,ORD10962,2024-08-23,UPI,"Kolkata, West Bengal",3.0,Processing
+CUST1035,Karan Sharma,25.0,Male,PRD1585,Electronics,USB-C Hub,2096.16,5.0,ORD10963,2024-09-21,Credit Card,"Mumbai, Maharashtra",4.5,Delivered
+CUST1056,Meera Moore,35.0,female,PRD5532,Clothing,Slim Fit Jeans,2096.71,1.0,ORD10964,2023-08-26,UPI,"Ahmedabad, Gujarat",5.0,Shipped
+CUST1135,Sophia Singh,18.0,Male,PRD5665,Clothing,Cotton T-Shirt,757.61,2.0,ORD10965,2024-06-08,UPI,"Chandigarh, Punjab",4.5,Delivered
+CUST1237,Isha Johnson,54.0,M,PRD5055,Sports,Dumbbell Set 10kg,2077.71,2.0,ORD10966,2024-09-11,UPI,"Chennai, Tamil Nadu",,Cancelled
+CUST1220,Aditya Chopra,45.0,F,PRD4805,Clothing,Track Pants,926.92,1.0,ORD10967,2024-03-23,UPI,"Jaipur, Rajasthan",5.0,Cancelled
+CUST1252,Emma Taylor,34.0,Female,PRD5532,Clothing,Slim Fit Jeans,2138.19,1.0,ORD10968,2023-03-01,Cash on Delivery,"Jaipur, Rajasthan",2.0,Returned
+CUST1038,Lucas Davis,43.0,Male,PRD1071,Sports,Badminton Racket,1444.63,2.0,ORD10969,2024-04-02,Cash on Delivery,"Hyderabad, Telangana",4.5,Processing
+CUST1075,Aditya Taylor,26.0,M,PRD1423,Electronics,Wireless Earbuds,3289.78,3.0,ORD10970,2024-09-03,PayPal,"Ahmedabad, Gujarat",4.5,Delivered
+CUST1218,Priya Singh,45.0,M,PRD8791,Home & Kitchen,Electric Kettle,1237.38,4.0,ORD10971,2023-06-23,PayPal,"Chandigarh, Punjab",4.0,Cancelled
+CUST1283,Ananya Sharma,30.0,F,PRD5279,Books,Atomic Habits,467.45,1.0,ORD10972,2024-09-17,Cash on Delivery,"Kolkata, West Bengal",4.5,Processing
+CUST1218,Varun Miller,29.0,F,PRD2162,Sports,Yoga Mat Pro,1019.29,3.0,ORD10973,2024-08-04,PayPal,"Bengaluru, Karnataka",2.0,Delivered
+CUST1046,Sophia Taylor,23.0,male,PRD3413,Home & Kitchen,Coffee Maker,3716.55,1.0,ORD10974,2023-03-17,Debit Card,"Chandigarh, Punjab",2.0,Delivered
+CUST1331,Emma Wilson,38.0,female,PRD5532,Clothing,Slim Fit Jeans,1823.78,2.0,ORD10975,2023-04-06,Credit Card,"Mumbai, Maharashtra",1.0,Delivered
+CUST1118,Pooja Sharma,,Female,PRD4991,Beauty,Herbal Shampoo,452.82,1.0,ORD10976,2024-10-22,PayPal,"Delhi, Delhi",,Delivered
+CUST1152,Rahul Johnson,36.0,F,PRD8656,Clothing,Athletic Shorts,863.93,1.0,ORD10977,2023-10-17,PayPal,"Chennai, Tamil Nadu",4.5,Cancelled
+CUST1071,Rahul Smith,36.0,F,PRD1423,Electronics,Wireless Earbuds,,5.0,ORD10978,2024-01-15,Debit Card,"Mumbai, Maharashtra",3.0,Delivered
+CUST1302,Karan Jones,36.0,Male,PRD4991,Beauty,Herbal Shampoo,501.75,2.0,ORD10979,2024-01-21,UPI,"Chennai, Tamil Nadu",5.0,Delivered
+CUST1116,Neha Sharma,33.0,female,PRD3550,Sports,Resistance Bands,514.32,,ORD10980,2023-09-25,PayPal,"Kolkata, West Bengal",3.0,Processing
+CUST1073,Karan Wilson,22.0,Female,PRD1071,Sports,Badminton Racket,1551.44,3.0,ORD10981,2023-09-21,PayPal,"Jaipur, Rajasthan",5.0,Cancelled
+CUST1249,Ava Taylor,38.0,Female,PRD5872,Clothing,Hooded Sweatshirt,1519.41,1.0,ORD10982,2023-12-20,Debit Card,"Mumbai, Maharashtra",2.0,Shipped
+CUST1184,Siddharth Miller,47.0,Male,PRD1388,Home & Kitchen,Air Fryer,149975.0,2.0,ORD10983,2024-02-26,UPI,"Pune, Maharashtra",1.0,Shipped
+CUST1250,Siddharth Chopra,62.0,M,PRD8896,Beauty,Matte Lipstick,930.87,3.0,ORD10984,2023-11-18,UPI,"Delhi, Delhi",4.5,Shipped
+CUST1071,Tanvi Mehta,36.0,M,PRD3745,Sports,Hydration Water Bottle,644.99,1.0,ORD10985,2024-05-24,UPI,"Bengaluru, Karnataka",4.5,Delivered
+CUST1349,Neha Johnson,30.0,female,PRD5665,Clothing,Cotton T-Shirt,776.69,3.0,ORD10986,2023-01-23,Credit Card,"Delhi, Delhi",2.0,Cancelled
+CUST1176,Tanvi Mehta,35.0,male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2823.58,2.0,ORD10987,2024-12-26,Credit Card,"Mumbai, Maharashtra",4.5,Cancelled
+CUST1265,Pooja Singh,48.0,male,PRD6904,Beauty,Vitamin C Serum,903.71,1.0,ORD10988,2024-06-01,Credit Card,"Mumbai, Maharashtra",4.5,Cancelled
+CUST1031,Rohan Iyer,48.0,Female,PRD8991,Electronics,Smart Watch,5433.33,1.0,ORD10989,2024-06-08,Credit Card,"Chandigarh, Punjab",1.0,Delivered
+CUST1237,Rohan Williams,32.0,,PRD2552,Beauty,Sunscreen SPF 50,690.15,1.0,ORD10990,2024-10-26,Cash on Delivery,"Pune, Maharashtra",2.0,Returned
+CUST1331,Vikram Moore,48.0,male,PRD2552,Beauty,Sunscreen SPF 50,739.3,1.0,ORD10991,2023-07-27,Cash on Delivery,"Jaipur, Rajasthan",4.0,Delivered
+CUST1160,Ava Wilson,33.0,Male,PRD3102,Electronics,Fast Charger 65W,1092.58,1.0,ORD10992,2023-07-08,Credit Card,"Ahmedabad, Gujarat",2.0,Returned
+CUST1185,Siddharth Mehta,43.0,male,PRD8896,Beauty,Matte Lipstick,1029.13,1.0,ORD10993,2024-12-14,Debit Card,"Chandigarh, Punjab",5.0,Delivered
+CUST1154,Mia Wilson,40.0,M,PRD6239,Clothing,Formal Shirt,1373.89,1.0,ORD10994,2023-07-05,UPI,"Pune, Maharashtra",,Returned
+CUST1228,Mia Mehta,29.0,M,PRD1388,Home & Kitchen,Air Fryer,5708.03,1.0,ORD10995,2023-01-20,Cash on Delivery,"Pune, Maharashtra",3.0,Delivered
+CUST1022,Meera Chopra,23.0,male,PRD8991,Electronics,Smart Watch,5133.36,2.0,ORD10996,2023-10-22,Debit Card,"Pune, Maharashtra",5.0,Shipped
+CUST1350,Karan Patel,47.0,Female,PRD8658,Books,The Psychology of Money,440.65,1.0,ORD10997,2023-12-03,Credit Card,"Delhi, Delhi",2.0,Shipped
+CUST1161,Ava Moore,50.0,,PRD2425,Beauty,Face Cleanser,370.17,3.0,ORD10998,2024-12-06,Cash on Delivery,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1017,Siddharth Chopra,,Male,PRD2425,Beauty,Face Cleanser,418.45,1.0,ORD10999,2024-06-23,Credit Card,"Hyderabad, Telangana",1.0,Delivered
+CUST1005,Karan Chopra,34.0,F,PRD4636,Electronics,Gaming Mouse,1350.23,1.0,ORD11000,2024-01-07,Credit Card,"Jaipur, Rajasthan",3.0,Delivered
+CUST1037,Isha Chopra,35.0,F,PRD4647,Home & Kitchen,Blender Mixer,2071.69,2.0,ORD11001,2024-04-12,Debit Card,"Mumbai, Maharashtra",1.0,Delivered
+CUST1031,Tanvi Davis,47.0,Female,PRD1071,Sports,Badminton Racket,1554.27,1.0,ORD11002,2024-07-23,PayPal,"Chennai, Tamil Nadu",,Cancelled
+CUST1124,Meera Miller,21.0,male,PRD5751,Books,Machine Learning Hands-on,888.47,1.0,ORD11003,2023-06-28,Credit Card,"Mumbai, Maharashtra",4.0,Shipped
+CUST1081,Amit Smith,,M,PRD8991,Electronics,Smart Watch,4890.4,3.0,ORD11004,2024-07-06,Credit Card,"Ahmedabad, Gujarat",2.0,Processing
+CUST1032,James Singh,40.0,male,PRD5872,Clothing,Hooded Sweatshirt,1354.81,1.0,ORD11005,2024-10-02,Credit Card,"Pune, Maharashtra",5.0,Returned
+CUST1277,Isha Williams,28.0,Male,PRD7299,Electronics,Noise Cancelling Headphones,8405.25,2.0,ORD11006,2024-05-22,PayPal,"Pune, Maharashtra",4.5,Processing
+CUST1279,Siddharth Smith,35.0,female,PRD8658,Books,The Psychology of Money,398.53,1.0,ORD11007,2023-04-14,Credit Card,"Bengaluru, Karnataka",3.0,Processing
+CUST1096,Rohan Mehta,55.0,,PRD5055,Sports,Dumbbell Set 10kg,,1.0,ORD11008,2024-02-26,Debit Card,"Hyderabad, Telangana",4.5,Delivered
+CUST1093,Rahul Williams,39.0,female,PRD5751,Books,Machine Learning Hands-on,876.44,3.0,ORD11009,2023-10-16,UPI,"Chandigarh, Punjab",1.0,Returned
+CUST1058,Arjun Williams,35.0,Male,PRD8658,Books,The Psychology of Money,405.36,2.0,ORD11010,2023-03-23,PayPal,"Jaipur, Rajasthan",5.0,Delivered
+CUST1174,Mia Nair,40.0,male,PRD7299,Electronics,Noise Cancelling Headphones,10143.26,1.0,ORD11011,2024-03-26,UPI,"Chennai, Tamil Nadu",5.0,Delivered
+CUST1264,Vikram Singh,46.0,,PRD8656,Clothing,Athletic Shorts,837.75,4.0,ORD11012,2023-04-05,Credit Card,"Chennai, Tamil Nadu",3.0,Shipped
+CUST1143,James Reddy,41.0,F,PRD8991,Electronics,Smart Watch,4948.89,1.0,ORD11013,2023-04-23,Debit Card,"Mumbai, Maharashtra",5.0,Delivered
+CUST1026,Aditya Gupta,54.0,Female,PRD3413,Home & Kitchen,Coffee Maker,3475.32,1.0,ORD11014,2023-03-17,PayPal,"Pune, Maharashtra",4.0,Delivered
+CUST1203,Rahul Sharma,46.0,female,PRD4805,Clothing,Track Pants,998.47,1.0,ORD11015,2023-10-18,Debit Card,"Delhi, Delhi",5.0,Delivered
+CUST1307,Rohan Williams,32.0,Male,PRD2552,Beauty,Sunscreen SPF 50,723.73,1.0,ORD11016,2023-12-17,Credit Card,"Mumbai, Maharashtra",5.0,Processing
+CUST1142,Rohan Taylor,28.0,male,PRD7299,Electronics,Noise Cancelling Headphones,8924.52,2.0,ORD11017,2024-06-27,PayPal,"Ahmedabad, Gujarat",1.0,Shipped
+CUST1120,Liam Brown,33.0,Female,PRD8791,Home & Kitchen,Electric Kettle,1422.02,4.0,ORD11018,2023-05-21,PayPal,"Kolkata, West Bengal",2.0,Cancelled
+CUST1157,Rhea Reddy,41.0,M,PRD8658,Books,The Psychology of Money,372.02,1.0,ORD11019,2023-03-14,Credit Card,"Chennai, Tamil Nadu",3.0,Delivered
+CUST1211,Emma Gupta,29.0,female,PRD5279,Books,Atomic Habits,533.83,4.0,ORD11020,2024-11-02,Cash on Delivery,"Chandigarh, Punjab",4.5,Shipped
+CUST1076,James Nair,42.0,F,PRD3745,Sports,Hydration Water Bottle,569.2,1.0,ORD11021,2024-04-05,PayPal,"Bengaluru, Karnataka",5.0,Delivered
+CUST1187,Isha Nair,40.0,Male,PRD5751,Books,Machine Learning Hands-on,842.74,5.0,ORD11022,2023-08-13,UPI,"Chennai, Tamil Nadu",4.0,Returned
+CUST1200,Mia Moore,23.0,Female,PRD3550,Sports,Resistance Bands,563.39,3.0,ORD11023,2023-04-12,PayPal,"Pune, Maharashtra",3.0,Shipped
+CUST1198,Mia Taylor,45.0,Female,PRD5872,Clothing,Hooded Sweatshirt,1456.11,,ORD11024,2024-12-01,Cash on Delivery,"Chennai, Tamil Nadu",3.0,Delivered
+CUST1205,Rhea Gupta,41.0,Female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2398.75,1.0,ORD11025,2023-05-05,UPI,"Chandigarh, Punjab",3.0,Delivered
+CUST1198,Ananya Chopra,29.0,female,PRD5055,Sports,Dumbbell Set 10kg,2269.34,2.0,ORD11026,2024-05-25,UPI,"Hyderabad, Telangana",1.0,Shipped
+CUST1291,Tanvi Nair,23.0,F,PRD1423,Electronics,Wireless Earbuds,2790.56,1.0,ORD11027,2023-06-06,Credit Card,"Delhi, Delhi",4.5,Shipped
+CUST1048,Mia Wilson,35.0,F,PRD3655,Home & Kitchen,LED Desk Lamp,1012.69,1.0,ORD11028,2024-05-09,Credit Card,"Delhi, Delhi",5.0,Delivered
+CUST1332,Mia Sharma,18.0,F,PRD5532,Clothing,Slim Fit Jeans,1865.1,2.0,ORD11029,2024-11-11,Debit Card,"Hyderabad, Telangana",1.0,Delivered
+CUST1032,James Patel,30.0,male,PRD8896,Beauty,Matte Lipstick,891.69,1.0,ORD11030,2023-11-02,Credit Card,"Bengaluru, Karnataka",5.0,Delivered
+CUST1066,Rohan Chopra,45.0,male,PRD7299,Electronics,Noise Cancelling Headphones,,1.0,ORD11031,2023-10-23,Debit Card,"Kolkata, West Bengal",5.0,Cancelled
+CUST1045,Meera Singh,24.0,female,PRD8791,Home & Kitchen,Electric Kettle,1296.0,4.0,ORD11032,2023-01-20,Cash on Delivery,"Ahmedabad, Gujarat",3.0,Delivered
+CUST1192,Rhea Johnson,38.0,male,PRD5532,Clothing,Slim Fit Jeans,2206.24,2.0,ORD11033,2023-10-07,Credit Card,"Chennai, Tamil Nadu",4.0,Cancelled
+CUST1114,Ava Johnson,43.0,female,PRD1388,Home & Kitchen,Air Fryer,5472.52,3.0,ORD11034,2023-01-17,PayPal,"Chandigarh, Punjab",1.0,Returned
+CUST1259,Ava Singh,42.0,,PRD4748,Electronics,Tablet 10-inch,15815.89,1.0,ORD11035,2023-09-08,Credit Card,"Ahmedabad, Gujarat",5.0,Shipped
+CUST1135,Isha Mehta,26.0,M,PRD5532,Clothing,Slim Fit Jeans,1907.39,2.0,ORD11036,2023-03-05,Cash on Delivery,"Mumbai, Maharashtra",4.5,Delivered
+CUST1130,Vikram Johnson,25.0,male,PRD5751,Books,Machine Learning Hands-on,851.07,3.0,ORD11037,2023-10-11,UPI,"Mumbai, Maharashtra",2.0,Returned
+CUST1326,Ava Davis,34.0,Male,PRD2162,Sports,Yoga Mat Pro,1021.92,2.0,ORD11038,2024-04-01,UPI,"Hyderabad, Telangana",3.0,Returned
+CUST1063,James Wilson,36.0,male,PRD5207,Beauty,Moisturizing Cream,656.59,3.0,ORD11039,2024-04-19,UPI,"Kolkata, West Bengal",5.0,Delivered
+CUST1244,Diya Johnson,41.0,F,PRD5675,Books,Python for Data Science,702.06,3.0,ORD11040,2024-10-25,UPI,"Kolkata, West Bengal",4.5,Cancelled
+CUST1047,Varun Brown,41.0,female,PRD2552,Beauty,Sunscreen SPF 50,714.46,1.0,ORD11041,2023-01-09,PayPal,"Bengaluru, Karnataka",1.0,Processing
+CUST1334,Meera Iyer,63.0,Male,PRD8656,Clothing,Athletic Shorts,1012.71,1.0,ORD11042,2024-08-18,PayPal,"Mumbai, Maharashtra",4.5,Shipped
+CUST1111,Rohan Singh,50.0,female,PRD5532,Clothing,Slim Fit Jeans,2181.23,2.0,ORD11043,2024-06-23,Cash on Delivery,"Kolkata, West Bengal",5.0,Delivered
+CUST1324,Emma Moore,30.0,Male,PRD2162,Sports,Yoga Mat Pro,976.21,3.0,ORD11044,2024-09-22,Debit Card,"Hyderabad, Telangana",1.0,Delivered
+CUST1062,Varun Verma,57.0,Female,PRD8791,Home & Kitchen,Electric Kettle,1468.41,2.0,ORD11045,2023-12-02,Debit Card,"Kolkata, West Bengal",4.0,Shipped
+CUST1157,Neha Wilson,21.0,female,PRD8896,Beauty,Matte Lipstick,1020.59,2.0,ORD11046,2024-04-13,PayPal,"Mumbai, Maharashtra",3.0,Delivered
+CUST1012,Tanvi Nair,22.0,Male,PRD1071,Sports,Badminton Racket,1580.12,1.0,ORD11047,2023-08-03,Cash on Delivery,"Pune, Maharashtra",5.0,Shipped
+CUST1115,Amit Reddy,,Female,PRD5675,Books,Python for Data Science,611.25,1.0,ORD11048,2023-07-22,PayPal,"Chennai, Tamil Nadu",1.0,Returned
+CUST1161,Rhea Chopra,42.0,female,PRD4647,Home & Kitchen,Blender Mixer,2005.97,1.0,ORD11049,2024-05-11,UPI,"Hyderabad, Telangana",3.0,Returned
+CUST1038,Ava Chopra,57.0,female,PRD4805,Clothing,Track Pants,1135.05,5.0,ORD11050,2024-10-15,Debit Card,"Chandigarh, Punjab",4.0,Delivered
+CUST1009,Arjun Wilson,32.0,female,PRD5207,Beauty,Moisturizing Cream,679.14,2.0,ORD11051,2024-11-27,Credit Card,"Hyderabad, Telangana",1.0,Returned
+CUST1293,Siddharth Gupta,34.0,Male,PRD2552,Beauty,Sunscreen SPF 50,640.52,2.0,ORD11052,2024-12-26,UPI,"Pune, Maharashtra",4.5,Delivered
+CUST1065,Diya Nair,,female,PRD2552,Beauty,Sunscreen SPF 50,701.49,1.0,ORD11053,2023-01-27,Debit Card,"Pune, Maharashtra",1.0,Delivered
+CUST1237,Amit Brown,52.0,male,PRD4647,Home & Kitchen,Blender Mixer,2034.66,,ORD11054,2023-07-26,Cash on Delivery,"Chandigarh, Punjab",1.0,Delivered
+CUST1185,Isha Chopra,25.0,male,PRD8991,Electronics,Smart Watch,4962.74,1.0,ORD11055,2023-05-06,PayPal,"Bengaluru, Karnataka",5.0,Delivered
+CUST1018,Sophia Nair,19.0,Female,PRD5594,Clothing,Denim Jacket,3196.4,1.0,ORD11056,2024-07-17,Cash on Delivery,"Mumbai, Maharashtra",,Returned
+CUST1334,Amit Gupta,29.0,Male,PRD4805,Clothing,Track Pants,1141.93,5.0,ORD11057,2024-05-03,UPI,"Hyderabad, Telangana",3.0,Delivered
+CUST1164,Diya Gupta,26.0,Male,PRD5532,Clothing,Slim Fit Jeans,1939.2,1.0,ORD11058,2024-03-15,Debit Card,"Hyderabad, Telangana",4.5,Delivered
+CUST1320,Ava Nair,,,PRD4244,Home & Kitchen,Non-stick Cookware Set,2376.81,,ORD11059,2023-01-08,UPI,"Kolkata, West Bengal",1.0,Cancelled
+CUST1063,Emma Williams,18.0,Female,PRD5207,Beauty,Moisturizing Cream,591.12,2.0,ORD11060,2023-04-24,Debit Card,"Chennai, Tamil Nadu",2.0,Delivered
+CUST1041,Lucas Singh,33.0,M,PRD5207,Beauty,Moisturizing Cream,646.43,1.0,ORD11061,2023-03-02,Cash on Delivery,"Chennai, Tamil Nadu",4.5,Returned
+CUST1009,Rohan Jones,34.0,male,PRD1388,Home & Kitchen,Air Fryer,6620.38,1.0,ORD11062,2024-05-22,Credit Card,"Ahmedabad, Gujarat",5.0,Shipped
+CUST1165,Ethan Mehta,18.0,male,PRD1388,Home & Kitchen,Air Fryer,5740.13,1.0,ORD11063,2024-08-05,Debit Card,"Pune, Maharashtra",1.0,Delivered
+CUST1080,Amit Taylor,,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2694.3,1.0,ORD11064,2023-12-24,Debit Card,"Ahmedabad, Gujarat",2.0,Shipped
+CUST1294,Noah Verma,45.0,Male,PRD4748,Electronics,Tablet 10-inch,17186.48,2.0,ORD11065,2023-09-14,Credit Card,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1019,Ava Nair,27.0,female,PRD3550,Sports,Resistance Bands,488.81,1.0,ORD11066,2023-02-16,Debit Card,"Bengaluru, Karnataka",4.0,Shipped
+CUST1131,Sneha Nair,38.0,,PRD3413,Home & Kitchen,Coffee Maker,3478.78,1.0,ORD11067,2024-05-19,Debit Card,"Hyderabad, Telangana",1.0,Cancelled
+CUST1277,Ethan Reddy,32.0,Male,PRD4647,Home & Kitchen,Blender Mixer,2098.56,1.0,ORD11068,2024-01-09,Credit Card,"Bengaluru, Karnataka",,Delivered
+CUST1315,Emma Brown,24.0,M,PRD4805,Clothing,Track Pants,1054.92,1.0,ORD11069,2023-07-14,Debit Card,"Chandigarh, Punjab",4.0,Delivered
+CUST1138,Pooja Jones,36.0,male,PRD4647,Home & Kitchen,Blender Mixer,2241.79,1.0,ORD11070,2023-02-05,Credit Card,"Pune, Maharashtra",2.0,Delivered
+CUST1304,Neha Iyer,33.0,Female,PRD5665,Clothing,Cotton T-Shirt,761.46,2.0,ORD11071,2024-07-08,Debit Card,"Ahmedabad, Gujarat",2.0,Cancelled
+CUST1210,Pooja Taylor,45.0,Male,PRD4991,Beauty,Herbal Shampoo,526.88,,ORD11072,2024-11-18,Credit Card,"Hyderabad, Telangana",1.0,Delivered
+CUST1336,Isha Patel,,male,PRD5751,Books,Machine Learning Hands-on,802.57,8.0,ORD11073,2023-03-26,UPI,"Chennai, Tamil Nadu",1.0,Cancelled
+CUST1191,Isha Gupta,29.0,Female,PRD1388,Home & Kitchen,Air Fryer,6195.22,1.0,ORD11074,2024-09-02,UPI,"Chennai, Tamil Nadu",5.0,Delivered
+CUST1022,Ava Brown,26.0,Female,PRD2425,Beauty,Face Cleanser,390.39,1.0,ORD11075,2024-12-13,UPI,"Kolkata, West Bengal",5.0,Delivered
+CUST1306,Tanvi Gupta,43.0,male,PRD4519,Books,Deep Work,426.75,,ORD11076,2023-12-03,UPI,"Bengaluru, Karnataka",4.5,Delivered
+CUST1058,Neha Davis,32.0,F,PRD8991,Electronics,Smart Watch,4690.84,2.0,ORD11077,2024-10-20,Cash on Delivery,"Jaipur, Rajasthan",2.0,Processing
+CUST1102,Ananya Wilson,,Female,PRD4991,Beauty,Herbal Shampoo,,2.0,ORD11078,2023-03-23,Credit Card,"Mumbai, Maharashtra",2.0,Cancelled
+CUST1083,Isha Smith,44.0,Male,PRD3655,Home & Kitchen,LED Desk Lamp,869.82,5.0,ORD11079,2023-04-18,UPI,"Jaipur, Rajasthan",4.0,Returned
+CUST1316,Pooja Moore,28.0,female,PRD4519,Books,Deep Work,454.07,3.0,ORD11080,2023-04-06,Cash on Delivery,"Chandigarh, Punjab",5.0,Returned
+CUST1105,Rahul Davis,35.0,F,PRD7299,Electronics,Noise Cancelling Headphones,8656.66,2.0,ORD11081,2023-02-01,Debit Card,"Bengaluru, Karnataka",2.0,Delivered
+CUST1116,Liam Taylor,27.0,F,PRD5872,Clothing,Hooded Sweatshirt,1573.98,1.0,ORD11082,2024-09-16,Credit Card,"Kolkata, West Bengal",4.0,Shipped
+CUST1198,Ananya Patel,24.0,female,PRD5665,Clothing,Cotton T-Shirt,720.43,1.0,ORD11083,2023-05-08,Cash on Delivery,"Bengaluru, Karnataka",4.0,Shipped
+CUST1060,Siddharth Miller,18.0,female,PRD5055,Sports,Dumbbell Set 10kg,2129.31,1.0,ORD11084,2023-11-01,PayPal,"Kolkata, West Bengal",4.0,Processing
+CUST1197,Noah Singh,50.0,male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2619.69,1.0,ORD11085,2024-03-11,Debit Card,"Chandigarh, Punjab",4.0,Cancelled
+CUST1326,Aarav Jones,28.0,female,PRD4748,Electronics,Tablet 10-inch,17458.24,1.0,ORD11086,2023-10-10,PayPal,"Chandigarh, Punjab",4.0,Delivered
+CUST1288,Aarav Wilson,39.0,Female,PRD4647,Home & Kitchen,Blender Mixer,2084.45,2.0,ORD11087,2023-02-17,Cash on Delivery,"Jaipur, Rajasthan",1.0,Shipped
+CUST1237,Sneha Chopra,32.0,male,PRD2425,Beauty,Face Cleanser,369.76,2.0,ORD11088,2023-10-18,UPI,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1340,James Miller,46.0,male,PRD1423,Electronics,Wireless Earbuds,3043.0,1.0,ORD11089,2023-05-18,Credit Card,"Jaipur, Rajasthan",4.5,Returned
+CUST1130,Priya Miller,18.0,female,PRD3745,Sports,Hydration Water Bottle,545.26,2.0,ORD11090,2023-11-27,Cash on Delivery,"Chandigarh, Punjab",3.0,Returned
+CUST1055,Isha Johnson,36.0,,PRD2552,Beauty,Sunscreen SPF 50,618.64,3.0,ORD11091,2024-12-13,Credit Card,"Chandigarh, Punjab",4.5,Delivered
+CUST1331,Rahul Sharma,42.0,Male,PRD3550,Sports,Resistance Bands,503.77,2.0,ORD11092,2024-05-14,Cash on Delivery,"Mumbai, Maharashtra",4.0,Cancelled
+CUST1010,James Iyer,34.0,Male,PRD8991,Electronics,Smart Watch,4964.46,1.0,ORD11093,2024-01-08,UPI,"Chennai, Tamil Nadu",3.0,Delivered
+CUST1308,Rhea Patel,25.0,Female,PRD1071,Sports,Badminton Racket,1461.86,1.0,ORD11094,2023-03-26,Credit Card,"Pune, Maharashtra",4.5,Processing
+CUST1224,Sophia Davis,18.0,male,PRD5665,Clothing,Cotton T-Shirt,666.75,1.0,ORD11095,2024-11-10,Credit Card,"Chennai, Tamil Nadu",4.0,Shipped
+CUST1156,Isha Chopra,26.0,female,PRD2552,Beauty,Sunscreen SPF 50,716.78,2.0,ORD11096,2024-06-01,Credit Card,"Bengaluru, Karnataka",5.0,Delivered
+CUST1112,Ananya Singh,18.0,Male,PRD5751,Books,Machine Learning Hands-on,966.13,2.0,ORD11097,2024-02-23,Debit Card,"Bengaluru, Karnataka",4.0,Shipped
+CUST1081,Tanvi Mehta,42.0,M,PRD3550,Sports,Resistance Bands,489.61,2.0,ORD11098,2023-11-10,UPI,"Bengaluru, Karnataka",3.0,Delivered
+CUST1208,Ananya Miller,39.0,Male,PRD1585,Electronics,USB-C Hub,2011.39,1.0,ORD11099,2024-10-03,PayPal,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1188,James Reddy,43.0,female,PRD5279,Books,Atomic Habits,506.64,2.0,ORD11100,2024-05-23,Debit Card,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1019,Amit Nair,23.0,Male,PRD5055,Sports,Dumbbell Set 10kg,1833.41,2.0,ORD11101,2023-11-17,PayPal,"Mumbai, Maharashtra",4.5,Processing
+CUST1090,Ava Wilson,21.0,Female,PRD5665,Clothing,Cotton T-Shirt,661.25,1.0,ORD11102,2023-06-06,PayPal,"Chennai, Tamil Nadu",5.0,Delivered
+CUST1168,Olivia Nair,39.0,Male,PRD3745,Sports,Hydration Water Bottle,641.76,3.0,ORD11103,2024-05-28,PayPal,"Delhi, Delhi",4.0,Cancelled
+CUST1194,Mia Singh,39.0,M,PRD5532,Clothing,Slim Fit Jeans,2101.25,4.0,ORD11104,2024-07-21,UPI,"Pune, Maharashtra",,Processing
+CUST1295,Varun Sharma,18.0,female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2815.07,2.0,ORD11105,2024-11-23,Debit Card,"Delhi, Delhi",4.5,Processing
+CUST1210,Emma Miller,26.0,Female,PRD3655,Home & Kitchen,LED Desk Lamp,875.97,1.0,ORD11106,2024-11-20,Cash on Delivery,"Pune, Maharashtra",4.5,Delivered
+CUST1252,Amit Moore,51.0,F,PRD1423,Electronics,Wireless Earbuds,3257.81,2.0,ORD11107,2023-09-20,Debit Card,"Chennai, Tamil Nadu",2.0,Cancelled
+CUST1312,Mia Jones,42.0,female,PRD3550,Sports,Resistance Bands,490.11,1.0,ORD11108,2023-05-26,PayPal,"Ahmedabad, Gujarat",2.0,Processing
+CUST1201,Arjun Iyer,31.0,male,PRD3745,Sports,Hydration Water Bottle,619.42,1.0,ORD11109,2024-10-08,Cash on Delivery,"Delhi, Delhi",3.0,Processing
+CUST1006,Lucas Sharma,20.0,F,PRD5055,Sports,Dumbbell Set 10kg,2087.5,3.0,ORD11110,2024-03-18,PayPal,"Chandigarh, Punjab",3.0,Delivered
+CUST1322,Ethan Smith,23.0,,PRD4519,Books,Deep Work,11250.0,1.0,ORD11111,2023-11-13,Credit Card,"Delhi, Delhi",4.5,Delivered
+CUST1006,Sneha Wilson,29.0,male,PRD5279,Books,Atomic Habits,502.32,2.0,ORD11112,2024-12-17,Cash on Delivery,"Delhi, Delhi",5.0,Delivered
+CUST1022,Neha Smith,18.0,Female,PRD6239,Clothing,Formal Shirt,1395.5,1.0,ORD11113,2024-08-07,PayPal,"Bengaluru, Karnataka",1.0,Delivered
+CUST1179,Arjun Taylor,47.0,female,PRD1423,Electronics,Wireless Earbuds,3430.43,1.0,ORD11114,2024-07-03,UPI,"Ahmedabad, Gujarat",1.0,Cancelled
+CUST1172,Sophia Brown,46.0,male,PRD8791,Home & Kitchen,Electric Kettle,1292.45,2.0,ORD11115,2023-11-20,Debit Card,"Jaipur, Rajasthan",4.0,Shipped
+CUST1094,Siddharth Sharma,20.0,F,PRD4991,Beauty,Herbal Shampoo,,1.0,ORD11116,2023-05-06,PayPal,"Chennai, Tamil Nadu",5.0,Cancelled
+CUST1212,Rohan Patel,54.0,M,PRD5751,Books,Machine Learning Hands-on,899.9,1.0,ORD11117,2024-05-02,Credit Card,"Mumbai, Maharashtra",4.5,Processing
+CUST1001,Vikram Davis,145.0,male,PRD5207,Beauty,Moisturizing Cream,554.44,1.0,ORD11118,2024-11-09,Credit Card,"Jaipur, Rajasthan",2.0,Processing
+CUST1163,Ava Reddy,28.0,Male,PRD4991,Beauty,Herbal Shampoo,556.46,1.0,ORD11119,2023-10-21,Cash on Delivery,"Bengaluru, Karnataka",4.5,Returned
+CUST1143,Rhea Miller,40.0,M,PRD4636,Electronics,Gaming Mouse,1550.58,1.0,ORD11120,2024-03-28,Credit Card,"Ahmedabad, Gujarat",2.0,Delivered
+CUST1329,Tanvi Wilson,34.0,Female,PRD3655,Home & Kitchen,LED Desk Lamp,877.66,1.0,ORD11121,2023-09-25,Cash on Delivery,"Ahmedabad, Gujarat",4.0,Shipped
+CUST1334,Olivia Johnson,33.0,Female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2308.01,1.0,ORD11122,2023-10-01,UPI,"Hyderabad, Telangana",5.0,Returned
+CUST1215,Aarav Singh,29.0,male,PRD3102,Electronics,Fast Charger 65W,1114.47,1.0,ORD11123,2023-02-20,UPI,"Ahmedabad, Gujarat",1.0,Delivered
+CUST1144,Rohan Sharma,31.0,F,PRD1388,Home & Kitchen,Air Fryer,5955.85,1.0,ORD11124,2023-09-21,Credit Card,"Chandigarh, Punjab",4.5,Delivered
+CUST1051,James Gupta,51.0,Male,PRD3745,Sports,Hydration Water Bottle,686.3,4.0,ORD11125,2023-10-14,Debit Card,"Bengaluru, Karnataka",4.0,Returned
+CUST1153,Ava Gupta,41.0,F,PRD5751,Books,Machine Learning Hands-on,878.38,2.0,ORD11126,2024-01-07,PayPal,"Jaipur, Rajasthan",5.0,Shipped
+CUST1111,Diya Davis,,Female,PRD5751,Books,Machine Learning Hands-on,930.55,3.0,ORD11127,2023-06-25,PayPal,"Kolkata, West Bengal",1.0,Processing
+CUST1185,Rahul Williams,30.0,,PRD4991,Beauty,Herbal Shampoo,461.05,8.0,ORD11128,2023-06-26,Credit Card,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1098,Noah Patel,18.0,male,PRD1071,Sports,Badminton Racket,1526.21,1.0,ORD11129,2023-07-16,Debit Card,"Delhi, Delhi",,Returned
+CUST1130,Amit Mehta,18.0,Male,PRD5055,Sports,Dumbbell Set 10kg,1833.28,1.0,ORD11130,2024-08-09,Debit Card,"Kolkata, West Bengal",,Delivered
+CUST1116,Noah Chopra,36.0,male,PRD3413,Home & Kitchen,Coffee Maker,3275.13,1.0,ORD11131,2023-10-09,Debit Card,"Mumbai, Maharashtra",3.0,Cancelled
+CUST1229,Ava Davis,21.0,,PRD5751,Books,Machine Learning Hands-on,832.11,2.0,ORD11132,2024-03-16,Credit Card,"Ahmedabad, Gujarat",3.0,Cancelled
+CUST1286,Aarav Gupta,31.0,female,PRD3550,Sports,Resistance Bands,462.29,1.0,ORD11133,2023-02-11,Debit Card,"Kolkata, West Bengal",4.0,Returned
+CUST1147,Olivia Taylor,47.0,female,PRD8896,Beauty,Matte Lipstick,913.3,1.0,ORD11134,2024-01-17,UPI,"Ahmedabad, Gujarat",4.5,Cancelled
+CUST1119,Siddharth Wilson,20.0,Male,PRD2552,Beauty,Sunscreen SPF 50,598.01,5.0,ORD11135,2023-01-13,PayPal,"Chandigarh, Punjab",5.0,Delivered
+CUST1102,Ava Smith,24.0,Female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2347.64,2.0,ORD11136,2024-09-14,UPI,"Kolkata, West Bengal",5.0,Returned
+CUST1005,Pooja Verma,44.0,F,PRD5751,Books,Machine Learning Hands-on,834.88,1.0,ORD11137,2023-04-01,Credit Card,"Mumbai, Maharashtra",4.0,Delivered
+CUST1150,Olivia Brown,18.0,Male,PRD3745,Sports,Hydration Water Bottle,688.74,1.0,ORD11138,2023-02-13,Credit Card,"Chandigarh, Punjab",1.0,Shipped
+CUST1291,Noah Gupta,31.0,Female,PRD8658,Books,The Psychology of Money,416.67,1.0,ORD11139,2023-12-20,PayPal,"Mumbai, Maharashtra",5.0,Delivered
+CUST1154,Isha Verma,59.0,Female,PRD4244,Home & Kitchen,Non-stick Cookware Set,2824.72,8.0,ORD11140,2024-10-17,Debit Card,"Hyderabad, Telangana",1.0,Cancelled
+CUST1126,Siddharth Verma,37.0,Male,PRD8658,Books,The Psychology of Money,384.95,2.0,ORD11141,2024-10-26,Debit Card,"Mumbai, Maharashtra",3.0,Returned
+CUST1341,Aarav Verma,43.0,Female,PRD6904,Beauty,Vitamin C Serum,833.91,2.0,ORD11142,2024-05-19,PayPal,"Kolkata, West Bengal",5.0,Delivered
+CUST1049,Diya Wilson,29.0,male,PRD8658,Books,The Psychology of Money,374.28,1.0,ORD11143,2024-04-17,Cash on Delivery,"Chennai, Tamil Nadu",2.0,Shipped
+CUST1073,Diya Miller,19.0,F,PRD3413,Home & Kitchen,Coffee Maker,3462.71,1.0,ORD11144,2023-07-10,Debit Card,"Pune, Maharashtra",1.0,Delivered
+CUST1151,Rohan Singh,18.0,male,PRD3550,Sports,Resistance Bands,501.33,5.0,ORD11145,2024-03-26,UPI,"Chandigarh, Punjab",,Cancelled
+CUST1204,Ananya Patel,36.0,M,PRD4991,Beauty,Herbal Shampoo,,4.0,ORD11146,2023-09-08,PayPal,"Delhi, Delhi",,Cancelled
+CUST1090,Rahul Gupta,36.0,Male,PRD1388,Home & Kitchen,Air Fryer,5795.77,3.0,ORD11147,2024-06-01,PayPal,"Kolkata, West Bengal",2.0,Returned
+CUST1133,Neha Brown,53.0,male,PRD6239,Clothing,Formal Shirt,1375.0,1.0,ORD11148,2023-01-04,UPI,"Hyderabad, Telangana",,Shipped
+CUST1321,Rahul Chopra,30.0,female,PRD6904,Beauty,Vitamin C Serum,752.87,2.0,ORD11149,2023-02-24,PayPal,"Bengaluru, Karnataka",1.0,Processing
+CUST1201,Sophia Williams,37.0,F,PRD5207,Beauty,Moisturizing Cream,550.57,1.0,ORD11150,2024-08-14,Cash on Delivery,"Chennai, Tamil Nadu",3.0,Shipped
+CUST1240,Ethan Verma,32.0,M,PRD1423,Electronics,Wireless Earbuds,3303.61,8.0,ORD11151,2024-10-16,Debit Card,"Bengaluru, Karnataka",3.0,Returned
+CUST1108,Neha Patel,21.0,Female,PRD5055,Sports,Dumbbell Set 10kg,1967.16,1.0,ORD11152,2024-05-20,Debit Card,"Pune, Maharashtra",2.0,Delivered
+CUST1205,Emma Mehta,36.0,Male,PRD4748,Electronics,Tablet 10-inch,14720.31,1.0,ORD11153,2024-04-01,Debit Card,"Chennai, Tamil Nadu",5.0,Processing
+CUST1148,Arjun Miller,45.0,M,PRD1071,Sports,Badminton Racket,1500.93,1.0,ORD11154,2023-01-12,Credit Card,"Mumbai, Maharashtra",2.0,Returned
+CUST1190,Neha Reddy,41.0,male,PRD4805,Clothing,Track Pants,,1.0,ORD11155,2024-01-10,Credit Card,"Hyderabad, Telangana",1.0,Cancelled
+CUST1329,Sophia Miller,26.0,Male,PRD5751,Books,Machine Learning Hands-on,940.97,1.0,ORD11156,2023-01-03,UPI,"Mumbai, Maharashtra",2.0,Delivered
+CUST1244,Ethan Iyer,63.0,Male,PRD1071,Sports,Badminton Racket,1366.18,3.0,ORD11157,2024-11-25,Debit Card,"Pune, Maharashtra",4.5,Returned
+CUST1027,Olivia Miller,31.0,F,PRD8896,Beauty,Matte Lipstick,811.22,8.0,ORD11158,2024-04-15,Debit Card,"Pune, Maharashtra",5.0,Delivered
+CUST1012,Meera Singh,47.0,female,PRD5675,Books,Python for Data Science,682.3,2.0,ORD11159,2023-04-15,PayPal,"Delhi, Delhi",4.5,Cancelled
+CUST1263,Ananya Taylor,30.0,male,PRD8658,Books,The Psychology of Money,457.64,2.0,ORD11160,2023-08-25,Cash on Delivery,"Hyderabad, Telangana",2.0,Delivered
+CUST1230,Lucas Williams,46.0,male,PRD4647,Home & Kitchen,Blender Mixer,,3.0,ORD11161,2024-09-12,PayPal,"Jaipur, Rajasthan",,Delivered
+CUST1334,Aditya Chopra,31.0,Female,PRD5532,Clothing,Slim Fit Jeans,2091.49,1.0,ORD11162,2024-07-20,Cash on Delivery,"Pune, Maharashtra",3.0,Shipped
+CUST1342,Meera Sharma,32.0,Male,PRD8896,Beauty,Matte Lipstick,1000.07,1.0,ORD11163,2023-06-23,Credit Card,"Pune, Maharashtra",,Delivered
+CUST1209,Lucas Chopra,45.0,,PRD4636,Electronics,Gaming Mouse,1701.75,2.0,ORD11164,2024-09-25,Debit Card,"Chennai, Tamil Nadu",5.0,Cancelled
+CUST1058,Rhea Wilson,55.0,M,PRD2162,Sports,Yoga Mat Pro,14985.0,2.0,ORD11165,2023-10-26,Credit Card,"Pune, Maharashtra",1.0,Delivered
+CUST1052,Priya Verma,31.0,F,PRD1071,Sports,Badminton Racket,1646.72,2.0,ORD11166,2024-10-28,Debit Card,"Chennai, Tamil Nadu",1.0,Delivered
+CUST1167,Aarav Iyer,29.0,M,PRD6239,Clothing,Formal Shirt,1424.76,1.0,ORD11167,2024-02-11,Debit Card,"Jaipur, Rajasthan",5.0,Returned
+CUST1057,Vikram Wilson,25.0,M,PRD3142,Electronics,Bluetooth Speaker,2080.35,3.0,ORD11168,2024-06-12,Debit Card,"Kolkata, West Bengal",5.0,Delivered
+CUST1344,Ava Taylor,24.0,male,PRD8791,Home & Kitchen,Electric Kettle,1490.85,5.0,ORD11169,2024-07-25,PayPal,"Bengaluru, Karnataka",,Delivered
+CUST1227,Ananya Sharma,26.0,Male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2549.41,1.0,ORD11170,2023-04-16,Debit Card,"Delhi, Delhi",3.0,Delivered
+CUST1272,Aarav Singh,28.0,M,PRD3550,Sports,Resistance Bands,496.92,1.0,ORD11171,2024-03-11,PayPal,"Jaipur, Rajasthan",2.0,Shipped
+CUST1096,Isha Miller,43.0,Female,PRD3413,Home & Kitchen,Coffee Maker,,2.0,ORD11172,2023-07-22,Debit Card,"Ahmedabad, Gujarat",5.0,Delivered
+CUST1174,Rahul Wilson,39.0,male,PRD4647,Home & Kitchen,Blender Mixer,2014.61,1.0,ORD11173,2023-08-20,PayPal,"Mumbai, Maharashtra",4.5,Processing
+CUST1202,Varun Nair,41.0,male,PRD1388,Home & Kitchen,Air Fryer,6186.21,2.0,ORD11174,2023-03-16,Cash on Delivery,"Kolkata, West Bengal",3.0,Processing
+CUST1231,Tanvi Mehta,41.0,F,PRD4244,Home & Kitchen,Non-stick Cookware Set,2561.59,2.0,ORD11175,2024-08-23,UPI,"Chennai, Tamil Nadu",1.0,Processing
+CUST1015,Sneha Miller,47.0,Female,PRD5751,Books,Machine Learning Hands-on,777.67,3.0,ORD11176,2024-11-05,Credit Card,"Delhi, Delhi",4.0,Returned
+CUST1190,James Davis,25.0,Female,PRD5665,Clothing,Cotton T-Shirt,783.41,1.0,ORD11177,2024-05-09,Cash on Delivery,"Jaipur, Rajasthan",3.0,Delivered
+CUST1054,Ethan Williams,-5.0,male,PRD5665,Clothing,Cotton T-Shirt,802.96,1.0,ORD11178,2023-09-01,UPI,"Bengaluru, Karnataka",3.0,Shipped
+CUST1040,Diya Williams,36.0,Male,PRD4805,Clothing,Track Pants,947.56,1.0,ORD11179,2023-01-11,Credit Card,"Chennai, Tamil Nadu",2.0,Delivered
+CUST1212,Ethan Jones,26.0,male,PRD4748,Electronics,Tablet 10-inch,16173.39,1.0,ORD11180,2023-09-01,Cash on Delivery,"Mumbai, Maharashtra",3.0,Delivered
+CUST1032,Pooja Johnson,32.0,M,PRD4636,Electronics,Gaming Mouse,1522.24,1.0,ORD11181,2023-08-06,Debit Card,"Chandigarh, Punjab",4.0,Delivered
+CUST1179,James Patel,18.0,Male,PRD4805,Clothing,Track Pants,997.78,1.0,ORD11182,2023-03-15,Cash on Delivery,"Chennai, Tamil Nadu",2.0,Processing
+CUST1251,Aditya Taylor,36.0,,PRD5675,Books,Python for Data Science,633.97,,ORD11183,2024-12-16,PayPal,"Mumbai, Maharashtra",4.5,Delivered
+CUST1341,Liam Iyer,50.0,Male,PRD5532,Clothing,Slim Fit Jeans,2187.22,2.0,ORD11184,2023-04-20,UPI,"Chennai, Tamil Nadu",1.0,Processing
+CUST1116,Pooja Singh,34.0,Male,PRD5532,Clothing,Slim Fit Jeans,2203.69,1.0,ORD11185,2023-06-12,Credit Card,"Chandigarh, Punjab",2.0,Delivered
+CUST1146,Amit Patel,32.0,female,PRD3550,Sports,Resistance Bands,473.26,1.0,ORD11186,2024-04-06,Debit Card,"Kolkata, West Bengal",4.5,Shipped
+CUST1068,Aarav Wilson,,F,PRD5055,Sports,Dumbbell Set 10kg,2193.23,1.0,ORD11187,2023-02-06,PayPal,"Pune, Maharashtra",4.0,Delivered
+CUST1314,Rhea Taylor,26.0,Female,PRD5207,Beauty,Moisturizing Cream,627.15,1.0,ORD11188,2024-02-01,Debit Card,"Chandigarh, Punjab",3.0,Cancelled
+CUST1048,Varun Reddy,43.0,Male,PRD5055,Sports,Dumbbell Set 10kg,2150.42,1.0,ORD11189,2024-06-08,Debit Card,"Kolkata, West Bengal",3.0,Shipped
+CUST1164,Vikram Miller,31.0,male,PRD5675,Books,Python for Data Science,657.89,1.0,ORD11190,2023-01-01,Cash on Delivery,"Chennai, Tamil Nadu",2.0,Delivered
+CUST1032,Rahul Singh,40.0,M,PRD1388,Home & Kitchen,Air Fryer,6478.61,5.0,ORD11191,2023-10-21,UPI,"Hyderabad, Telangana",1.0,Processing
+CUST1227,Meera Moore,20.0,male,PRD3655,Home & Kitchen,LED Desk Lamp,843.56,2.0,ORD11192,2024-09-08,UPI,"Jaipur, Rajasthan",4.5,Delivered
+CUST1004,Neha Wilson,48.0,Female,PRD5055,Sports,Dumbbell Set 10kg,2177.69,1.0,ORD11193,2024-09-14,Credit Card,"Pune, Maharashtra",1.0,Delivered
+CUST1175,Siddharth Wilson,19.0,female,PRD3655,Home & Kitchen,LED Desk Lamp,974.35,3.0,ORD11194,2023-12-18,UPI,"Kolkata, West Bengal",4.0,Delivered
+CUST1208,Ava Singh,,Female,PRD5207,Beauty,Moisturizing Cream,593.37,1.0,ORD11195,2024-11-28,UPI,"Delhi, Delhi",4.0,Delivered
+CUST1285,Pooja Singh,58.0,female,PRD5872,Clothing,Hooded Sweatshirt,1587.3,2.0,ORD11196,2023-05-15,Cash on Delivery,"Kolkata, West Bengal",3.0,Delivered
+CUST1331,Aarav Verma,19.0,M,PRD3102,Electronics,Fast Charger 65W,901.96,,ORD11197,2024-12-21,PayPal,"Bengaluru, Karnataka",4.0,Delivered
+CUST1069,Tanvi Brown,,M,PRD1585,Electronics,USB-C Hub,1935.66,1.0,ORD11198,2023-01-01,Cash on Delivery,"Delhi, Delhi",,Returned
+CUST1044,Varun Nair,21.0,male,PRD5532,Clothing,Slim Fit Jeans,1842.5,2.0,ORD11199,2023-07-28,Credit Card,"Kolkata, West Bengal",4.5,Delivered
+CUST1237,Meera Patel,42.0,F,PRD4519,Books,Deep Work,514.76,3.0,ORD11200,2023-07-10,Cash on Delivery,"Pune, Maharashtra",,Processing
+CUST1040,Diya Williams,36.0,Male,PRD4805,Clothing,Track Pants,947.56,1.0,ORD11179,2023-01-11,Credit Card,"Chennai, Tamil Nadu",2.0,Delivered
+CUST1158,Tanvi Chopra,37.0,F,PRD5872,Clothing,Hooded Sweatshirt,1510.58,2.0,ORD10866,2024-05-03,Credit Card,"Kolkata, West Bengal",5.0,Shipped
+CUST1297,Varun Nair,31.0,F,PRD8658,Books,The Psychology of Money,441.06,1.0,ORD10102,2023-10-23,Debit Card,"Mumbai, Maharashtra",4.0,Delivered
+CUST1165,Liam Johnson,30.0,Female,PRD4647,Home & Kitchen,Blender Mixer,2090.95,2.0,ORD10440,2024-04-07,Debit Card,"Kolkata, West Bengal",4.0,Shipped
+CUST1190,Rahul Jones,31.0,F,PRD4647,Home & Kitchen,Blender Mixer,1829.36,1.0,ORD10059,2024-02-28,Credit Card,"Hyderabad, Telangana",4.5,Delivered
+CUST1329,Tanvi Wilson,34.0,Female,PRD3655,Home & Kitchen,LED Desk Lamp,877.66,1.0,ORD11121,2023-09-25,Cash on Delivery,"Ahmedabad, Gujarat",4.0,Shipped
+CUST1339,Rahul Chopra,34.0,M,PRD6904,Beauty,Vitamin C Serum,756.95,1.0,ORD10324,2023-01-24,PayPal,"Kolkata, West Bengal",4.5,Cancelled
+CUST1331,Emma Wilson,38.0,female,PRD5532,Clothing,Slim Fit Jeans,1823.78,2.0,ORD10975,2023-04-06,Credit Card,"Mumbai, Maharashtra",1.0,Delivered
+CUST1235,Vikram Miller,31.0,Female,PRD3142,Electronics,Bluetooth Speaker,2274.77,2.0,ORD10412,2023-07-04,UPI,"Chandigarh, Punjab",4.5,Delivered
+CUST1011,Rahul Brown,42.0,Male,PRD2162,Sports,Yoga Mat Pro,912.53,2.0,ORD10856,2023-09-28,Cash on Delivery,"Ahmedabad, Gujarat",5.0,Processing
+CUST1159,Emma Smith,37.0,Male,PRD1423,Electronics,Wireless Earbuds,2779.83,2.0,ORD10821,2023-03-24,UPI,"Pune, Maharashtra",4.5,Delivered
+CUST1207,Sophia Miller,-5.0,Male,PRD8656,Clothing,Athletic Shorts,949.66,2.0,ORD10045,2023-04-09,UPI,"Ahmedabad, Gujarat",4.0,Delivered
+CUST1320,Liam Brown,45.0,female,PRD2552,Beauty,Sunscreen SPF 50,663.27,4.0,ORD10050,2023-10-03,UPI,"Hyderabad, Telangana",4.0,Delivered
+CUST1038,Ananya Wilson,30.0,male,PRD1388,Home & Kitchen,Air Fryer,149975.0,2.0,ORD10850,2024-05-21,Debit Card,"Delhi, Delhi",2.0,Processing
+CUST1179,Priya Mehta,29.0,Female,PRD2162,Sports,Yoga Mat Pro,925.69,1.0,ORD10241,2023-05-11,Cash on Delivery,"Chennai, Tamil Nadu",4.5,Delivered
+CUST1253,Isha Chopra,36.0,female,PRD5665,Clothing,Cotton T-Shirt,10485.0,3.0,ORD10171,2023-06-23,UPI,"Mumbai, Maharashtra",,Processing
+CUST1081,Aditya Verma,43.0,male,PRD8896,Beauty,Matte Lipstick,993.96,2.0,ORD10524,2023-10-27,PayPal,"Ahmedabad, Gujarat",5.0,Shipped
+CUST1334,Neha Jones,,F,PRD8658,Books,The Psychology of Money,370.34,2.0,ORD10766,2023-02-24,Debit Card,"Chandigarh, Punjab",3.0,Returned
+CUST1288,Lucas Nair,27.0,female,PRD5675,Books,Python for Data Science,620.49,5.0,ORD10839,2023-03-24,PayPal,"Mumbai, Maharashtra",3.0,Processing
+CUST1040,Isha Sharma,47.0,Male,PRD4244,Home & Kitchen,Non-stick Cookware Set,2359.8,1.0,ORD10424,2023-12-01,PayPal,"Pune, Maharashtra",4.0,Delivered
+CUST1220,Rhea Mehta,43.0,female,PRD1423,Electronics,Wireless Earbuds,3388.86,4.0,ORD10381,2023-11-16,Debit Card,"Hyderabad, Telangana",3.0,Delivered
+CUST1100,Aarav Davis,40.0,female,PRD2425,Beauty,Face Cleanser,404.37,1.0,ORD10610,2023-12-23,PayPal,"Kolkata, West Bengal",1.0,Returned
+CUST1104,Rahul Mehta,18.0,Female,PRD4647,Home & Kitchen,Blender Mixer,1906.54,1.0,ORD10677,2023-05-04,Debit Card,"Bengaluru, Karnataka",4.0,Cancelled
+CUST1164,Vikram Sharma,34.0,F,PRD5279,Books,Atomic Habits,566.87,1.0,ORD10345,2023-10-22,Cash on Delivery,"Ahmedabad, Gujarat",1.0,Cancelled
+CUST1095,Vikram Davis,22.0,male,PRD2552,Beauty,Sunscreen SPF 50,701.39,,ORD10110,2023-11-12,Credit Card,"Delhi, Delhi",2.0,Shipped
+CUST1051,Lucas Smith,36.0,male,PRD1071,Sports,Badminton Racket,1364.0,4.0,ORD10278,2024-05-11,PayPal,"Bengaluru, Karnataka",,Cancelled
+CUST1304,Meera Patel,19.0,F,PRD5207,Beauty,Moisturizing Cream,595.26,1.0,ORD10678,2024-11-11,Cash on Delivery,"Pune, Maharashtra",3.0,Delivered
+CUST1300,Mia Verma,37.0,male,PRD4519,Books,Deep Work,416.04,2.0,ORD10571,2024-05-20,Debit Card,"Chandigarh, Punjab",3.0,Returned
+CUST1209,Ananya Smith,23.0,M,PRD5279,Books,Atomic Habits,490.03,1.0,ORD10359,2024-05-15,PayPal,"Hyderabad, Telangana",3.0,Returned
+CUST1022,Isha Nair,27.0,M,PRD1585,Electronics,USB-C Hub,1820.52,3.0,ORD10599,2023-09-15,Cash on Delivery,"Delhi, Delhi",3.0,Processing
+CUST1159,Lucas Taylor,21.0,female,PRD6239,Clothing,Formal Shirt,1256.29,8.0,ORD10391,2024-02-25,UPI,"Chandigarh, Punjab",5.0,Shipped
+CUST1083,James Verma,33.0,male,PRD4636,Electronics,Gaming Mouse,1506.45,1.0,ORD10894,2024-06-24,Cash on Delivery,"Ahmedabad, Gujarat",4.0,Returned
+CUST1128,Sneha Mehta,30.0,Female,PRD8658,Books,The Psychology of Money,447.24,1.0,ORD10693,2024-03-11,UPI,"Bengaluru, Karnataka",1.0,Cancelled
+CUST1094,Isha Smith,46.0,F,PRD4519,Books,Deep Work,501.24,1.0,ORD10728,2023-02-13,Credit Card,"Jaipur, Rajasthan",2.0,Delivered
+CUST1156,Rhea Taylor,54.0,Female,PRD5207,Beauty,Moisturizing Cream,614.69,1.0,ORD10363,2023-09-18,Credit Card,"Kolkata, West Bengal",1.0,Shipped

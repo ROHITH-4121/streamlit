@@ -1,0 +1,38 @@
+Product ID,Product Name,Product Category,Base Price,Stock Quantity
+PRD1423,Wireless Earbuds,Electronics,2999,487
+PRD8991,Smart Watch,Electronics,4999,225
+PRD3142,Bluetooth Speaker,Electronics,1999,485
+PRD4636,Gaming Mouse,Electronics,1499,88
+PRD3102,Fast Charger 65W,Electronics,999,130
+PRD1585,USB-C Hub,Electronics,1899,78
+PRD7299,Noise Cancelling Headphones,Electronics,8999,245
+PRD4748,Tablet 10-inch,Electronics,15999,381
+PRD5665,Cotton T-Shirt,Clothing,699,83
+PRD5532,Slim Fit Jeans,Clothing,1999,122
+PRD5872,Hooded Sweatshirt,Clothing,1499,344
+PRD6239,Formal Shirt,Clothing,1299,252
+PRD8656,Athletic Shorts,Clothing,899,70
+PRD5594,Denim Jacket,Clothing,2999,240
+PRD4805,Track Pants,Clothing,999,329
+PRD1388,Air Fryer,Home & Kitchen,5999,267
+PRD3413,Coffee Maker,Home & Kitchen,3499,494
+PRD8791,Electric Kettle,Home & Kitchen,1299,306
+PRD4244,Non-stick Cookware Set,Home & Kitchen,2499,23
+PRD4647,Blender Mixer,Home & Kitchen,1999,87
+PRD3655,LED Desk Lamp,Home & Kitchen,899,462
+PRD6904,Vitamin C Serum,Beauty,799,97
+PRD5207,Moisturizing Cream,Beauty,599,126
+PRD2552,Sunscreen SPF 50,Beauty,649,251
+PRD4991,Herbal Shampoo,Beauty,499,357
+PRD8896,Matte Lipstick,Beauty,899,433
+PRD2425,Face Cleanser,Beauty,399,303
+PRD2162,Yoga Mat Pro,Sports,999,38
+PRD5055,Dumbbell Set 10kg,Sports,1999,28
+PRD3550,Resistance Bands,Sports,499,372
+PRD1071,Badminton Racket,Sports,1499,426
+PRD3745,Hydration Water Bottle,Sports,599,417
+PRD5675,Python for Data Science,Books,650,400
+PRD5751,Machine Learning Hands-on,Books,850,229
+PRD5279,Atomic Habits,Books,499,171
+PRD4519,Deep Work,Books,450,431
+PRD8658,The Psychology of Money,Books,399,149
